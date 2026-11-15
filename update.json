@@ -1,0 +1,13 @@
+{
+  "channels": {},
+  "blocked": {
+    "channels": [],
+    "codes": [],
+    "below": 0,
+    "message": {
+      "de": "Die Testzeit dieser Version ist vorbei. Danke fürs Testen!",
+      "en": "The test period of this version is over. Thank you for testing!",
+      "ru": "Срок тестирования этой версии истёк. Спасибо за тестирование!"
+    }
+  }
+}

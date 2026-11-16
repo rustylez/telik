@@ -4,6 +4,655 @@
   {
    "away": {
     "label": {
+     "de": "Slowakei",
+     "en": "Slovakia",
+     "ru": "Словакия"
+    },
+    "name": "Slovakia",
+    "names": [
+     "Slovakia",
+     "Slowakei",
+     "Словакия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Kasachstan",
+     "en": "Kazakhstan",
+     "ru": "Казахстан"
+    },
+    "name": "Kazakhstan",
+    "names": [
+     "Kazakhstan",
+     "Kasachstan",
+     "Казахстан"
+    ]
+   },
+   "id": "thesportsdb:2442850",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794841200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Moldau",
+     "en": "Moldova",
+     "ru": "Молдова"
+    },
+    "name": "Moldova",
+    "names": [
+     "Moldova",
+     "Moldau",
+     "Молдова"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Färöer",
+     "en": "Faroe Islands",
+     "ru": "Фарерские острова"
+    },
+    "name": "Faroe Islands",
+    "names": [
+     "Faroe Islands",
+     "Färöer",
+     "Фарерские острова"
+    ]
+   },
+   "id": "thesportsdb:2442851",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794841200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Bulgarien",
+     "en": "Bulgaria",
+     "ru": "Болгария"
+    },
+    "name": "Bulgaria",
+    "names": [
+     "Bulgaria",
+     "Bulgarien",
+     "Болгария"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Estland",
+     "en": "Estonia",
+     "ru": "Эстония"
+    },
+    "name": "Estonia",
+    "names": [
+     "Estonia",
+     "Estland",
+     "Эстония"
+    ]
+   },
+   "id": "thesportsdb:2442852",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794848400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Liechtenstein",
+     "en": "Liechtenstein",
+     "ru": "Лихтенштейн"
+    },
+    "name": "Liechtenstein",
+    "names": [
+     "Liechtenstein",
+     "Лихтенштейн"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Litauen",
+     "en": "Lithuania",
+     "ru": "Литва"
+    },
+    "name": "Lithuania",
+    "names": [
+     "Lithuania",
+     "Litauen",
+     "Литва"
+    ]
+   },
+   "id": "thesportsdb:2442853",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794848400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Luxemburg",
+     "en": "Luxembourg",
+     "ru": "Люксембург"
+    },
+    "name": "Luxembourg",
+    "names": [
+     "Luxembourg",
+     "Luxemburg",
+     "Люксембург"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Island",
+     "en": "Iceland",
+     "ru": "Исландия"
+    },
+    "name": "Iceland",
+    "names": [
+     "Iceland",
+     "Island",
+     "Исландия"
+    ]
+   },
+   "id": "thesportsdb:2475311",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794848400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Niederlande",
+     "en": "Netherlands",
+     "ru": "Нидерланды"
+    },
+    "name": "Netherlands",
+    "names": [
+     "Netherlands",
+     "Niederlande",
+     "Нидерланды",
+     "Holland",
+     "Голландия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Deutschland",
+     "en": "Germany",
+     "ru": "Германия"
+    },
+    "name": "Germany",
+    "names": [
+     "Germany",
+     "Deutschland",
+     "Германия"
+    ]
+   },
+   "id": "thesportsdb:2442854",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794858300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Serbien",
+     "en": "Serbia",
+     "ru": "Сербия"
+    },
+    "name": "Serbia",
+    "names": [
+     "Serbia",
+     "Serbien",
+     "Сербия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Griechenland",
+     "en": "Greece",
+     "ru": "Греция"
+    },
+    "name": "Greece",
+    "names": [
+     "Greece",
+     "Griechenland",
+     "Греция"
+    ]
+   },
+   "id": "thesportsdb:2442855",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794858300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Schottland",
+     "en": "Scotland",
+     "ru": "Шотландия"
+    },
+    "name": "Scotland",
+    "names": [
+     "Scotland",
+     "Schottland",
+     "Шотландия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Schweiz",
+     "en": "Switzerland",
+     "ru": "Швейцария"
+    },
+    "name": "Switzerland",
+    "names": [
+     "Switzerland",
+     "Schweiz",
+     "Швейцария"
+    ]
+   },
+   "id": "thesportsdb:2475312",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794858300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Slowenien",
+     "en": "Slovenia",
+     "ru": "Словения"
+    },
+    "name": "Slovenia",
+    "names": [
+     "Slovenia",
+     "Slowenien",
+     "Словения"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Nordmazedonien",
+     "en": "North Macedonia",
+     "ru": "Северная Македония"
+    },
+    "name": "North Macedonia",
+    "names": [
+     "North Macedonia",
+     "Nordmazedonien",
+     "Северная Македония"
+    ]
+   },
+   "id": "thesportsdb:2475313",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794858300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Malta",
+     "en": "Malta",
+     "ru": "Мальта"
+    },
+    "name": "Malta",
+    "names": [
+     "Malta",
+     "Мальта"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Gibraltar",
+     "en": "Gibraltar",
+     "ru": "Гибралтар"
+    },
+    "name": "Gibraltar",
+    "names": [
+     "Gibraltar",
+     "Гибралтар"
+    ]
+   },
+   "id": "thesportsdb:2475314",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794858300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Portugal",
+     "en": "Portugal",
+     "ru": "Португалия"
+    },
+    "name": "Portugal",
+    "names": [
+     "Portugal",
+     "Португалия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Wales",
+     "en": "Wales",
+     "ru": "Уэльс"
+    },
+    "name": "Wales",
+    "names": [
+     "Wales",
+     "Уэльс"
+    ]
+   },
+   "id": "thesportsdb:2442856",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Norwegen",
+     "en": "Norway",
+     "ru": "Норвегия"
+    },
+    "name": "Norway",
+    "names": [
+     "Norway",
+     "Norwegen",
+     "Норвегия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Dänemark",
+     "en": "Denmark",
+     "ru": "Дания"
+    },
+    "name": "Denmark",
+    "names": [
+     "Denmark",
+     "Dänemark",
+     "Дания"
+    ]
+   },
+   "id": "thesportsdb:2442857",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Georgien",
+     "en": "Georgia",
+     "ru": "Грузия"
+    },
+    "name": "Georgia",
+    "names": [
+     "Georgia",
+     "Georgien",
+     "Грузия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Ukraine",
+     "en": "Ukraine",
+     "ru": "Украина"
+    },
+    "name": "Ukraine",
+    "names": [
+     "Ukraine",
+     "Украина"
+    ]
+   },
+   "id": "thesportsdb:2442858",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Nordirland",
+     "en": "Northern Ireland",
+     "ru": "Северная Ирландия"
+    },
+    "name": "N.Ireland",
+    "names": [
+     "N.Ireland",
+     "Nordirland",
+     "Northern Ireland",
+     "Северная Ирландия",
+     "Сев. Ирландия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Ungarn",
+     "en": "Hungary",
+     "ru": "Венгрия"
+    },
+    "name": "Hungary",
+    "names": [
+     "Hungary",
+     "Ungarn",
+     "Венгрия"
+    ]
+   },
+   "id": "thesportsdb:2442859",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Österreich",
+     "en": "Austria",
+     "ru": "Австрия"
+    },
+    "name": "Austria",
+    "names": [
+     "Austria",
+     "Österreich",
+     "Австрия"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Israel",
+     "en": "Israel",
+     "ru": "Израиль"
+    },
+    "name": "Israel",
+    "names": [
+     "Israel",
+     "Израиль"
+    ]
+   },
+   "id": "thesportsdb:2442860",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Kosovo",
+     "en": "Kosovo",
+     "ru": "Косово"
+    },
+    "name": "Kosovo",
+    "names": [
+     "Kosovo",
+     "Республика Косово",
+     "Косово"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Irland",
+     "en": "Ireland",
+     "ru": "Ирландия"
+    },
+    "name": "Ireland",
+    "names": [
+     "Ireland",
+     "Irland",
+     "Ирландия"
+    ]
+   },
+   "id": "thesportsdb:2442861",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Schweden",
+     "en": "Sweden",
+     "ru": "Швеция"
+    },
+    "name": "Sweden",
+    "names": [
+     "Sweden",
+     "Schweden",
+     "Швеция"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Polen",
+     "en": "Poland",
+     "ru": "Польша"
+    },
+    "name": "Poland",
+    "names": [
+     "Poland",
+     "Polen",
+     "Польша"
+    ]
+   },
+   "id": "thesportsdb:2442862",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Rumänien",
+     "en": "Romania",
+     "ru": "Румыния"
+    },
+    "name": "Romania",
+    "names": [
+     "Romania",
+     "Rumänien",
+     "Румыния"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Bosnien und Herzegowina",
+     "en": "Bosnia and Herzegovina",
+     "ru": "Босния и Герцеговина"
+    },
+    "name": "Bosnia-Herzegovina",
+    "names": [
+     "Bosnia-Herzegovina",
+     "Bosnien und Herzegowina",
+     "Bosnia and Herzegovina",
+     "Босния и Герцеговина",
+     "Босния",
+     "Bosnien-Herzegowina",
+     "Bosnien"
+    ]
+   },
+   "id": "thesportsdb:2442863",
+   "league": "Nations League",
+   "leagueLabel": {
+    "ru": "Лига наций"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1794944700
+  },
+  {
+   "away": {
+    "label": {
      "de": "Krylja Sowetow Samara",
      "en": "FC Krylia Sovetov Samara",
      "ru": "Крылья Советов"
@@ -2837,7 +3486,7 @@
    "start": 1795377600
   }
  ],
- "generated": 1794831902,
+ "generated": 1794834922,
  "license": "Fixtures marked OpenLigaDB: www.openligadb.de, ODbL 1.0. Fixtures marked TheSportsDB: www.thesportsdb.com. Team names: Wikidata, CC0.",
  "version": 1
 }

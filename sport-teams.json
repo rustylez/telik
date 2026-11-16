@@ -364,6 +364,25 @@
    "VCF"
   ]
  },
+ "Q1246": {
+  "label": {
+   "de": "Kosovo",
+   "en": "Kosovo",
+   "ru": "Республика Косово"
+  },
+  "names": [
+   "Kosovo",
+   "Kosovo",
+   "Республика Косово",
+   "Republik Kosovo",
+   "Republic of Kosovo",
+   "RKS",
+   "Косово (республика)",
+   "Косово (частично-признанное государство)",
+   "Косово (государство)",
+   "Косово"
+  ]
+ },
  "Q126334": {
   "label": {
    "de": "Racing Straßburg",
@@ -466,6 +485,20 @@
    "Fakel Woronesch",
    "FC Fakel Voronezh",
    "Fakel Voronezh Logo"
+  ]
+ },
+ "Q1410": {
+  "label": {
+   "de": "Gibraltar",
+   "en": "Gibraltar",
+   "ru": "Гибралтар"
+  },
+  "names": [
+   "Gibraltar",
+   "Gibraltar",
+   "Гибралтар",
+   "gi",
+   "Gib"
   ]
  },
  "Q141971": {
@@ -734,6 +767,28 @@
    "Футбольный клуб \"Ростов\""
   ]
  },
+ "Q183": {
+  "label": {
+   "de": "Deutschland",
+   "en": "Germany",
+   "ru": "Германия"
+  },
+  "names": [
+   "Германия",
+   "Deutschland",
+   "Germany",
+   "Bundesrepublik Deutschland",
+   "BR Deutschland",
+   "Федеративная Республика Германия",
+   "ФРГ",
+   "Дойчланд",
+   "Federal Republic of Germany",
+   "DE",
+   "DEU",
+   "FRG",
+   "BRD"
+  ]
+ },
  "Q185163": {
   "label": {
    "de": "OGC Nizza",
@@ -909,6 +964,23 @@
    "AtalantaB.C."
   ]
  },
+ "Q189": {
+  "label": {
+   "de": "Island",
+   "en": "Iceland",
+   "ru": "Исландия"
+  },
+  "names": [
+   "Исландия",
+   "Island",
+   "Iceland",
+   "Республика Исландия",
+   "Republic of Iceland",
+   "Ysland",
+   "Isl.",
+   "Icelandic republic"
+  ]
+ },
  "Q1893": {
   "label": {
    "de": "FC Bologna",
@@ -939,6 +1011,26 @@
    "Cagliari Calcio",
    "Кальяри",
    "Cagliari"
+  ]
+ },
+ "Q191": {
+  "label": {
+   "de": "Estland",
+   "en": "Estonia",
+   "ru": "Эстония"
+  },
+  "names": [
+   "Эстония",
+   "Estland",
+   "Estonia",
+   "Republic of Estonia",
+   "Estland",
+   "ee",
+   "Eesti Vabariik",
+   "Эстонская Республика",
+   "Республика Эстония",
+   "Ээсти",
+   "Republik Estland"
   ]
  },
  "Q191843": {
@@ -1150,6 +1242,21 @@
    "Sky Blues"
   ]
  },
+ "Q20": {
+  "label": {
+   "de": "Norwegen",
+   "en": "Norway",
+   "ru": "Норвегия"
+  },
+  "names": [
+   "Норвегия",
+   "Norwegen",
+   "Norway",
+   "Königreich Norwegen",
+   "Королевство Норвегия",
+   "Kingdom of Norway"
+  ]
+ },
  "Q2074": {
   "label": {
    "de": "CFC Genua",
@@ -1205,6 +1312,94 @@
    "Le Mans U.C. 72"
   ]
  },
+ "Q212": {
+  "label": {
+   "de": "Ukraine",
+   "en": "Ukraine",
+   "ru": "Украина"
+  },
+  "names": [
+   "Украина",
+   "Ukraine",
+   "Ukraine",
+   "Ukrainia",
+   "Ukr.",
+   "Ukraïna"
+  ]
+ },
+ "Q214": {
+  "label": {
+   "de": "Slowakei",
+   "en": "Slovakia",
+   "ru": "Словакия"
+  },
+  "names": [
+   "Словакия",
+   "Slowakei",
+   "Slovakia",
+   "Slowakische Republik",
+   "Slowakien",
+   "sk",
+   "Slovak Republic",
+   "SVK",
+   "SK",
+   "Slovensko",
+   "Словацкая Республика"
+  ]
+ },
+ "Q215": {
+  "label": {
+   "de": "Slowenien",
+   "en": "Slovenia",
+   "ru": "Словения"
+  },
+  "names": [
+   "Словения",
+   "Slowenien",
+   "Slovenia",
+   "Республика Словения",
+   "Slovenija",
+   "si",
+   "svn",
+   "slo",
+   "Republic of Slovenia",
+   "Republik Slowenien"
+  ]
+ },
+ "Q217": {
+  "label": {
+   "de": "Moldau",
+   "en": "Moldova",
+   "ru": "Молдова"
+  },
+  "names": [
+   "Moldova",
+   "Moldau",
+   "Молдова",
+   "Republic of Moldova",
+   "Moldavia",
+   "Republica Moldova",
+   "Moldawien",
+   "Republik Moldau",
+   "Республика Молдова",
+   "Республика Молдавия",
+   "Молдавия"
+  ]
+ },
+ "Q218": {
+  "label": {
+   "de": "Rumänien",
+   "en": "Romania",
+   "ru": "Румыния"
+  },
+  "names": [
+   "Румыния",
+   "Rumänien",
+   "Romania",
+   "Roumania",
+   "Rumania"
+  ]
+ },
  "Q218372": {
   "label": {
    "de": "Stade Brest",
@@ -1222,6 +1417,38 @@
    "Брест 29"
   ]
  },
+ "Q219": {
+  "label": {
+   "de": "Bulgarien",
+   "en": "Bulgaria",
+   "ru": "Болгария"
+  },
+  "names": [
+   "Болгария",
+   "Bulgarien",
+   "Bulgaria",
+   "Республика Болгария",
+   "Republic of Bulgaria",
+   "Bulgarian Republic"
+  ]
+ },
+ "Q22": {
+  "label": {
+   "de": "Schottland",
+   "en": "Scotland",
+   "ru": "Шотландия"
+  },
+  "names": [
+   "Шотландия",
+   "Schottland",
+   "Scotland",
+   "Альба",
+   "Alba",
+   "Scotland, United Kingdom",
+   "Caledonia",
+   "Scot"
+  ]
+ },
  "Q220854": {
   "label": {
    "de": "FK Krasnodar",
@@ -1235,6 +1462,39 @@
    "Футбольный клуб «Краснодар»",
    "ФК Краснодар",
    "ФК «Краснода́р»"
+  ]
+ },
+ "Q221": {
+  "label": {
+   "de": "Nordmazedonien",
+   "en": "North Macedonia",
+   "ru": "Северная Македония"
+  },
+  "names": [
+   "Северная Македония",
+   "Nordmazedonien",
+   "North Macedonia",
+   "Македония",
+   "Республика Скопье",
+   "Республика Северная Македония",
+   "БЮРМ",
+   "Республика Македония",
+   "Бывшая Югославская Республика Македония",
+   "Вардарская Македония",
+   "Makedonien",
+   "Republik Nordmazedonien",
+   "Republik Mazedonien",
+   "Mazedonien",
+   "Ehemalige Jugoslawische Republik Mazedonien",
+   "Republic of North Macedonia",
+   "FYR Macedonia",
+   "Former Yugoslav Republic of Macedonia",
+   "Republic of Macedonia",
+   "MK",
+   "MKD",
+   "Makedonia",
+   "Macedonia",
+   "NM"
   ]
  },
  "Q223620": {
@@ -1254,6 +1514,26 @@
    "Deportivo Alaves Soccer",
    "Alaves Football",
    "Alaves Soccer"
+  ]
+ },
+ "Q225": {
+  "label": {
+   "de": "Bosnien und Herzegowina",
+   "en": "Bosnia and Herzegovina",
+   "ru": "Босния и Герцеговина"
+  },
+  "names": [
+   "Босния и Герцеговина",
+   "Bosnien und Herzegowina",
+   "Bosnia and Herzegovina",
+   "Bosnia-Herzegovina",
+   "Bosnia & Herzegovina",
+   "ba",
+   "Bosnia and Hercegovina",
+   "B&H",
+   "Босния",
+   "БиГ",
+   "Bosnien-Herzegowina"
   ]
  },
  "Q22707": {
@@ -1278,6 +1558,59 @@
    "Turn- und Sportgemeinschaft 1899 Hoffenheim e.V.",
    "Hoffenheim",
    "Die Kraichgauer"
+  ]
+ },
+ "Q230": {
+  "label": {
+   "de": "Georgien",
+   "en": "Georgia",
+   "ru": "Грузия"
+  },
+  "names": [
+   "Грузия",
+   "Georgien",
+   "Georgia",
+   "Grusien",
+   "Grusinien",
+   "Republik Georgien",
+   "Республика Грузия",
+   "Сакартвело",
+   "Republic of Georgia",
+   "Georgia (country)",
+   "Georgia (Sakartvelo)",
+   "Sakartvelo"
+  ]
+ },
+ "Q232": {
+  "label": {
+   "de": "Kasachstan",
+   "en": "Kazakhstan",
+   "ru": "Казахстан"
+  },
+  "names": [
+   "Kazakhstan",
+   "Kasachstan",
+   "Казахстан",
+   "Republic of Kazakhstan",
+   "kz",
+   "Republic of Qazaqstan",
+   "Республика Казахстан",
+   "РК"
+  ]
+ },
+ "Q233": {
+  "label": {
+   "de": "Malta",
+   "en": "Malta",
+   "ru": "Мальта"
+  },
+  "names": [
+   "Malta",
+   "Malta",
+   "Мальта",
+   "Republic of Malta",
+   "Malta",
+   "Республика Мальта"
   ]
  },
  "Q240444": {
@@ -1312,6 +1645,40 @@
    "FK Dynamo Machatschkala",
    "Динамо Махачкала",
    "Темп"
+  ]
+ },
+ "Q25": {
+  "label": {
+   "de": "Wales",
+   "en": "Wales",
+   "ru": "Уэльс"
+  },
+  "names": [
+   "Уэльс",
+   "Wales",
+   "Wales",
+   "Камбрия",
+   "Валлис"
+  ]
+ },
+ "Q26": {
+  "label": {
+   "de": "Nordirland",
+   "en": "Northern Ireland",
+   "ru": "Северная Ирландия"
+  },
+  "names": [
+   "Northern Ireland",
+   "Северная Ирландия",
+   "Nordirland",
+   "NIR",
+   "UKN",
+   "North Ireland",
+   "N. Ireland",
+   "NI",
+   "The North",
+   "Tuaisceart Éireann",
+   "The Six Counties"
   ]
  },
  "Q2609": {
@@ -1400,6 +1767,23 @@
    "Parma Associazione Calcio",
    "AC Parma",
    "Parma Calcio"
+  ]
+ },
+ "Q27": {
+  "label": {
+   "de": "Irland",
+   "en": "Ireland",
+   "ru": "Ирландия"
+  },
+  "names": [
+   "Ireland",
+   "Irland",
+   "Ирландия",
+   "Республика Ирландия",
+   "Republic of Ireland",
+   "Southern Ireland",
+   "Irish Republic",
+   "Republik Irland"
   ]
  },
  "Q2739": {
@@ -1496,6 +1880,18 @@
    "Udinese Football Club",
    "Udinese FC",
    "First Bianconeri of Italy"
+  ]
+ },
+ "Q28": {
+  "label": {
+   "de": "Ungarn",
+   "en": "Hungary",
+   "ru": "Венгрия"
+  },
+  "names": [
+   "Венгрия",
+   "Ungarn",
+   "Hungary"
   ]
  },
  "Q29108": {
@@ -1597,6 +1993,24 @@
    "AS Monaco FC in European football"
   ]
  },
+ "Q32": {
+  "label": {
+   "de": "Luxemburg",
+   "en": "Luxembourg",
+   "ru": "Люксембург"
+  },
+  "names": [
+   "Люксембург",
+   "Luxemburg",
+   "Luxembourg",
+   "Lëtzebuerg",
+   "Великое Герцогство Люксембург",
+   "Великое Герцогство",
+   "Groussherzogtum Lëtzebuerg",
+   "Grand-Duché de Luxembourg",
+   "Grand Duchy of Luxembourg"
+  ]
+ },
  "Q32140": {
   "label": {
    "de": "ZSKA Moskau",
@@ -1659,6 +2073,77 @@
    "Les Ciel et Marine"
   ]
  },
+ "Q34": {
+  "label": {
+   "de": "Schweden",
+   "en": "Sweden",
+   "ru": "Швеция"
+  },
+  "names": [
+   "Швеция",
+   "Schweden",
+   "Sweden",
+   "Sverige",
+   "Королевство Швеция",
+   "Kingdom of Sweden",
+   "se",
+   "Swedish Kingdom",
+   "Königreich Schweden"
+  ]
+ },
+ "Q347": {
+  "label": {
+   "de": "Liechtenstein",
+   "en": "Liechtenstein",
+   "ru": "Лихтенштейн"
+  },
+  "names": [
+   "Лихтенштейн",
+   "Liechtenstein",
+   "Liechtenstein",
+   "Liechtenstein",
+   "Княжество Лихтенштейн",
+   "Principality of Liechtenstein",
+   "FL",
+   "li",
+   "Fürstentum Liechtenstein",
+   "Fürstentum Lichtenstein"
+  ]
+ },
+ "Q35": {
+  "label": {
+   "de": "Dänemark",
+   "en": "Denmark",
+   "ru": "Дания"
+  },
+  "names": [
+   "Дания",
+   "Dänemark",
+   "Denmark",
+   "dk",
+   "TAN",
+   "Denmark proper",
+   "metropolitan Denmark",
+   "Dania",
+   "Danmark",
+   "Danemark"
+  ]
+ },
+ "Q36": {
+  "label": {
+   "de": "Polen",
+   "en": "Poland",
+   "ru": "Польша"
+  },
+  "names": [
+   "Польша",
+   "Polen",
+   "Poland",
+   "Республика Польша",
+   "Republic of Poland",
+   "Republik Polen"
+  ]
+ },
  "Q3601247": {
   "label": {
    "de": "SSD Roma CF",
@@ -1669,6 +2154,21 @@
    "SSD Roma CF",
    "Roma Calcio Femminile",
    "Roma C.F."
+  ]
+ },
+ "Q37": {
+  "label": {
+   "de": "Litauen",
+   "en": "Lithuania",
+   "ru": "Литва"
+  },
+  "names": [
+   "Литва",
+   "Litauen",
+   "Lithuania",
+   "Republic of Lithuania",
+   "Литовская Республика",
+   "Republik Litauen"
   ]
  },
  "Q38245": {
@@ -1697,6 +2197,82 @@
    "Eintracht",
    "Die Adler",
    "The Eagles"
+  ]
+ },
+ "Q39": {
+  "label": {
+   "de": "Schweiz",
+   "en": "Switzerland",
+   "ru": "Швейцария"
+  },
+  "names": [
+   "Швейцария",
+   "Schweiz",
+   "Switzerland",
+   "Svizzera",
+   "Suisse",
+   "Schweiz",
+   "Швейцарская Конфедерация",
+   "Eidgenossenschaft",
+   "Confoederatio Helvetica",
+   "Confœderatio Helvetica",
+   "Swiss Confederation",
+   "Swiss",
+   "Confoederatio Helvetica"
+  ]
+ },
+ "Q40": {
+  "label": {
+   "de": "Österreich",
+   "en": "Austria",
+   "ru": "Австрия"
+  },
+  "names": [
+   "Австрия",
+   "Österreich",
+   "Austria",
+   "Republic of Austria",
+   "Австрийская Республика",
+   "Республика Австрия",
+   "Republik Österreich",
+   "Zweite Republik"
+  ]
+ },
+ "Q403": {
+  "label": {
+   "de": "Serbien",
+   "en": "Serbia",
+   "ru": "Сербия"
+  },
+  "names": [
+   "Сербия",
+   "Serbien",
+   "Serbia",
+   "Республика Сербия",
+   "Republic of Serbia",
+   "RS",
+   "Republik Serbien"
+  ]
+ },
+ "Q41": {
+  "label": {
+   "de": "Griechenland",
+   "en": "Greece",
+   "ru": "Греция"
+  },
+  "names": [
+   "Греция",
+   "Griechenland",
+   "Greece",
+   "Hellenic Republic",
+   "gr",
+   "el",
+   "Greek Republic",
+   "Hellas, Greece",
+   "Греческая Республика",
+   "Эллада",
+   "Hellenische Republik",
+   "Hellas, Griechenland"
   ]
  },
  "Q41420": {
@@ -1732,6 +2308,22 @@
    "The Black and Yellows"
   ]
  },
+ "Q45": {
+  "label": {
+   "de": "Portugal",
+   "en": "Portugal",
+   "ru": "Португалия"
+  },
+  "names": [
+   "Portugal",
+   "Португалия",
+   "Portugal",
+   "Португальская Республика",
+   "Portuguese Republic",
+   "POR",
+   "Portugiesische Republik"
+  ]
+ },
  "Q4512": {
   "label": {
    "de": "VfB Stuttgart",
@@ -1750,6 +2342,63 @@
    "The Swabians",
    "Verein für Bewegungsspiele Stuttgart 1893 e. V.",
    "VfB"
+  ]
+ },
+ "Q4628": {
+  "label": {
+   "de": "Färöer",
+   "en": "Faroe Islands",
+   "ru": "Фарерские острова"
+  },
+  "names": [
+   "Фарерские острова",
+   "Färöer",
+   "Faroe Islands",
+   "Фарёры",
+   "Фарерские о-ва",
+   "Фарёрские острова",
+   "Фареры",
+   "Färöer-Inseln",
+   "Schafsinseln",
+   "Faeröerne",
+   "Föroyar",
+   "Faroer",
+   "Suðuroyar sýsla",
+   "Färöische Inseln",
+   "Färöerinseln",
+   "die Färöer",
+   "Faeroe Islands",
+   "Atlantic/Faroe",
+   "Fareo islands",
+   "Faeroyene",
+   "Far Oer",
+   "Faeroerne",
+   "Faer Oer",
+   "Faroe Isles",
+   "Faroer",
+   "Faeroe Isles",
+   "Faroes",
+   "Faroese Islands",
+   "Faeroes",
+   "Faeroer",
+   "Faroe Island",
+   "Færøer",
+   "Færeyjar",
+   "Fær Øer",
+   "Faeroe Is",
+   "Færøyene",
+   "Faröe Islands",
+   "Sheep Islands",
+   "Færoes",
+   "fo",
+   "🇫🇴",
+   "the Faroe Islands",
+   "the Faeroe Islands",
+   "Farre",
+   "Farre Islands",
+   "Farre I.",
+   "Farre Is.",
+   "Farre Isl."
   ]
  },
  "Q483020": {
@@ -1902,6 +2551,27 @@
    "SV Werder Bremen",
    "Sportverein Werder Bremen von 1899 e. V.",
    "Sportverein Werder Bremen"
+  ]
+ },
+ "Q55": {
+  "label": {
+   "de": "Niederlande",
+   "en": "Netherlands",
+   "ru": "Нидерланды"
+  },
+  "names": [
+   "Нидерланды",
+   "Niederlande",
+   "Netherlands",
+   "Голландия",
+   "Nederland",
+   "Holland",
+   "die Niederlande",
+   "Holland",
+   "the Netherlands",
+   "Nederland",
+   "Nederlanden",
+   "de Nederlanden"
   ]
  },
  "Q631": {
@@ -2080,6 +2750,24 @@
    "ФК Балтика",
    "Футбольный клуб «Балтика» Калининград",
    "FC Baltika Kaliningrad"
+  ]
+ },
+ "Q801": {
+  "label": {
+   "de": "Israel",
+   "en": "Israel",
+   "ru": "Израиль"
+  },
+  "names": [
+   "Израиль",
+   "Israel",
+   "Israel",
+   "Государство Израиль",
+   "Staat Israel",
+   "ISR",
+   "State of Israel",
+   "il",
+   "Yisrael"
   ]
  },
  "Q845043": {
@@ -2422,6 +3110,42 @@
   ]
  },
  "search": {
+  "nation|Austria": "Q40",
+  "nation|Bosnia-Herzegovina": "Q225",
+  "nation|Bulgaria": "Q219",
+  "nation|Denmark": "Q35",
+  "nation|Estonia": "Q191",
+  "nation|Faroe Islands": "Q4628",
+  "nation|Georgia": "Q230",
+  "nation|Germany": "Q183",
+  "nation|Gibraltar": "Q1410",
+  "nation|Greece": "Q41",
+  "nation|Hungary": "Q28",
+  "nation|Iceland": "Q189",
+  "nation|Ireland": "Q27",
+  "nation|Israel": "Q801",
+  "nation|Kazakhstan": "Q232",
+  "nation|Kosovo": "Q1246",
+  "nation|Liechtenstein": "Q347",
+  "nation|Lithuania": "Q37",
+  "nation|Luxembourg": "Q32",
+  "nation|Malta": "Q233",
+  "nation|Moldova": "Q217",
+  "nation|N.Ireland": "Q26",
+  "nation|Netherlands": "Q55",
+  "nation|North Macedonia": "Q221",
+  "nation|Norway": "Q20",
+  "nation|Poland": "Q36",
+  "nation|Portugal": "Q45",
+  "nation|Romania": "Q218",
+  "nation|Scotland": "Q22",
+  "nation|Serbia": "Q403",
+  "nation|Slovakia": "Q214",
+  "nation|Slovenia": "Q215",
+  "nation|Sweden": "Q34",
+  "nation|Switzerland": "Q39",
+  "nation|Ukraine": "Q212",
+  "nation|Wales": "Q25",
   "soccer|AC Milan": "Q1543",
   "soccer|Akhmat Grozny": "Q240444",
   "soccer|Akron Tolyatti": "Q65124755",

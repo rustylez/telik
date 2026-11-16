@@ -9,14 +9,15 @@ Sources, chosen for terms that allow this use:
   the Champions League. These entries of sport.json are therefore under ODbL 1.0 as well and
   name OpenLigaDB as their source.
 - TheSportsDB (https://www.thesportsdb.com), free API key: fixtures of the other football
-  leagues, read round by round (a whole round is the one question the free key answers in full;
+  leagues and of the national teams' competitions, read round by round (a whole round is the one question the free key answers in full;
   "what is on that day" is cut to three matches). Its terms allow to "scrape, copy and modify
   content returned from the API using the official end points"; the free key is for projects
   that are not published in an app store.
 - Wikidata (CC0): how each team is called in German, Russian and English, by the Wikidata id a
   source gives for a team, or else by a search for the team's name among the clubs of its sport.
   Guides write "Бавария" or "FC Bayern München"; Telik needs these spellings to find a match in
-  a guide.
+  a guide. A national team is called by its country there ("Германия - Нидерланды"), so for
+  these the country's names are taken.
 
 Team badges are left out on purpose: no source grants rights to the pictures it links.
 
@@ -60,6 +61,9 @@ OPENLIGADB = {
     "ucl": ("soccer", "Champions League", {"ru": "Лига чемпионов"}),
 }
 
+# In place of a league's country: its teams are national teams.
+NATIONS = "nations"
+
 # TheSportsDB league id -> sport, league name, its name by language, and the Wikidata entity of
 # the league's country (P17 of its clubs), which tells "Brest" in France from "Brest" in Belarus.
 THESPORTSDB = {
@@ -68,6 +72,14 @@ THESPORTSDB = {
     4332: ("soccer", "Serie A", {"ru": "Серия А"}, "Q38"),
     4334: ("soccer", "Ligue 1", {"ru": "Лига 1"}, "Q142"),
     4355: ("soccer", "Russian Premier League", {"ru": "РПЛ", "de": "Russische Premjer-Liga"}, "Q159"),
+    # Clubs from all over Europe: no country to go by.
+    4481: ("soccer", "Europa League", {"ru": "Лига Европы"}, None),
+    5071: ("soccer", "Conference League", {"ru": "Лига конференций"}, None),
+    # National teams.
+    4490: ("soccer", "Nations League", {"ru": "Лига наций"}, NATIONS),
+    5518: ("soccer", "World Cup Qualifying", {"ru": "Отбор на чемпионат мира", "de": "WM-Qualifikation"}, NATIONS),
+    4429: ("soccer", "World Cup", {"ru": "Чемпионат мира", "de": "Weltmeisterschaft"}, NATIONS),
+    4502: ("soccer", "European Championship", {"ru": "Чемпионат Европы", "de": "Europameisterschaft"}, NATIONS),
 }
 THESPORTSDB_KEY = "123"
 # 30 requests a minute are allowed; staying well below, as the limit is counted per address.
@@ -200,6 +212,39 @@ def wikidata_search(name, sport, country):
     return elsewhere
 
 
+# How TheSportsDB shortens some countries, and what their national team is filed under.
+NATION_NAMES = {"N.Ireland": "Northern Ireland", "Bosnia-Herzegovina": "Bosnia and Herzegovina", "Ireland": "Republic of Ireland"}
+
+
+def wikidata_nation(name, sport):
+    """
+    The Wikidata id of the country whose national team is called [name], or None: the national
+    team is searched, and the country it plays for is read from it ("country for sport", P1532,
+    which is England for England where "country" would say United Kingdom). Lists and history
+    articles about a team carry no such entry, so they are passed over.
+    """
+    name = NATION_NAMES.get(name, name)
+    for search in (f"{name} national football team", f"{name} men's national football team", f"{name} national association football team"):
+        query = urllib.parse.urlencode({"action": "wbsearchentities", "search": search, "language": "en", "type": "item", "limit": 5, "format": "json"})
+        hits = [hit["id"] for hit in fetch("https://www.wikidata.org/w/api.php?" + query).get("search", [])]
+        time.sleep(1)
+        if not hits:
+            continue
+        query = urllib.parse.urlencode({"action": "wbgetentities", "ids": "|".join(hits), "props": "claims", "format": "json"})
+        entities = fetch("https://www.wikidata.org/w/api.php?" + query).get("entities", {})
+        time.sleep(1)
+        for hit in hits:
+            claims = entities.get(hit, {}).get("claims", {})
+
+            def values(prop):
+                return [claim["mainsnak"].get("datavalue", {}).get("value", {}).get("id") for claim in claims.get(prop, [])]
+
+            countries = [c for c in values("P1532") if c]
+            if SPORT_ENTITY[sport] in values("P641") and countries:
+                return countries[0]
+    return None
+
+
 def wikidata_names(ids):
     """Labels and aliases of the Wikidata entities [ids] in LANGUAGES: {id: {"label": {...}, "names": [...]}}."""
     result = {}
@@ -293,7 +338,13 @@ def main():
     for team in sides:
         sport = team.pop("sport")
         country = team.pop("country")
-        if not team["wikidata"]:
+        team["nation"] = country == NATIONS
+        if team["nation"]:
+            key = f"nation|{team['name']}"
+            if key not in found:
+                found[key] = wikidata_nation(team["name"], sport)
+            team["wikidata"] = found[key]
+        elif not team["wikidata"]:
             key = f"{sport}|{team['name']}"
             if key not in found:
                 found[key] = wikidata_search(team["name"], sport, country)
@@ -305,11 +356,13 @@ def main():
 
     for team in sides:
         entity_id = team.pop("wikidata")
+        nation = team.pop("nation")
         label = {}
         names = list(team["names"])
         for entry in (known.get(entity_id), fixed.get(entity_id)):
             if entry:
-                names += entry.get("names", [])
+                # A country has dozens of other names ("BRD", "FRG"); a guide uses its plain one.
+                names += list(entry.get("label", {}).values()) if nation and entry is not fixed.get(entity_id) else entry.get("names", [])
                 label.update(entry.get("label", {}))
         team["names"] = unique(form for n in names if usable(n) for form in variants(n))
         team["label"] = label

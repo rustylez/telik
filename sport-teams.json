@@ -1,0 +1,449 @@
+{
+ "Q101959": {
+  "label": {
+   "de": "Borussia Mönchengladbach",
+   "en": "Borussia Mönchengladbach",
+   "ru": "Боруссия"
+  },
+  "names": [
+   "Боруссия",
+   "Borussia Mönchengladbach",
+   "Borussia Mönchengladbach",
+   "Боруссия Мёнхенгладбах",
+   "Боруссия Менхенгладбах",
+   "VfTuR München-Gladbach",
+   "Borussia M'Gladbach",
+   "Borussia VfL 1900",
+   "Borussia Verein für Leibesübungen 1900 Mönchengladbach",
+   "Fohlen-Elf",
+   "Fohlenelf",
+   "Bor. Mönchengladbach"
+  ]
+ },
+ "Q104761": {
+  "label": {
+   "de": "Bayer 04 Leverkusen",
+   "en": "Bayer 04 Leverkusen",
+   "ru": "Байер 04"
+  },
+  "names": [
+   "Bayer 04 Leverkusen",
+   "Bayer 04 Leverkusen",
+   "Байер 04",
+   "Bayer 04",
+   "Байер",
+   "Байер Леверкузен",
+   "Байер-04",
+   "Байер-04 Леверкузен",
+   "Bayer 04 Leverkusen Fußball GmbH",
+   "Bayer Leverkusen",
+   "Bayer",
+   "Leverkusen",
+   "Die Werkself",
+   "Bayer 04 Leverkusen Fußball GmbH Soccer",
+   "Bayer 04 Football",
+   "The Company XI"
+  ]
+ },
+ "Q104770": {
+  "label": {
+   "de": "1. FC Köln",
+   "en": "1. FC Köln",
+   "ru": "Кёльн"
+  },
+  "names": [
+   "1. FC Köln",
+   "1. FC Köln",
+   "Кёльн",
+   "1. Fußball-Club Köln 01/07",
+   "FC Köln",
+   "Kölner BC 01",
+   "SpVgg Sülz",
+   "Effzeh",
+   "1. Fußball-Club Köln 01/07 e. V.",
+   "ФК Кёльн",
+   "1. FC Cologne",
+   "1. Fußball-Club Köln 01/07 e. V.",
+   "FC Köln",
+   "F.C. Köln",
+   "FC Koln",
+   "F.C. Koln",
+   "FCKoln"
+  ]
+ },
+ "Q105254": {
+  "label": {
+   "de": "1. FSV Mainz 05",
+   "en": "1. FSV Mainz 05",
+   "ru": "Майнц 05"
+  },
+  "names": [
+   "1. FSV Mainz 05",
+   "1. FSV Mainz 05",
+   "Майнц 05",
+   "FSV Mainz",
+   "FSV Mainz 05",
+   "Mainzer FSV",
+   "Mainz 05",
+   "1.Fußball und Sportverein Mainz 05",
+   "Mainz",
+   "ФК Майнц",
+   "Майнц",
+   "1. Fußball- und Sportverein Mainz 05 e. V.",
+   "Mainz 05",
+   "Mainz",
+   "Die Nullfünfer",
+   "The Zero-Fivers",
+   "FSV Mainz"
+  ]
+ },
+ "Q106394": {
+  "label": {
+   "de": "SC Freiburg",
+   "en": "SC Freiburg",
+   "ru": "Фрайбург"
+  },
+  "names": [
+   "SC Freiburg",
+   "SC Freiburg",
+   "Фрайбург",
+   "Sportclub Freiburg",
+   "VfL Freiburg",
+   "Sport-Club Freiburg e. V.",
+   "ФК Фрайбург",
+   "Sport Club Freiburg",
+   "Sport-Club Freiburg e.V.",
+   "S.C. Freiburg",
+   "Die Breisgau-Brasilianer",
+   "The Breisgau Brazilians"
+  ]
+ },
+ "Q141971": {
+  "label": {
+   "de": "1. FC Union Berlin",
+   "en": "1. FC Union Berlin",
+   "ru": "Унион"
+  },
+  "names": [
+   "1. FC Union Berlin",
+   "1. FC Union Berlin",
+   "Унион",
+   "1. Fußballclub Union Berlin e. V.",
+   "Union",
+   "Union Berlin",
+   "FC Olympia Oberschöneweide",
+   "Olympia Oberschöneweide",
+   "SC Union Oberschöneweide",
+   "Union Oberschöneweide",
+   "SG Oberschöneweide",
+   "SG Union Oberschöneweide",
+   "BSG Motor Oberschöneweide",
+   "Motor Oberschöneweide",
+   "FC Union Berlin",
+   "1. Fußballclub Union Berlin",
+   "Berlin FC",
+   "FC Union Berlin",
+   "FC Berlin",
+   "Union Berlin",
+   "Die Eisernen",
+   "The Iron Ones"
+  ]
+ },
+ "Q15755": {
+  "label": {
+   "de": "FC Augsburg",
+   "en": "FC Augsburg",
+   "ru": "Аугсбург"
+  },
+  "names": [
+   "FC Augsburg",
+   "FC Augsburg",
+   "Аугсбург",
+   "Fußball-Club Augsburg 1907 e. V.",
+   "Fußball-Club Augsburg 1907 e. V",
+   "FC Augsburg Football Team",
+   "Fußball-Club Augsburg",
+   "FC Augsburg Soccer Team",
+   "Augsburg",
+   "Die Fuggerstädter"
+  ]
+ },
+ "Q15789": {
+  "label": {
+   "de": "FC Bayern München",
+   "en": "FC Bayern Munich",
+   "ru": "Бавария"
+  },
+  "names": [
+   "FC Bayern München",
+   "FC Bayern Munich",
+   "Бавария",
+   "FCB",
+   "Bayern München",
+   "FC Bayern",
+   "Bayern",
+   "Fußball-Club Bayern München e. V.",
+   "Bayern Munich",
+   "Bayern Muenchen",
+   "Bayern Munchen",
+   "FC Bayern Muenchen",
+   "FC Bayern Munchen",
+   "Bayern",
+   "Bayern München",
+   "FC Bayern München",
+   "FCBM",
+   "Munich",
+   "FCBM 1900",
+   "FCB Munich",
+   "Bayern of Munich",
+   "F.C. Bayern Munich",
+   "Die Bayernf",
+   "FC Hollywood",
+   "FC Bavaria Munich",
+   "Bavaria Munich",
+   "ФК Бавария Мюнхен"
+  ]
+ },
+ "Q160532": {
+  "label": {
+   "de": "SC Paderborn 07",
+   "en": "SC Paderborn 07",
+   "ru": "Падерборн 07"
+  },
+  "names": [
+   "Падерборн 07",
+   "SC Paderborn 07",
+   "SC Paderborn 07",
+   "ФК Падерборн 07",
+   "TuS Schloss Neuhaus",
+   "SC Paderborn",
+   "SV 1907 Schloss Neuhaus",
+   "Sport-Club Paderborn 07 e.V.",
+   "SCP 07",
+   "Paderborn 07",
+   "Die Ostwestfalen"
+  ]
+ },
+ "Q22707": {
+  "label": {
+   "de": "TSG 1899 Hoffenheim",
+   "en": "TSG 1899 Hoffenheim",
+   "ru": "Хоффенхайм"
+  },
+  "names": [
+   "TSG 1899 Hoffenheim",
+   "TSG 1899 Hoffenheim",
+   "Хоффенхайм",
+   "TSG Hoffenheim",
+   "1899 Hoffenheim",
+   "Turn- und Sportgemeinschaft Hoffenheim 1899 e. V.",
+   "Turn- und Sportgemeinschaft Hoffenheim 1899",
+   "ФК Хоффенхайм",
+   "TSG Hoffenheim",
+   "1899 Hoffenheim II",
+   "1899 Hoffenheim",
+   "TSG Hoffenheim II",
+   "Turn- und Sportgemeinschaft 1899 Hoffenheim e.V.",
+   "Hoffenheim",
+   "Die Kraichgauer"
+  ]
+ },
+ "Q32494": {
+  "label": {
+   "de": "FC Schalke 04",
+   "en": "Schalke 04",
+   "ru": "Шальке 04"
+  },
+  "names": [
+   "FC Schalke 04",
+   "Schalke 04",
+   "Шальке 04",
+   "FC Gelsenkirchen-Schalke 04 e. V.",
+   "S04",
+   "Schalke",
+   "Königsblau",
+   "Schalke 04",
+   "FC Gelsenkirchen-Schalke 04",
+   "S04",
+   "FC Schalke 04",
+   "F.C. Schalke 04",
+   "Schalke04",
+   "Schalke 0"
+  ]
+ },
+ "Q38245": {
+  "label": {
+   "de": "Eintracht Frankfurt",
+   "en": "Eintracht Frankfurt",
+   "ru": "Айнтрахт"
+  },
+  "names": [
+   "Айнтрахт",
+   "Eintracht Frankfurt",
+   "Eintracht Frankfurt",
+   "ФК Айнтрахт Франкфурт",
+   "Айнтрахт Франкфурт",
+   "Eintracht Frankfurt",
+   "SG Eintracht Frankfurt",
+   "Eintracht Frankfurt Fußball AG",
+   "Frankfurter SG Eintracht",
+   "SGE",
+   "eintracht.de",
+   "Eintracht Frankfurt e. V.",
+   "Sportgemeinde „Eintracht“",
+   "Frankfurter Sportgemeinde Eintracht",
+   "Eintracht Frankfurt e. V.",
+   "Frankfurt",
+   "Eintracht",
+   "Die Adler",
+   "The Eagles"
+  ]
+ },
+ "Q41420": {
+  "label": {
+   "de": "Borussia Dortmund",
+   "en": "Borussia Dortmund",
+   "ru": "Боруссия"
+  },
+  "names": [
+   "Боруссия",
+   "Borussia Dortmund",
+   "Borussia Dortmund",
+   "Боруссия Дортмунд",
+   "Ballspielverein Borussia 09 Dortmund",
+   "BV 09 Borussia Dortmund",
+   "Ballspielverein Borussia Dortmund",
+   "BV Borussia 09 Dortmund",
+   "BVB 09",
+   "BVB Dortmund",
+   "BVB 09 Dortmund",
+   "Ballspiel-Verein Borussia 1909",
+   "BV Borussia Dortmund",
+   "BVB09",
+   "Borussia 09",
+   "Ballspielverein Borussia 09 e. V. Dortmund",
+   "BVB",
+   "Borussia Dortmund GmbH & Co. KGaA",
+   "BVB",
+   "Dortmund",
+   "Ballspielverein Borussia 09 e.V. Dortmund",
+   "Die Borussen",
+   "Die Schwarzgelben",
+   "The Black and Yellows"
+  ]
+ },
+ "Q4512": {
+  "label": {
+   "de": "VfB Stuttgart",
+   "en": "VfB Stuttgart",
+   "ru": "Штутгарт"
+  },
+  "names": [
+   "VfB Stuttgart",
+   "Штутгарт",
+   "VfB Stuttgart",
+   "ФК Штутгарт",
+   "Штуттгарт",
+   "ФК Штуттгарт",
+   "Verein für Bewegungsspiele Stuttgart 1893 e. V.",
+   "Die Schwaben",
+   "The Swabians",
+   "Verein für Bewegungsspiele Stuttgart 1893 e. V.",
+   "VfB"
+  ]
+ },
+ "Q51974": {
+  "label": {
+   "de": "Hamburger SV",
+   "en": "Hamburger SV",
+   "ru": "Гамбург"
+  },
+  "names": [
+   "Hamburger SV",
+   "Hamburger SV",
+   "Гамбург",
+   "HSV",
+   "Hamburger Sport-Verein",
+   "Hamburger",
+   "Hamburg SV",
+   "Hamburg Sport Club",
+   "Hamburg",
+   "H.S.V.",
+   "Hamburger S.V.",
+   "HamburgerSV",
+   "Hamburger Sport-Verein e. V.",
+   "HSV",
+   "Hamburger Sport-Verein",
+   "HSV Hamburg",
+   "Hamburger Sport-Verein",
+   "HSV"
+  ]
+ },
+ "Q51976": {
+  "label": {
+   "de": "Werder Bremen",
+   "en": "SV Werder Bremen",
+   "ru": "Вердер"
+  },
+  "names": [
+   "Werder Bremen",
+   "SV Werder Bremen",
+   "Вердер",
+   "Werder Bremen",
+   "Werder",
+   "Die Werderaner",
+   "Die Grün-Weißen",
+   "The Green-Whites",
+   "SV Werder Bremen",
+   "Sportverein Werder Bremen von 1899 e. V.",
+   "Sportverein Werder Bremen"
+  ]
+ },
+ "Q692691": {
+  "label": {
+   "de": "SV Elversberg",
+   "en": "SV Elversberg",
+   "ru": "Эльферсберг"
+  },
+  "names": [
+   "SV Elversberg",
+   "Эльферсберг",
+   "SV Elversberg",
+   "SV Elversberg 07",
+   "Sportvereinigung Elversberg",
+   "SV 07 Elversberg",
+   "Sportvereinigung 07 Elversberg",
+   "Sportvereinigung 07 Elversberg e.V.",
+   "SVE",
+   "SV 07 Elversberg",
+   "Elversberg"
+  ]
+ },
+ "Q702455": {
+  "label": {
+   "de": "RB Leipzig",
+   "en": "RB Leipzig",
+   "ru": "РБ Лейпциг"
+  },
+  "names": [
+   "RB Leipzig",
+   "РБ Лейпциг",
+   "RB Leipzig",
+   "Rasenball Leipzig",
+   "RasenBallsport Leipzig e.V.",
+   "RasenBallsport Leipzig",
+   "RasenBallsport Leipzig e. V.",
+   "Ред Булл",
+   "RasenBallsport Leipzig e.V.",
+   "Die Roten Bullen",
+   "The Red Bulls"
+  ]
+ },
+ "search": {
+  "soccer|Borussia Mönchengladbach": "Q101959",
+  "soccer|RB Leipzig": "Q702455",
+  "soccer|SV 07 Elversberg": "Q692691",
+  "soccer|SV Werder Bremen": "Q51976",
+  "soccer|TSG Hoffenheim": "Q22707"
+ }
+}

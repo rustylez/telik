@@ -1,0 +1,532 @@
+{
+ "events": [
+  {
+   "away": {
+    "label": {
+     "de": "1. FC Köln",
+     "en": "1. FC Köln",
+     "ru": "Кёльн"
+    },
+    "name": "1. FC Köln",
+    "names": [
+     "1. FC Köln",
+     "Köln",
+     "Кёльн",
+     "1. Fußball-Club Köln 01/07",
+     "FC Köln",
+     "Kölner BC 01",
+     "Kölner BC",
+     "SpVgg Sülz",
+     "Effzeh",
+     "1. Fußball-Club Köln 01/07 e. V.",
+     "ФК Кёльн",
+     "1. FC Cologne",
+     "Cologne",
+     "1. Fußball-Club Köln 01/07 e. V.",
+     "F.C. Köln",
+     "FC Koln",
+     "Koln",
+     "F.C. Koln",
+     "FCKoln"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Bayern München",
+     "en": "FC Bayern Munich",
+     "ru": "Бавария"
+    },
+    "name": "FC Bayern München",
+    "names": [
+     "FC Bayern München",
+     "Bayern München",
+     "Bayern",
+     "FC Bayern Munich",
+     "Bayern Munich",
+     "Бавария",
+     "FCB",
+     "FC Bayern",
+     "Fußball-Club Bayern München e. V.",
+     "Bayern Muenchen",
+     "Bayern Munchen",
+     "FC Bayern Muenchen",
+     "FC Bayern Munchen",
+     "FCBM",
+     "Munich",
+     "FCBM 1900",
+     "FCB Munich",
+     "Bayern of Munich",
+     "F.C. Bayern Munich",
+     "Die Bayernf",
+     "FC Hollywood",
+     "Hollywood",
+     "FC Bavaria Munich",
+     "Bavaria Munich",
+     "ФК Бавария Мюнхен",
+     "Бавария Мюнхен"
+    ]
+   },
+   "id": "openligadb:83237",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795203000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "SC Paderborn 07",
+     "en": "SC Paderborn 07",
+     "ru": "Падерборн 07"
+    },
+    "name": "SC Paderborn 07",
+    "names": [
+     "SC Paderborn 07",
+     "Paderborn 07",
+     "SC Paderborn",
+     "Paderborn",
+     "Падерборн 07",
+     "Падерборн",
+     "ФК Падерборн 07",
+     "ФК Падерборн",
+     "TuS Schloss Neuhaus",
+     "SV 1907 Schloss Neuhaus",
+     "1907 Schloss Neuhaus",
+     "Sport-Club Paderborn 07 e.V.",
+     "SCP 07",
+     "Die Ostwestfalen"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Bayer 04 Leverkusen",
+     "en": "Bayer 04 Leverkusen",
+     "ru": "Байер 04"
+    },
+    "name": "Bayer 04 Leverkusen",
+    "names": [
+     "Bayer 04 Leverkusen",
+     "Leverkusen",
+     "Байер 04",
+     "Байер",
+     "Bayer 04",
+     "Bayer",
+     "Байер Леверкузен",
+     "Байер-04",
+     "Байер-04 Леверкузен",
+     "Bayer 04 Leverkusen Fußball GmbH",
+     "Bayer Leverkusen",
+     "Die Werkself",
+     "Bayer 04 Leverkusen Fußball GmbH Soccer",
+     "Bayer 04 Football",
+     "The Company XI"
+    ]
+   },
+   "id": "openligadb:83238",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795271400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "TSG 1899 Hoffenheim",
+     "en": "TSG 1899 Hoffenheim",
+     "ru": "Хоффенхайм"
+    },
+    "name": "TSG Hoffenheim",
+    "names": [
+     "TSG Hoffenheim",
+     "Hoffenheim",
+     "TSG 1899 Hoffenheim",
+     "1899 Hoffenheim",
+     "Хоффенхайм",
+     "ФК Хоффенхайм",
+     "1899 Hoffenheim II",
+     "TSG Hoffenheim II",
+     "Hoffenheim II",
+     "Die Kraichgauer"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Eintracht Frankfurt",
+     "en": "Eintracht Frankfurt",
+     "ru": "Айнтрахт"
+    },
+    "name": "Eintracht Frankfurt",
+    "names": [
+     "Eintracht Frankfurt",
+     "Frankfurt",
+     "Айнтрахт",
+     "ФК Айнтрахт Франкфурт",
+     "Айнтрахт Франкфурт",
+     "SG Eintracht Frankfurt",
+     "Eintracht Frankfurt Fußball AG",
+     "Frankfurter SG Eintracht",
+     "SGE",
+     "eintracht.de",
+     "Eintracht Frankfurt e. V.",
+     "Sportgemeinde „Eintracht“",
+     "Frankfurter Sportgemeinde Eintracht",
+     "Eintracht Frankfurt e. V.",
+     "Eintracht",
+     "Die Adler",
+     "The Eagles"
+    ]
+   },
+   "id": "openligadb:83239",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795271400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "RB Leipzig",
+     "en": "RB Leipzig",
+     "ru": "РБ Лейпциг"
+    },
+    "name": "RB Leipzig",
+    "names": [
+     "RB Leipzig",
+     "Leipzig",
+     "РБ Лейпциг",
+     "Лейпциг",
+     "Rasenball Leipzig",
+     "RasenBallsport Leipzig e.V.",
+     "RasenBallsport Leipzig",
+     "RasenBallsport Leipzig e. V.",
+     "Ред Булл",
+     "Die Roten Bullen",
+     "The Red Bulls"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "1. FC Union Berlin",
+     "en": "1. FC Union Berlin",
+     "ru": "Унион"
+    },
+    "name": "1. FC Union Berlin",
+    "names": [
+     "1. FC Union Berlin",
+     "Union Berlin",
+     "Унион",
+     "1. Fußballclub Union Berlin e. V.",
+     "Union",
+     "FC Olympia Oberschöneweide",
+     "Olympia Oberschöneweide",
+     "SC Union Oberschöneweide",
+     "Union Oberschöneweide",
+     "SG Oberschöneweide",
+     "SG Union Oberschöneweide",
+     "BSG Motor Oberschöneweide",
+     "Motor Oberschöneweide",
+     "FC Union Berlin",
+     "1. Fußballclub Union Berlin",
+     "Berlin FC",
+     "FC Berlin",
+     "Berlin",
+     "Die Eisernen",
+     "The Iron Ones"
+    ]
+   },
+   "id": "openligadb:83241",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795271400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Borussia Dortmund",
+     "en": "Borussia Dortmund",
+     "ru": "Боруссия"
+    },
+    "name": "Borussia Dortmund",
+    "names": [
+     "Borussia Dortmund",
+     "Dortmund",
+     "Боруссия",
+     "Боруссия Дортмунд",
+     "Ballspielverein Borussia 09 Dortmund",
+     "BV 09 Borussia Dortmund",
+     "Ballspielverein Borussia Dortmund",
+     "BV Borussia 09 Dortmund",
+     "BVB 09",
+     "BVB Dortmund",
+     "BVB 09 Dortmund",
+     "Ballspiel-Verein Borussia 1909",
+     "Ballspiel-Verein Borussia",
+     "BV Borussia Dortmund",
+     "BVB09",
+     "Borussia 09",
+     "Borussia",
+     "BVB",
+     "Borussia Dortmund GmbH & Co. KGaA",
+     "Die Borussen",
+     "Die Schwarzgelben",
+     "The Black and Yellows"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Borussia Mönchengladbach",
+     "en": "Borussia Mönchengladbach",
+     "ru": "Боруссия"
+    },
+    "name": "Borussia Mönchengladbach",
+    "names": [
+     "Borussia Mönchengladbach",
+     "Gladbach",
+     "Боруссия",
+     "Боруссия Мёнхенгладбах",
+     "Боруссия Менхенгладбах",
+     "VfTuR München-Gladbach",
+     "Borussia M'Gladbach",
+     "Borussia VfL 1900",
+     "Borussia VfL",
+     "Fohlen-Elf",
+     "Fohlenelf",
+     "Bor. Mönchengladbach"
+    ]
+   },
+   "id": "openligadb:83242",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795271400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "SC Freiburg",
+     "en": "SC Freiburg",
+     "ru": "Фрайбург"
+    },
+    "name": "SC Freiburg",
+    "names": [
+     "SC Freiburg",
+     "Freiburg",
+     "Фрайбург",
+     "Sportclub Freiburg",
+     "VfL Freiburg",
+     "Sport-Club Freiburg e. V.",
+     "ФК Фрайбург",
+     "Sport Club Freiburg",
+     "Sport-Club Freiburg e.V.",
+     "S.C. Freiburg",
+     "Die Breisgau-Brasilianer",
+     "The Breisgau Brazilians"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "SV Elversberg",
+     "en": "SV Elversberg",
+     "ru": "Эльферсберг"
+    },
+    "name": "SV 07 Elversberg",
+    "names": [
+     "SV 07 Elversberg",
+     "07 Elversberg",
+     "Elversberg",
+     "SV Elversberg",
+     "Эльферсберг",
+     "SV Elversberg 07",
+     "Elversberg 07",
+     "Sportvereinigung Elversberg",
+     "Sportvereinigung 07 Elversberg",
+     "Sportvereinigung 07 Elversberg e.V.",
+     "SVE"
+    ]
+   },
+   "id": "openligadb:83245",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795271400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "VfB Stuttgart",
+     "en": "VfB Stuttgart",
+     "ru": "Штутгарт"
+    },
+    "name": "VfB Stuttgart",
+    "names": [
+     "VfB Stuttgart",
+     "Stuttgart",
+     "Штутгарт",
+     "ФК Штутгарт",
+     "Штуттгарт",
+     "ФК Штуттгарт",
+     "Die Schwaben",
+     "The Swabians",
+     "VfB"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Schalke 04",
+     "en": "Schalke 04",
+     "ru": "Шальке 04"
+    },
+    "name": "FC Schalke 04",
+    "names": [
+     "FC Schalke 04",
+     "Schalke 04",
+     "FC Schalke",
+     "Schalke",
+     "S04",
+     "Шальке 04",
+     "Шальке",
+     "FC Gelsenkirchen-Schalke 04 e. V.",
+     "Gelsenkirchen-Schalke 04 e. V.",
+     "Königsblau",
+     "FC Gelsenkirchen-Schalke 04",
+     "Gelsenkirchen-Schalke 04",
+     "FC Gelsenkirchen-Schalke",
+     "Gelsenkirchen-Schalke",
+     "F.C. Schalke 04",
+     "F.C. Schalke",
+     "Schalke04",
+     "Schalke 0"
+    ]
+   },
+   "id": "openligadb:83244",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795282200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "1. FSV Mainz 05",
+     "en": "1. FSV Mainz 05",
+     "ru": "Майнц 05"
+    },
+    "name": "1. FSV Mainz 05",
+    "names": [
+     "1. FSV Mainz 05",
+     "Mainz 05",
+     "1. FSV Mainz",
+     "Mainz",
+     "Майнц 05",
+     "Майнц",
+     "FSV Mainz",
+     "FSV Mainz 05",
+     "Mainzer FSV",
+     "1.Fußball und Sportverein Mainz 05",
+     "1.Fußball und Sportverein Mainz",
+     "ФК Майнц",
+     "Die Nullfünfer",
+     "The Zero-Fivers"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Augsburg",
+     "en": "FC Augsburg",
+     "ru": "Аугсбург"
+    },
+    "name": "FC Augsburg",
+    "names": [
+     "FC Augsburg",
+     "Augsburg",
+     "Аугсбург",
+     "Fußball-Club Augsburg 1907 e. V.",
+     "Fußball-Club Augsburg 1907 e. V",
+     "FC Augsburg Football Team",
+     "Augsburg Football Team",
+     "Fußball-Club Augsburg",
+     "FC Augsburg Soccer Team",
+     "Augsburg Soccer Team",
+     "Die Fuggerstädter"
+    ]
+   },
+   "id": "openligadb:83240",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795357800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Hamburger SV",
+     "en": "Hamburger SV",
+     "ru": "Гамбург"
+    },
+    "name": "Hamburger SV",
+    "names": [
+     "Hamburger SV",
+     "HSV",
+     "Гамбург",
+     "Hamburger Sport-Verein",
+     "Hamburger",
+     "Hamburg SV",
+     "Hamburg Sport Club",
+     "Hamburg",
+     "H.S.V.",
+     "Hamburger S.V.",
+     "HamburgerSV",
+     "Hamburger Sport-Verein e. V.",
+     "HSV Hamburg"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Werder Bremen",
+     "en": "SV Werder Bremen",
+     "ru": "Вердер"
+    },
+    "name": "SV Werder Bremen",
+    "names": [
+     "SV Werder Bremen",
+     "Werder Bremen",
+     "Bremen",
+     "Вердер",
+     "Werder",
+     "Die Werderaner",
+     "Die Grün-Weißen",
+     "The Green-Whites",
+     "Sportverein Werder Bremen von 1899 e. V.",
+     "Sportverein Werder Bremen"
+    ]
+   },
+   "id": "openligadb:83243",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "sport": "soccer",
+   "start": 1795365000
+  }
+ ],
+ "generated": 1794828973,
+ "license": "Fixtures: OpenLigaDB (www.openligadb.de), ODbL 1.0. Team names: Wikidata, CC0.",
+ "version": 1
+}

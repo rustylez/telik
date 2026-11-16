@@ -1,0 +1,36 @@
+# Collects the fixtures for Telik's row "Sport live" once a day and commits sport.json.
+# Lives in the public repository as .github/workflows/sport.yml, with collect.py at
+# tools/sportfeed/collect.py; the files it writes lie in the repository's root.
+name: Sport fixtures
+
+on:
+  schedule:
+    # Early morning in Europe; an odd minute, as GitHub delays jobs on the full hour.
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sport-fixtures
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect
+        run: python tools/sportfeed/collect.py .
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sport.json sport-teams.json
+          git diff --cached --quiet || git commit -m "Sport fixtures"
+          git push

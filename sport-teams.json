@@ -20,6 +20,118 @@
    "Bor. Mönchengladbach"
   ]
  },
+ "Q10286": {
+  "label": {
+   "de": "CA Osasuna",
+   "en": "Club Atlético Osasuna",
+   "ru": "Осасуна"
+  },
+  "names": [
+   "Club Atlético Osasuna",
+   "CA Osasuna",
+   "Осасуна",
+   "Club Atlético Osasuna",
+   "Osasuna Pamplona",
+   "Osasuna",
+   "CA Osasuna Pamplona",
+   "CA Osasuna"
+  ]
+ },
+ "Q10300": {
+  "label": {
+   "de": "Rayo Vallecano",
+   "en": "Rayo Vallecano",
+   "ru": "Райо Вальекано"
+  },
+  "names": [
+   "Rayo Vallecano",
+   "Rayo Vallecano",
+   "Райо Вальекано",
+   "Rayo Vallecano de Madrid",
+   "Rayo Football",
+   "Rayo Vellecano Football",
+   "Rayo Vellecano Soccer Club",
+   "Rayo",
+   "Vallecano",
+   "Rayo Vallecano de Madrid"
+  ]
+ },
+ "Q10315": {
+  "label": {
+   "de": "Real Sociedad",
+   "en": "Real Sociedad",
+   "ru": "Реал Сосьедад"
+  },
+  "names": [
+   "Real Sociedad",
+   "Real Sociedad",
+   "Реал Сосьедад",
+   "Real Sociedad de Futbol",
+   "Real Sociedad San Sebastian",
+   "Real Sociedad de Fútbol",
+   "Real Sociedad San Sebastián",
+   "Real Sociedad de Fútbol, S.A.D.",
+   "Real Sociedad de Fútbol",
+   "Donostia Football Club",
+   "San Sebastián Foot-Ball Club",
+   "Real Sociedad de Futbol",
+   "San Sebastian Foot-Ball Club"
+  ]
+ },
+ "Q10329": {
+  "label": {
+   "de": "FC Sevilla",
+   "en": "Sevilla FC",
+   "ru": "Севилья"
+  },
+  "names": [
+   "Sevilla FC",
+   "FC Sevilla",
+   "Севилья",
+   "Sevilla FC",
+   "Sevilla Futbol Club",
+   "Sevilla Fútbol Club",
+   "Sevilla",
+   "Sevilla Fútbol Club",
+   "Sevilla F.C.",
+   "Sevilla Football Club",
+   "SevillaFC",
+   "Sevilla Futbol Club",
+   "SevillaF.C.",
+   "SFC",
+   "S.F.C."
+  ]
+ },
+ "Q10333": {
+  "label": {
+   "de": "FC Valencia",
+   "en": "Valencia CF",
+   "ru": "Валенсия"
+  },
+  "names": [
+   "Valencia CF",
+   "FC Valencia",
+   "Валенсия",
+   "Valencia CF",
+   "Valencia C.F.",
+   "Valencia Club de Fútbol",
+   "VCF",
+   "Valencia Club de Fútbol",
+   "Valencia",
+   "Valencia Club de Futbol",
+   "Valencia Club de Fútbol team",
+   "Valencia C.F.",
+   "Valencia Football Club",
+   "Valencia Club of Football",
+   "ValenciaCF",
+   "ValenciaC.F.",
+   "VCF",
+   "V.C.F.",
+   "Футбольный клуб Валенсия",
+   "Валенсия ФК",
+   "ФК Валенсия"
+  ]
+ },
  "Q104761": {
   "label": {
    "de": "Bayer 04 Leverkusen",
@@ -71,6 +183,22 @@
    "FCKoln"
   ]
  },
+ "Q1051013": {
+  "label": {
+   "de": "Paris FC",
+   "en": "Paris FC",
+   "ru": "Париж"
+  },
+  "names": [
+   "Париж",
+   "Paris FC",
+   "Paris FC",
+   "Пари",
+   "Paris F.C.",
+   "Paris Football Club",
+   "PFC"
+  ]
+ },
  "Q105254": {
   "label": {
    "de": "1. FSV Mainz 05",
@@ -118,6 +246,228 @@
    "The Breisgau Brazilians"
   ]
  },
+ "Q1120838": {
+  "label": {
+   "de": "Como 1907",
+   "en": "Como 1907",
+   "ru": "Комо"
+  },
+  "names": [
+   "Комо",
+   "Como 1907",
+   "Como 1907",
+   "Calcio Como",
+   "Como Calcio",
+   "Calcio Como",
+   "F.C. Como",
+   "Como Calcio",
+   "Como",
+   "Комо (футбольный клуб)"
+  ]
+ },
+ "Q1128631": {
+  "label": {
+   "de": "Leeds United",
+   "en": "Leeds United F.C.",
+   "ru": "Лидс Юнайтед"
+  },
+  "names": [
+   "Leeds United F.C.",
+   "Лидс Юнайтед",
+   "Leeds United",
+   "Лидс (футбольный клуб)",
+   "ФК «Лидс Юнайтед»",
+   "Leeds United F.C.",
+   "Leeds United A.F.C.",
+   "Leeds United LFC",
+   "Leeds United Football Club",
+   "Leeds United FC",
+   "Leeds United",
+   "Leeds United Association Football Club",
+   "Leeds United A.F.C.",
+   "Leeds United AFC",
+   "Leeds",
+   "United",
+   "The Peacocks",
+   "LUFC",
+   "L.U.F.C.",
+   "Leeds Utd",
+   "LeedsUnited"
+  ]
+ },
+ "Q1130849": {
+  "label": {
+   "de": "FC Liverpool",
+   "en": "Liverpool F.C.",
+   "ru": "Ливерпуль"
+  },
+  "names": [
+   "Liverpool F.C.",
+   "Ливерпуль",
+   "FC Liverpool",
+   "Ливерпуль (футбол)",
+   "ФК Ливерпуль",
+   "ФК «Ливерпуль»",
+   "Ливерпуль (футбольный клуб)",
+   "Мерсисайдцы",
+   "F.C. Liverpool",
+   "The Reds",
+   "Liverpool",
+   "LiverpoolFC",
+   "LiverpoolF.C.",
+   "L.F.C."
+  ]
+ },
+ "Q12236": {
+  "label": {
+   "de": "Racing de Santander",
+   "en": "Racing de Santander",
+   "ru": "Расинг"
+  },
+  "names": [
+   "Racing de Santander",
+   "Racing de Santander",
+   "Расинг",
+   "Racing Club de Santander",
+   "Real Racing Club de Santander",
+   "Real Racing Club de Santander, S.A.D.",
+   "Racing Santander",
+   "Real Racing Club",
+   "Real Racing Club de Santander, S.A.D.",
+   "Real Racing Club de Santander",
+   "Racing Santander",
+   "Racing Club de Santander",
+   "Real Racing Club",
+   "Real Santander SD"
+  ]
+ },
+ "Q12297": {
+  "label": {
+   "de": "FC Villarreal",
+   "en": "Villarreal CF",
+   "ru": "Вильярреал"
+  },
+  "names": [
+   "Villarreal CF",
+   "FC Villarreal",
+   "Вильярреал",
+   "Villarreal CF",
+   "Villarreal Club de Fútbol, S.A.D.",
+   "Villarreal Club de Futbol",
+   "Villarreal Club Football",
+   "Villarreal 1923",
+   "Villarreal Club de Fútbol 1923",
+   "Villarreal Club of Football",
+   "Villarreal CF 1923",
+   "Villarreal C.F.",
+   "Villarreal",
+   "VCF"
+  ]
+ },
+ "Q126334": {
+  "label": {
+   "de": "Racing Straßburg",
+   "en": "RC Strasbourg Alsace",
+   "ru": "Страсбур"
+  },
+  "names": [
+   "Racing Straßburg",
+   "RC Strasbourg Alsace",
+   "Страсбур",
+   "Racing Club de Strasbourg",
+   "RCSA",
+   "Racing Club de Strasbourg Alsace",
+   "Racing Strasbourg",
+   "Racing",
+   "Strasbourg",
+   "RC Strasbourg",
+   "RCSA",
+   "Racing Strassburg",
+   "Racing Club Strassburg"
+  ]
+ },
+ "Q1269117": {
+  "label": {
+   "de": "Dynamo Moskau",
+   "en": "Dynamo Moscow",
+   "ru": "Динамо Москва"
+  },
+  "names": [
+   "Динамо Москва",
+   "Dynamo Moscow",
+   "Dynamo Moskau",
+   "Динамо (Москва)",
+   "Dinamo Moskau",
+   "VC Dinamo Moscow",
+   "MGO VFSO \"Dynamo\""
+  ]
+ },
+ "Q132885": {
+  "label": {
+   "de": "Olympique Marseille",
+   "en": "Olympique de Marseille",
+   "ru": "Олимпик"
+  },
+  "names": [
+   "Олимпик",
+   "Olympique Marseille",
+   "Olympique de Marseille",
+   "Олимпик Марсель",
+   "Марсель",
+   "Марсель Олимпик",
+   "Olympique de Marseille",
+   "OM",
+   "Olympique Marsilien",
+   "Olympique Marseille",
+   "OM",
+   "Marseille",
+   "Olympic of Marseille",
+   "Olympic Marseille",
+   "O Marseille"
+  ]
+ },
+ "Q13391": {
+  "label": {
+   "de": "U.S. Lecce",
+   "en": "US Lecce",
+   "ru": "Лечче"
+  },
+  "names": [
+   "US Lecce",
+   "U.S. Lecce",
+   "Лечче",
+   "Unione Sportiva Lecce",
+   "US Lecce",
+   "Unione Sportiva Lecce",
+   "USLecce",
+   "U.S.Lecce",
+   "U.S.L.",
+   "Lecce Sports Union",
+   "Lecce",
+   "U.S. Lecce"
+  ]
+ },
+ "Q1388889": {
+  "label": {
+   "de": "FK Fakel Woronesch",
+   "en": "FC Fakel Voronezh",
+   "ru": "Факел"
+  },
+  "names": [
+   "Факел",
+   "FC Fakel Voronezh",
+   "FK Fakel Woronesch",
+   "Факел Воронеж",
+   "Факел Воронеж (футбольный клуб)",
+   "Факел (Воронеж)",
+   "Труд (футбольный клуб)",
+   "Труд (футбольный клуб, Воронеж)",
+   "Футбольный клуб Факел Воронеж",
+   "Fakel Woronesch",
+   "FC Fakel Voronezh",
+   "Fakel Voronezh Logo"
+  ]
+ },
  "Q141971": {
   "label": {
    "de": "1. FC Union Berlin",
@@ -147,6 +497,54 @@
    "Union Berlin",
    "Die Eisernen",
    "The Iron Ones"
+  ]
+ },
+ "Q1422": {
+  "label": {
+   "de": "Juventus Turin",
+   "en": "Juventus FC",
+   "ru": "Ювентус"
+  },
+  "names": [
+   "Juventus Turin",
+   "Ювентус",
+   "Juventus FC",
+   "Juventus Turin",
+   "Juventus of Turin",
+   "Juventus F.C.",
+   "JuventusFC",
+   "J.F.C.",
+   "JuventusF.C.",
+   "JuventusFootballClub"
+  ]
+ },
+ "Q1543": {
+  "label": {
+   "de": "AC Milan",
+   "en": "AC Milan",
+   "ru": "Милан"
+  },
+  "names": [
+   "AC Milan",
+   "AC Milan",
+   "Милан",
+   "Associazione Calcio Milan",
+   "Association Football Milan",
+   "ACMilan",
+   "Milan",
+   "A.C. Milan",
+   "A.C.M.",
+   "ACM",
+   "A.C.Milan",
+   "ФК Милан",
+   "Милан (футбольный клуб)",
+   "A.C. Milan",
+   "Milan",
+   "Associazione Calcio Milan",
+   "A.C.M.",
+   "ACMilan",
+   "ACM",
+   "AC Mailand"
   ]
  },
  "Q15755": {
@@ -224,6 +622,640 @@
    "Die Ostwestfalen"
   ]
  },
+ "Q170040": {
+  "label": {
+   "de": "Rubin Kasan",
+   "en": "Rubin Kazan",
+   "ru": "Рубин"
+  },
+  "names": [
+   "Rubin Kasan",
+   "Rubin Kazan",
+   "Рубин",
+   "FC Rubin Kazan",
+   "Rubin Kazan",
+   "FC Rubin Kasan",
+   "Рубин-ТАН",
+   "ФК Рубин",
+   "Искра",
+   "Рубин, Казань",
+   "Рубин Казань",
+   "Футбольный клуб Рубин Казань",
+   "FC Rubin Kazan"
+  ]
+ },
+ "Q176371": {
+  "label": {
+   "de": "PFK ZSKA Moskau",
+   "en": "PFC CSKA Moscow",
+   "ru": "ЦСКА"
+  },
+  "names": [
+   "ЦСКА",
+   "PFK ZSKA Moskau",
+   "PFC CSKA Moscow",
+   "ЦСКА Москва",
+   "Команда лейтенантов",
+   "ФК ЦСКА Москва",
+   "ПФК ЦСКА",
+   "ПФК ЦСКА Москва",
+   "ЦСКА (футбольный клуб, Москва)",
+   "FK ZSKA Moskau",
+   "PFC ZSKA Moskau",
+   "PFC Central Sport Club of the Army Moscow",
+   "Professional Football Club Central Sports Club of Army Moscow"
+  ]
+ },
+ "Q180305": {
+  "label": {
+   "de": "AS Monaco",
+   "en": "AS Monaco FC",
+   "ru": "Монако"
+  },
+  "names": [
+   "AS Monaco",
+   "AS Monaco FC",
+   "Монако",
+   "ФК Монако",
+   "AS Monaco",
+   "Monaco",
+   "ASMFC",
+   "AS Monaco F.C.",
+   "Association Sportive de Monaco Football Club",
+   "A.S. Monaco F.C.",
+   "AS Monaco Football Club",
+   "ASMonaco",
+   "A.S.M.F.C.",
+   "A.S. Monaco"
+  ]
+ },
+ "Q182876": {
+  "label": {
+   "de": "AJ Auxerre",
+   "en": "AJ Auxerre",
+   "ru": "Осер"
+  },
+  "names": [
+   "AJ Auxerre",
+   "AJ Auxerre",
+   "Осер",
+   "Association de la Jeunesse Auxerroise",
+   "AJ Auxerre",
+   "ФК Осер",
+   "Association de la Jeunesse auxerroise",
+   "Auxerre",
+   "Association de la Jeunesse Auxerroise",
+   "AJA",
+   "Les Icaunais"
+  ]
+ },
+ "Q182930": {
+  "label": {
+   "de": "FK Rostow",
+   "en": "FC Rostov",
+   "ru": "Ростов"
+  },
+  "names": [
+   "FK Rostow",
+   "Ростов",
+   "FC Rostov",
+   "FK Rostov",
+   "FC Rostow",
+   "Rostselmasch Rostow",
+   "FC Rostov",
+   "ФК Ростов",
+   "ФК Ростов Ростов-на-Дону",
+   "Торпедо",
+   "Ростсельмаш-2",
+   "Ростсельмаш",
+   "ФК «Ростов»",
+   "Ростов, Ростов-на-Дону",
+   "ФК Ростсельмаш",
+   "Футбольный клуб \"Ростов\""
+  ]
+ },
+ "Q185163": {
+  "label": {
+   "de": "OGC Nizza",
+   "en": "OGC Nice",
+   "ru": "Ницца"
+  },
+  "names": [
+   "OGC Nizza",
+   "OGC Nice",
+   "Ницца",
+   "Olympique Gymnaste Club de Nice Côte d'Azur",
+   "OGC Nice Côte d'Azur",
+   "OGC Nice",
+   "Olympique Gymnaste Club Nice Côte d'Azur"
+  ]
+ },
+ "Q18656": {
+  "label": {
+   "de": "Manchester United",
+   "en": "Manchester United F.C.",
+   "ru": "Манчестер Юнайтед"
+  },
+  "names": [
+   "Manchester United F.C.",
+   "Manchester United",
+   "Манчестер Юнайтед",
+   "Man United",
+   "MUFC",
+   "Manchester United Football Club",
+   "Manchester United FC",
+   "Manchester United",
+   "Man Utd",
+   "Red Devils",
+   "Man U",
+   "Manchester United Football Club",
+   "Man United",
+   "United",
+   "Red Devils",
+   "ManU",
+   "Manchester United F.C.",
+   "Manchester United FC",
+   "Newton Heath FC",
+   "Newton Heath F.C.",
+   "Man U.",
+   "ManUtd",
+   "MUFC",
+   "Manchester Utd.",
+   "МЮ",
+   "Красные Дьяволы",
+   "ФК МЮ",
+   "Ман Ютд",
+   "Ман Юнайтед",
+   "МЮН",
+   "Красные"
+  ]
+ },
+ "Q18708": {
+  "label": {
+   "de": "FC Fulham",
+   "en": "Fulham F.C.",
+   "ru": "Фулхэм"
+  },
+  "names": [
+   "Fulham F.C.",
+   "FC Fulham",
+   "Фулхэм",
+   "Fulham Football Club",
+   "Fulham FC",
+   "Fulham",
+   "The Cottagers",
+   "FFC",
+   "Fulham Football Club"
+  ]
+ },
+ "Q18711": {
+  "label": {
+   "de": "Aston Villa",
+   "en": "Aston Villa F.C.",
+   "ru": "Астон Вилла"
+  },
+  "names": [
+   "Aston Villa F.C.",
+   "Aston Villa",
+   "Астон Вилла",
+   "Aston Villa Football Club",
+   "Aston Villa FC",
+   "Aston Villa",
+   "Villa",
+   "The Villans",
+   "The Villa",
+   "AVFC",
+   "Aston Villa Football Club"
+  ]
+ },
+ "Q18716": {
+  "label": {
+   "de": "Newcastle United",
+   "en": "Newcastle United F.C.",
+   "ru": "Ньюкасл Юнайтед"
+  },
+  "names": [
+   "Newcastle United F.C.",
+   "Newcastle United",
+   "Ньюкасл Юнайтед",
+   "Newcastle United Football Club",
+   "Newcastle United FC",
+   "Newcastle United",
+   "Newcastle",
+   "The Magpies",
+   "NUFC",
+   "Newcastle"
+  ]
+ },
+ "Q18739": {
+  "label": {
+   "de": "AFC Sunderland",
+   "en": "Sunderland A.F.C.",
+   "ru": "Сандерленд"
+  },
+  "names": [
+   "Sunderland A.F.C.",
+   "AFC Sunderland",
+   "Сандерленд",
+   "Sunderland Association Football Club",
+   "The Black Cats",
+   "Sunderland Association Football Club",
+   "Sunderland AFC",
+   "Sunderland",
+   "The Black Cats",
+   "SAFC"
+  ]
+ },
+ "Q18741": {
+  "label": {
+   "de": "Tottenham Hotspur",
+   "en": "Tottenham Hotspur F.C.",
+   "ru": "Тоттенхэм Хотспур"
+  },
+  "names": [
+   "Tottenham Hotspur F.C.",
+   "Tottenham Hotspur",
+   "Тоттенхэм Хотспур",
+   "Tottenham Hotspur Football Club",
+   "THFC",
+   "Spurs",
+   "The Lilywhites",
+   "Tottenham Hotspur FC",
+   "Tottenham Hotspur",
+   "Tottenham",
+   "Hotspur",
+   "Tottenham Hotspur Football Club",
+   "Тоттенхэм",
+   "Tottenham Hotspur Football Club",
+   "Tottenham Hotspur FC",
+   "Spurs"
+  ]
+ },
+ "Q1886": {
+  "label": {
+   "de": "Atalanta Bergamo",
+   "en": "Atalanta BC",
+   "ru": "Аталанта"
+  },
+  "names": [
+   "Atalanta BC",
+   "Atalanta Bergamo",
+   "Аталанта",
+   "Atalanta Bergamasca Calcio",
+   "Atalanta Bergamo",
+   "Atalanta",
+   "Atalanta B.C.",
+   "AtalantaBC",
+   "AtalantaB.C."
+  ]
+ },
+ "Q1893": {
+  "label": {
+   "de": "FC Bologna",
+   "en": "Bologna F.C. 1909",
+   "ru": "Болонья"
+  },
+  "names": [
+   "Bologna F.C. 1909",
+   "FC Bologna",
+   "Болонья",
+   "Bologna Football Club 1909",
+   "Bologna Football Club",
+   "BFC1909",
+   "Bologna FC 1909",
+   "BolognaFC1909",
+   "Bologna",
+   "Bologna F.C. 1909"
+  ]
+ },
+ "Q1900": {
+  "label": {
+   "de": "Cagliari Calcio",
+   "en": "Cagliari Calcio",
+   "ru": "Кальяри"
+  },
+  "names": [
+   "Cagliari Calcio",
+   "Cagliari Calcio",
+   "Кальяри",
+   "Cagliari"
+  ]
+ },
+ "Q191843": {
+  "label": {
+   "de": "RC Lens",
+   "en": "R.C. Lens",
+   "ru": "Ланс"
+  },
+  "names": [
+   "RC Lens",
+   "R.C. Lens",
+   "Ланс",
+   "Racing Lens",
+   "Racing Club de Lens",
+   "RC Lens",
+   "Racing Club de Lens",
+   "Lens",
+   "Расинг"
+  ]
+ },
+ "Q19453": {
+  "label": {
+   "de": "Brighton & Hove Albion",
+   "en": "Brighton & Hove Albion F.C.",
+   "ru": "Брайтон энд Хоув Альбион"
+  },
+  "names": [
+   "Brighton & Hove Albion F.C.",
+   "Brighton & Hove Albion",
+   "Брайтон энд Хоув Альбион",
+   "Brighton and Hove Albion F.C.",
+   "Brighton & Hove Albion Football Club",
+   "Brighton & Hove Albion",
+   "Brighton and Hove Albion",
+   "Brighton and Hove Albion Football Club",
+   "Brighton & Hove",
+   "Brighton and Hove Albion FC",
+   "Brighton & Hove Albion FC",
+   "Brighton",
+   "Brighton and Hove",
+   "The Seagulls",
+   "Albion",
+   "BHAFC",
+   "Brighton F.C.",
+   "Brighton FC",
+   "BHA",
+   "The Seagulls"
+  ]
+ },
+ "Q19467": {
+  "label": {
+   "de": "Crystal Palace",
+   "en": "Crystal Palace F.C.",
+   "ru": "Кристал Пэлас"
+  },
+  "names": [
+   "Crystal Palace F.C.",
+   "Crystal Palace",
+   "Кристал Пэлас",
+   "Crystal Palace Football Club",
+   "Crystal Palace FC",
+   "Crystal Palace",
+   "Palace",
+   "The Eagles",
+   "The Glaziers",
+   "CPFC",
+   "Crystal Palace F.C.",
+   "Crystal Palace FC",
+   "Crystal Palace Football Club"
+  ]
+ },
+ "Q19477": {
+  "label": {
+   "de": "Hull City",
+   "en": "Hull City A.F.C.",
+   "ru": "Халл Сити"
+  },
+  "names": [
+   "Hull City A.F.C.",
+   "Hull City",
+   "Халл Сити",
+   "Hull City Association Football Club",
+   "Hull City AFC",
+   "Hull City",
+   "Hull",
+   "The Tigers",
+   "City",
+   "HCAFC"
+  ]
+ },
+ "Q19490": {
+  "label": {
+   "de": "Nottingham Forest",
+   "en": "Nottingham Forest F.C.",
+   "ru": "Ноттингем Форест"
+  },
+  "names": [
+   "Nottingham Forest F.C.",
+   "Nottingham Forest",
+   "Ноттингем Форест",
+   "Nottingham Forest Football Club",
+   "Nottingham Forest FC",
+   "Forest",
+   "The Reds",
+   "Tricky Trees",
+   "Nottingham Forest",
+   "NFFC",
+   "Nottm Forest"
+  ]
+ },
+ "Q19509": {
+  "label": {
+   "de": "Stade Rennes",
+   "en": "Stade Rennais F.C.",
+   "ru": "Ренн"
+  },
+  "names": [
+   "Stade Rennes",
+   "Stade Rennais F.C.",
+   "Ренн",
+   "Stade Rennais Football Club",
+   "Stade Rennais UC",
+   "Stade Rennais Football Club",
+   "Stade Rennais FC",
+   "Stade Rennais",
+   "Rennes",
+   "Rennais",
+   "SRFC"
+  ]
+ },
+ "Q19516": {
+  "label": {
+   "de": "OSC Lille",
+   "en": "Lille OSC",
+   "ru": "Лилль"
+  },
+  "names": [
+   "OSC Lille",
+   "Lille OSC",
+   "Лилль",
+   "LOSC",
+   "Olympique Lillois",
+   "Lille Olympique Sporting Club",
+   "Lille OSC",
+   "Olympique Lille",
+   "Lille Olympique Sporting Club",
+   "Lille",
+   "LOSC"
+  ]
+ },
+ "Q19518": {
+  "label": {
+   "de": "FC Toulouse",
+   "en": "Toulouse FC",
+   "ru": "Тулуза"
+  },
+  "names": [
+   "FC Toulouse",
+   "Toulouse FC",
+   "Тулуза",
+   "Toulouse FC",
+   "ФК Тулуза",
+   "Toulouse Football Club",
+   "Toulouse F.C.",
+   "Toulouse",
+   "TFC"
+  ]
+ },
+ "Q19568": {
+  "label": {
+   "de": "AFC Bournemouth",
+   "en": "AFC Bournemouth",
+   "ru": "Борнмут"
+  },
+  "names": [
+   "AFC Bournemouth",
+   "AFC Bournemouth",
+   "Борнмут",
+   "Bournemouth",
+   "Bournemouth and Boscombe Athletic F.C.",
+   "Boscombe F.C.",
+   "Boscombe Football Club",
+   "Boscombe FC",
+   "Boscombe",
+   "Bournemouth and Boscombe Athletic Football Club",
+   "Bournemouth and Boscombe Athletic FC",
+   "Bournemouth and Boscombe Athletic",
+   "The Cherries",
+   "A.F.C. Bournemouth",
+   "AFCB"
+  ]
+ },
+ "Q19580": {
+  "label": {
+   "de": "Coventry City",
+   "en": "Coventry City F.C.",
+   "ru": "Ковентри Сити"
+  },
+  "names": [
+   "Coventry City F.C.",
+   "Coventry City",
+   "Ковентри Сити",
+   "Coventry City Football Club",
+   "Coventry City FC",
+   "Coventry City",
+   "Coventry",
+   "City",
+   "CCFC",
+   "Sky Blues"
+  ]
+ },
+ "Q2074": {
+  "label": {
+   "de": "CFC Genua",
+   "en": "Genoa CFC",
+   "ru": "Дженоа"
+  },
+  "names": [
+   "Genoa CFC",
+   "CFC Genua",
+   "Дженоа",
+   "Genoa",
+   "Genoa Cricket and Football Club s.p.a",
+   "Genoa C.F.C."
+  ]
+ },
+ "Q2095484": {
+  "label": {
+   "de": "FK Orenburg",
+   "en": "FC Orenburg",
+   "ru": "Оренбург"
+  },
+  "names": [
+   "FK Orenburg",
+   "Оренбург",
+   "FC Orenburg",
+   "ФК Газовик Оренбург",
+   "Газовик Оренбург",
+   "Прогресс Оренбург",
+   "Локомотив Оренбург",
+   "Футбольный Клуб Оренбург",
+   "FC Gazovik Orenburg"
+  ]
+ },
+ "Q210864": {
+  "label": {
+   "de": "Le Mans FC",
+   "en": "Le Mans F.C.",
+   "ru": "Ле-Ман"
+  },
+  "names": [
+   "Le Mans FC",
+   "Le Mans F.C.",
+   "Ле-Ман",
+   "FC Le Mans",
+   "Le Mans UC",
+   "Le Mans UC 72",
+   "UC Le Mans",
+   "UC 72 Le Mans",
+   "Ле Ман",
+   "Le Mans FC",
+   "Le MUC",
+   "Le Mans Football Club",
+   "Le Mans U.C. 72"
+  ]
+ },
+ "Q218372": {
+  "label": {
+   "de": "Stade Brest",
+   "en": "Stade Brestois 29",
+   "ru": "Брест"
+  },
+  "names": [
+   "Stade Brest",
+   "Stade Brestois 29",
+   "Брест",
+   "Stade Brestois",
+   "Stade Brestois 29",
+   "Стад Брест",
+   "Стад Брестуа",
+   "Брест 29"
+  ]
+ },
+ "Q220854": {
+  "label": {
+   "de": "FK Krasnodar",
+   "en": "FC Krasnodar",
+   "ru": "Краснодар"
+  },
+  "names": [
+   "FK Krasnodar",
+   "Краснодар",
+   "FC Krasnodar",
+   "Футбольный клуб «Краснодар»",
+   "ФК Краснодар",
+   "ФК «Краснода́р»"
+  ]
+ },
+ "Q223620": {
+  "label": {
+   "de": "Deportivo Alavés",
+   "en": "Deportivo Alavés",
+   "ru": "Алавес"
+  },
+  "names": [
+   "Deportivo Alavés",
+   "Deportivo Alavés",
+   "Алавес",
+   "Deportivo Alaves",
+   "Alavés",
+   "Alaves",
+   "Deportivo Alaves",
+   "Deportivo Alaves Soccer",
+   "Alaves Football",
+   "Alaves Soccer"
+  ]
+ },
  "Q22707": {
   "label": {
    "de": "TSG 1899 Hoffenheim",
@@ -248,6 +1280,344 @@
    "Die Kraichgauer"
   ]
  },
+ "Q240444": {
+  "label": {
+   "de": "Achmat Grosny",
+   "en": "FC Akhmat Grozny",
+   "ru": "Ахмат"
+  },
+  "names": [
+   "Achmat Grosny",
+   "Ахмат",
+   "FC Akhmat Grozny",
+   "Terek Grosnij",
+   "FC Terek Grozny",
+   "Terek Grosny",
+   "Нефтяник",
+   "Терек Грозный",
+   "ФК Терек",
+   "Терек",
+   "FC Terek Grozny"
+  ]
+ },
+ "Q2494171": {
+  "label": {
+   "de": "FK Dynamo Machatschkala",
+   "en": "FC Dynamo Makhachkala",
+   "ru": "Динамо"
+  },
+  "names": [
+   "Динамо",
+   "FC Dynamo Makhachkala",
+   "FK Dynamo Machatschkala",
+   "Динамо Махачкала",
+   "Темп"
+  ]
+ },
+ "Q2609": {
+  "label": {
+   "de": "Lazio Rom",
+   "en": "SS Lazio",
+   "ru": "Лацио"
+  },
+  "names": [
+   "SS Lazio",
+   "Лацио",
+   "Lazio Rom",
+   "Лацио Рим",
+   "ФК Лацио",
+   "SS Lazio",
+   "Società Sportiva Lazio",
+   "Societa Sportiva Lazio",
+   "SSLazio",
+   "Lazio Sports Society",
+   "Sport Society Lazio",
+   "Sports Society Lazio",
+   "Lazio Sport Society",
+   "SSL",
+   "S.S.L.",
+   "S.S. Lazio",
+   "Lazio Calcio",
+   "S.S.Lazio"
+  ]
+ },
+ "Q2641": {
+  "label": {
+   "de": "SSC Neapel",
+   "en": "SSC Napoli",
+   "ru": "Наполи"
+  },
+  "names": [
+   "SSC Napoli",
+   "SSC Neapel",
+   "Наполи",
+   "Società Sportiva Calcio Napoli",
+   "Societa Sportiva Calcio Napoli",
+   "Napoli",
+   "SSCN",
+   "SSC Naples",
+   "S.S.C. Napoli",
+   "S.S.C.N.",
+   "SSC Napoli"
+  ]
+ },
+ "Q2657829": {
+  "label": {
+   "de": "CA Osasuna B",
+   "en": "Osasuna B",
+   "ru": "Осасуна Б"
+  },
+  "names": [
+   "Осасуна Б",
+   "Osasuna B",
+   "CA Osasuna B",
+   "Osasuna Promesas"
+  ]
+ },
+ "Q2693": {
+  "label": {
+   "de": "Parma Calcio 1913",
+   "en": "Parma Calcio 1913",
+   "ru": "Парма"
+  },
+  "names": [
+   "Parma Calcio 1913",
+   "Parma Calcio 1913",
+   "Парма",
+   "Parma FC",
+   "Parma F.C.",
+   "Parma Associazione Calcio",
+   "Parma Foot Ball Club",
+   "Parma",
+   "Parma Football Club",
+   "Parma A.C.",
+   "AC Parma",
+   "Parma Associazione Sportiva",
+   "Crociati",
+   "Parma Foot Ball Club",
+   "Società Sportiva Dilettantistica Parma Calcio 1913",
+   "FC Parma",
+   "Parma Associazione Calcio",
+   "AC Parma",
+   "Parma Calcio"
+  ]
+ },
+ "Q2739": {
+  "label": {
+   "de": "AS Rom",
+   "en": "AS Roma",
+   "ru": "Рома"
+  },
+  "names": [
+   "AS Rom",
+   "AS Roma",
+   "Рома",
+   "Associazione Sportiva Roma",
+   "ASR",
+   "ASRoma",
+   "A.S.R",
+   "La Roma",
+   "A.S.Roma",
+   "ASR 1927",
+   "A.S.R 1927",
+   "The Wolfs",
+   "Rome Sport Association",
+   "A.S. Rome",
+   "A.S.Rome",
+   "A.S. Roma",
+   "AS Roma",
+   "La Roma",
+   "Associazione Sportiva Roma",
+   "A.S.R"
+  ]
+ },
+ "Q274778": {
+  "label": {
+   "de": "Krylja Sowetow Samara",
+   "en": "FC Krylia Sovetov Samara",
+   "ru": "Крылья Советов"
+  },
+  "names": [
+   "Krylja Sowetow Samara",
+   "Крылья Советов",
+   "FC Krylia Sovetov Samara",
+   "Krylja Sowetow Kujbyschew",
+   "Krylja Sowjetow Samara",
+   "FC Krylya Sovetov Samara",
+   "Зенит Куйбышев",
+   "Крылья Советов, Самара",
+   "Крылья Советов-2",
+   "Крылья Советов Куйбышев",
+   "ФК КС",
+   "Крылья Советов Самара",
+   "ФК Крылья Советов",
+   "Зенит",
+   "Professional Football Club Krylia Sovetov Samara",
+   "PFC Krylia Sovetov"
+  ]
+ },
+ "Q2768": {
+  "label": {
+   "de": "FC Turin",
+   "en": "Torino FC",
+   "ru": "Торино"
+  },
+  "names": [
+   "Torino FC",
+   "FC Turin",
+   "Торино",
+   "Torino Football Club 1906 S.p.A.",
+   "A.C. Torino",
+   "Torino Calcio",
+   "Torino Football Club",
+   "Torino FC",
+   "Torino F.C.",
+   "Turin FC",
+   "Turin F.C.",
+   "Torino",
+   "Torino F.C.",
+   "Turin Football Club",
+   "TorinoF.C.",
+   "TorinoFC",
+   "Torino Football Club"
+  ]
+ },
+ "Q2798": {
+  "label": {
+   "de": "Udinese Calcio",
+   "en": "Udinese Calcio",
+   "ru": "Удинезе"
+  },
+  "names": [
+   "Udinese Calcio",
+   "Udinese Calcio",
+   "Удинезе",
+   "Udinese Football",
+   "Udinese Football Club",
+   "Udinese FC",
+   "First Bianconeri of Italy"
+  ]
+ },
+ "Q29108": {
+  "label": {
+   "de": "Zenit St. Petersburg",
+   "en": "FC Zenit Saint Petersburg",
+   "ru": "Зенит"
+  },
+  "names": [
+   "Зенит",
+   "Zenit St. Petersburg",
+   "FC Zenit Saint Petersburg",
+   "ФК «Зенит»",
+   "ФК Зенит",
+   "Зенит, Санкт-Петербург",
+   "ФК Зенит Санкт-Петербург",
+   "Зенит Санкт-Петербург",
+   "Сталинец Ленинград",
+   "Зенит Ленинград",
+   "Ф.К. Зенит Санкт-Петербург",
+   "Футбольный клуб «Зенит» Санкт-Петербург",
+   "Зенит (футбольный клуб, Санкт-Петербург)",
+   "FC Zenit Saint Petersburg",
+   "Stalinez Leningrad",
+   "Zenit Leningrad",
+   "Stalinets Leningrad",
+   "Senit St. Petersburg",
+   "Zenit Sankt Petersburg",
+   "Futbolny klub „Senit“ Sankt-Peterburg",
+   "FC Zenit",
+   "Zenit Saint Petersburg",
+   "Football Club Zenit",
+   "VC Zenit Saint Petersburg"
+  ]
+ },
+ "Q29112": {
+  "label": {
+   "de": "Spartak Moskau",
+   "en": "Spartak Moscow",
+   "ru": "Спартак"
+  },
+  "names": [
+   "Spartak Moskau",
+   "Spartak Moscow",
+   "Спартак",
+   "FC Spartak Moscow",
+   "Spartak Moskva",
+   "Народная команда",
+   "ФК Спартак Москва",
+   "Спартак Москва",
+   "Спартак-Москва",
+   "ФК Спартак",
+   "ФКСМ",
+   "Московский футбольный клуб \"Спартак\"",
+   "FCSM",
+   "Футбольный клуб Спартак Москва",
+   "Спартак (Москва)",
+   "FC Spartak Moscow"
+  ]
+ },
+ "Q29115": {
+  "label": {
+   "de": "Lokomotive Moskau",
+   "en": "FC Lokomotiv Moscow",
+   "ru": "Локомотив"
+  },
+  "names": [
+   "Lokomotive Moskau",
+   "Локомотив",
+   "FC Lokomotiv Moscow",
+   "Lok Moskau",
+   "Lokomotiv Moskau",
+   "Lokomotiw Moskau",
+   "FC Lokomotiv Moscow",
+   "Lokomotiv Moscow",
+   "Локомотив Москва",
+   "ФК Локомотив Москва",
+   "Локомотив, Москва",
+   "Loko",
+   "ФКЛМ",
+   "Футбольный клуб Локомотив Москва",
+   "Локо",
+   "Lokomotiv Moscow"
+  ]
+ },
+ "Q3076592": {
+  "label": {
+   "en": "F.C. du Bergot"
+  },
+  "names": [
+   "F.C. du Bergot"
+  ]
+ },
+ "Q3138464": {
+  "label": {
+   "en": "AS Monaco FC in European football"
+  },
+  "names": [
+   "AS Monaco FC in European football"
+  ]
+ },
+ "Q32140": {
+  "label": {
+   "de": "ZSKA Moskau",
+   "en": "CSKA Moscow",
+   "ru": "Центральный спортивный клуб армии"
+  },
+  "names": [
+   "Центральный спортивный клуб армии",
+   "ZSKA Moskau",
+   "CSKA Moscow",
+   "ЦДКА",
+   "ЦСКА Москва",
+   "ЦСКА",
+   "ЦДСА",
+   "Спорткомплекс Цска",
+   "ZDSA Moskau",
+   "CSKA Moskau",
+   "ZSK MO Moskau",
+   "ZDKA Moskau"
+  ]
+ },
  "Q32494": {
   "label": {
    "de": "FC Schalke 04",
@@ -269,6 +1639,36 @@
    "F.C. Schalke 04",
    "Schalke04",
    "Schalke 0"
+  ]
+ },
+ "Q328658": {
+  "label": {
+   "de": "Le Havre AC",
+   "en": "Le Havre AC",
+   "ru": "Гавр"
+  },
+  "names": [
+   "Le Havre AC",
+   "Le Havre AC",
+   "Гавр",
+   "AC Le Havre",
+   "Le Havre Athletic Club",
+   "Le Havre Athletic Club",
+   "Le Havre",
+   "HAC",
+   "Les Ciel et Marine"
+  ]
+ },
+ "Q3601247": {
+  "label": {
+   "de": "SSD Roma CF",
+   "en": "Roma CF"
+  },
+  "names": [
+   "Roma CF",
+   "SSD Roma CF",
+   "Roma Calcio Femminile",
+   "Roma C.F."
   ]
  },
  "Q38245": {
@@ -352,6 +1752,111 @@
    "VfB"
   ]
  },
+ "Q483020": {
+  "label": {
+   "de": "Paris Saint-Germain",
+   "en": "Paris Saint-Germain FC",
+   "ru": "Пари Сен-Жермен"
+  },
+  "names": [
+   "Пари Сен-Жермен",
+   "Paris Saint-Germain",
+   "Paris Saint-Germain FC",
+   "Пари-Сен-Жермен Париж",
+   "Пари-Сен-Жермен",
+   "ПСЖ",
+   "Пари Сен Жермен",
+   "FC Paris St. Germain",
+   "Paris St. Germain",
+   "Paris St.-Germain",
+   "PSGFC",
+   "Paris"
+  ]
+ },
+ "Q48911": {
+  "label": {
+   "de": "FC Lorient",
+   "en": "F.C. Lorient",
+   "ru": "Лорьян"
+  },
+  "names": [
+   "FC Lorient",
+   "F.C. Lorient",
+   "Лорьян",
+   "FC Lorient Bretagne-Sud",
+   "FC Lorient",
+   "Football Club Lorient-Bretagne Sud"
+  ]
+ },
+ "Q501245": {
+  "label": {
+   "de": "FC Venedig",
+   "en": "Venezia F.C.",
+   "ru": "Венеция"
+  },
+  "names": [
+   "FC Venedig",
+   "Venezia F.C.",
+   "Венеция",
+   "SSC Venedig",
+   "Venedig FC",
+   "Venezia FC",
+   "Venezia Football Club",
+   "Venezia FC",
+   "Venice Football Club",
+   "Venice FC",
+   "VFC",
+   "VeneziaMestre FC",
+   "VeneziaMestre",
+   "Arancioneroverdi"
+  ]
+ },
+ "Q501693": {
+  "label": {
+   "de": "ES Troyes AC",
+   "en": "ES Troyes AC",
+   "ru": "Труа"
+  },
+  "names": [
+   "ES Troyes AC",
+   "ES Troyes AC",
+   "Труа",
+   "Troyes AC",
+   "Espérance Sportive Troyes Aube Champagne",
+   "ESTAC",
+   "Esperance Sportive Troyes Aube Champagne",
+   "Troyes AC",
+   "ES Troyes",
+   "ESTAC"
+  ]
+ },
+ "Q50602": {
+  "label": {
+   "de": "Manchester City",
+   "en": "Manchester City F.C.",
+   "ru": "Манчестер Сити"
+  },
+  "names": [
+   "Manchester City",
+   "Manchester City F.C.",
+   "Манчестер Сити",
+   "Manchester City Football Club",
+   "The Citizens",
+   "Manchester City FC",
+   "Manchester City",
+   "Man City",
+   "Manchester City F.C. Soccer",
+   "Manchester City Football Club",
+   "Citizens",
+   "Sky Blues",
+   "MCFC",
+   "City",
+   "The Sky Blues",
+   "The Blues",
+   "The Citizens",
+   "Manchester City Football Club"
+  ]
+ },
  "Q51974": {
   "label": {
    "de": "Hamburger SV",
@@ -399,6 +1904,80 @@
    "Sportverein Werder Bremen"
   ]
  },
+ "Q631": {
+  "label": {
+   "de": "Inter Mailand",
+   "en": "Inter Milan",
+   "ru": "Интернационале"
+  },
+  "names": [
+   "Inter Milan",
+   "Inter Mailand",
+   "Интернационале",
+   "Internazionale Milano",
+   "The Inter",
+   "Internazionale",
+   "FC Internazionale Milano",
+   "Football Club Inter Milan",
+   "I M",
+   "FCIM",
+   "F.C. Inter Milan",
+   "Inter Milano",
+   "F.C. Inter",
+   "Football Club Inter",
+   "Inter of Milan",
+   "Football Club Internazionale Milano",
+   "FCInter",
+   "IM",
+   "FC Inter",
+   "Inter soccer club",
+   "F.C.I.M.",
+   "Inter",
+   "Inter Club",
+   "Inter FC",
+   "Inter Football Club",
+   "Inter",
+   "Internazionale",
+   "FCIM",
+   "Internazionale Mailand",
+   "FC Internazionale Mailand",
+   "Fußball-Club Inter Mailand",
+   "Fußball-Club Internazionale Mailand",
+   "Fußball-Club Inter",
+   "Inter Milano",
+   "FC Internazionale Milano",
+   "FC Internazionale",
+   "Internazionale Milano",
+   "Интер",
+   "Интер Милан",
+   "Миланский Интер"
+  ]
+ },
+ "Q65124755": {
+  "label": {
+   "de": "FK Akron Toljatti",
+   "en": "FC Akron Tolyatti",
+   "ru": "Акрон"
+  },
+  "names": [
+   "Акрон",
+   "FC Akron Tolyatti",
+   "FK Akron Toljatti",
+   "ФК Акрон Тольятти"
+  ]
+ },
+ "Q66210522": {
+  "label": {
+   "de": "FC Rodina Moskau",
+   "en": "FC Rodina Moscow",
+   "ru": "Родина (футбольный клуб, Москва)"
+  },
+  "names": [
+   "Родина (футбольный клуб, Москва)",
+   "FC Rodina Moscow",
+   "FC Rodina Moskau"
+  ]
+ },
  "Q692691": {
   "label": {
    "de": "SV Elversberg",
@@ -439,11 +2018,502 @@
    "The Red Bulls"
   ]
  },
+ "Q704": {
+  "label": {
+   "de": "Olympique Lyon",
+   "en": "Olympique Lyonnais",
+   "ru": "Олимпик"
+  },
+  "names": [
+   "Olympique Lyonnais",
+   "Olympique Lyon",
+   "Олимпик",
+   "Lyon",
+   "OL",
+   "O. Lyon",
+   "O. Lyonnais",
+   "O.L.",
+   "Olympique Lyonnais",
+   "Lyon",
+   "OL",
+   "Олимпик Лион",
+   "Лион"
+  ]
+ },
+ "Q7156": {
+  "label": {
+   "de": "FC Barcelona",
+   "en": "FC Barcelona",
+   "ru": "Барселона"
+  },
+  "names": [
+   "FC Barcelona",
+   "FC Barcelona",
+   "Барселона",
+   "Fútbol Club Barcelona",
+   "Barcelona FC",
+   "F.C. Barcelona",
+   "Barcelona Football Club",
+   "Football Club of Barcelona",
+   "FC Barcelona Football",
+   "FCBarcelona",
+   "F.C.B.",
+   "F.C.Barcelona",
+   "Football Club Barcelona",
+   "ФК Барселона",
+   "Барселона (футбольный клуб)",
+   "ФК «Барселона»"
+  ]
+ },
+ "Q795978": {
+  "label": {
+   "de": "Baltika Kaliningrad",
+   "en": "FC Baltika Kaliningrad",
+   "ru": "Балтика"
+  },
+  "names": [
+   "Балтика",
+   "FC Baltika Kaliningrad",
+   "Baltika Kaliningrad",
+   "Футбольный клуб Балтика",
+   "Балтика Калининград",
+   "ФК Балтика",
+   "Футбольный клуб «Балтика» Калининград",
+   "FC Baltika Kaliningrad"
+  ]
+ },
+ "Q845043": {
+  "label": {
+   "de": "Frosinone Calcio",
+   "en": "Frosinone Calcio",
+   "ru": "Фрозиноне"
+  },
+  "names": [
+   "Фрозиноне",
+   "Frosinone Calcio",
+   "Frosinone Calcio",
+   "Frosinone Football Club",
+   "Frosinone FC",
+   "Frosinone 1928"
+  ]
+ },
+ "Q845137": {
+  "label": {
+   "de": "SCO Angers",
+   "en": "Angers SCO",
+   "ru": "Анже"
+  },
+  "names": [
+   "Анже",
+   "Angers SCO",
+   "SCO Angers",
+   "Анжерс",
+   "Angers SCO",
+   "Angers Sporting Club de l'Ouest",
+   "SCO",
+   "SCO of Angers",
+   "Angers"
+  ]
+ },
+ "Q8603": {
+  "label": {
+   "de": "US Sassuolo Calcio",
+   "en": "US Sassuolo Calcio",
+   "ru": "Сассуоло"
+  },
+  "names": [
+   "US Sassuolo Calcio",
+   "US Sassuolo Calcio",
+   "Сассуоло",
+   "Sassuolo Calcio",
+   "U.S. Sassuolo Calcio",
+   "Sassuolo Calcio",
+   "Sassuolo",
+   "Unione Sportiva Sassuolo Calcio",
+   "U.S. Sassuolo Calcio"
+  ]
+ },
+ "Q8682": {
+  "label": {
+   "de": "Real Madrid",
+   "en": "Real Madrid Club de Fútbol",
+   "ru": "Реал Мадрид"
+  },
+  "names": [
+   "Real Madrid",
+   "Реал Мадрид",
+   "Real Madrid Club de Fútbol",
+   "Real Madrid",
+   "Real Madrid Football Club",
+   "Real Madrid C.F.",
+   "RMCF",
+   "Real FC",
+   "Royal Madrid Football Club",
+   "Real Madrid Club of Football",
+   "Real Football Club",
+   "Royal Madrid",
+   "Madrid Football Club",
+   "Madrid FC",
+   "Real Madrid Club de Fútbol",
+   "Real",
+   "Real Madrid CF",
+   "ФК Реал Мадрид"
+  ]
+ },
+ "Q8687": {
+  "label": {
+   "de": "Athletic Bilbao",
+   "en": "Athletic Club",
+   "ru": "Атлетик Бильбао"
+  },
+  "names": [
+   "Athletic Club",
+   "Athletic Bilbao",
+   "Атлетик Бильбао",
+   "Vizcaya de Bilbao",
+   "Athletic Club",
+   "Athletic Club de Bilbao",
+   "Athletic",
+   "Athletic Bilbao",
+   "Athletic Club de Bilbao"
+  ]
+ },
+ "Q8701": {
+  "label": {
+   "de": "Atlético Madrid",
+   "en": "Atlético Madrid",
+   "ru": "Атлетико Мадрид"
+  },
+  "names": [
+   "Atlético Madrid",
+   "Atlético Madrid",
+   "Атлетико Мадрид",
+   "Atletico Madrid",
+   "Atlético de Madrid",
+   "Atletico de Madrid",
+   "Club Atlético de Madrid S.A.D.",
+   "Club Atletico de Madrid S.A.D.",
+   "Club Atlético de Madrid, SAD",
+   "Club Atlético de Madrid",
+   "Atletico",
+   "El Atleti",
+   "ATM Football Club",
+   "Atletico of Madrid",
+   "Atleti de Madrid",
+   "ATM",
+   "Atl. de Madrid",
+   "The Atletico",
+   "Atlético",
+   "AtléticoDeMadrid",
+   "Atletico de Madrid"
+  ]
+ },
+ "Q8723": {
+  "label": {
+   "de": "Betis Sevilla",
+   "en": "Real Betis Balompié",
+   "ru": "Реал Бетис"
+  },
+  "names": [
+   "Real Betis Balompié",
+   "Betis Sevilla",
+   "Реал Бетис",
+   "balompédicos",
+   "Real Betis football",
+   "Real Betis Soccer",
+   "Real Betis",
+   "Beticos, verdiblancos",
+   "Real Betis Balompié S.A.D.",
+   "Betis",
+   "Real Betis Sevilla",
+   "Real Betis Balompie",
+   "Real Betis Balompié",
+   "Real Betis",
+   "Betis"
+  ]
+ },
+ "Q8749": {
+  "label": {
+   "de": "Celta Vigo",
+   "en": "RC Celta de Vigo",
+   "ru": "Сельта"
+  },
+  "names": [
+   "RC Celta de Vigo",
+   "Celta Vigo",
+   "Сельта",
+   "RC Celta de Vigo",
+   "R.C. Celta de Vigo",
+   "Celta de Vigo",
+   "Real Club Celta de Vigo",
+   "Fortuna de Vigo",
+   "Real Club Fortuna de Vigo",
+   "Real Club Celta S.A.D.",
+   "RC Celta",
+   "Real Club Celta",
+   "R.C. Celta de Vigo",
+   "RCCV",
+   "Celta Vigo",
+   "Celta"
+  ]
+ },
+ "Q8760": {
+  "label": {
+   "de": "Deportivo A Coruña",
+   "en": "Deportivo de A Coruña",
+   "ru": "Депортиво Ла-Корунья"
+  },
+  "names": [
+   "Deportivo de A Coruña",
+   "Deportivo A Coruña",
+   "Депортиво Ла-Корунья",
+   "Deportivo de La Coruña",
+   "Real Club Deportivo de La Coruña",
+   "Depor",
+   "Real Club Deportivo de A Coruña",
+   "Deportivo da Coruña",
+   "Deportivo La Coruña",
+   "RC Deportivo",
+   "Deportivo de A Coruña",
+   "Real Club Deportivo de La Coruña",
+   "Dépor",
+   "Deportivo",
+   "Real Club Deportivo de La Coruña S.A.D.",
+   "Club Deportivo de la Sala Calvet, Turcos",
+   "Depor",
+   "R.C. Deportivo de La Coruña",
+   "Real Club Deportivo de A Coruña"
+  ]
+ },
+ "Q8780": {
+  "label": {
+   "de": "Espanyol Barcelona",
+   "en": "RCD Espanyol de Barcelona",
+   "ru": "Эспаньол"
+  },
+  "names": [
+   "RCD Espanyol de Barcelona",
+   "Espanyol Barcelona",
+   "Эспаньол",
+   "RCDE",
+   "RCD Espanyol",
+   "Reial Club Deportiu Espanyol de Barcelona",
+   "Espanyol",
+   "R.C.D. Espanyol de Barcelona",
+   "R.C.D. Espanyol of Barcelona",
+   "R.C.D. Espanyol",
+   "RCD Espanyol of Barcelona",
+   "Espanyol of Barcelona",
+   "Espanyol Barcelona",
+   "RCD Espanyol",
+   "RCD Espanyol de Barcelona",
+   "RCDE"
+  ]
+ },
+ "Q8806": {
+  "label": {
+   "de": "FC Getafe",
+   "en": "Getafe CF",
+   "ru": "Хетафе"
+  },
+  "names": [
+   "Getafe CF",
+   "FC Getafe",
+   "Хетафе",
+   "Getafe Club de Fútbol",
+   "Getafe Club de Futbol",
+   "Getafe Club de Fútbol Team",
+   "Getafe",
+   "Getafe Football Club",
+   "Getafe Club of Football",
+   "Getafe C.F."
+  ]
+ },
+ "Q8857": {
+  "label": {
+   "de": "FC Málaga",
+   "en": "Málaga CF",
+   "ru": "Малага"
+  },
+  "names": [
+   "Málaga CF",
+   "FC Málaga",
+   "Малага",
+   "Málaga CF",
+   "FC Malaga",
+   "Málaga Club of Football",
+   "Málaga C.F.",
+   "MálagaCF",
+   "MCF",
+   "Malaga CF",
+   "Malaga Football Club",
+   "Malaga C.F.",
+   "M.C.F."
+  ]
+ },
+ "Q9616": {
+  "label": {
+   "de": "FC Chelsea",
+   "en": "Chelsea F.C.",
+   "ru": "Челси"
+  },
+  "names": [
+   "Chelsea F.C.",
+   "FC Chelsea",
+   "Челси",
+   "Chelsea Football Club",
+   "Chelsea FC",
+   "Chelsea",
+   "The Blues",
+   "The Pensioners",
+   "CFC",
+   "Челси (мужской футбольный клуб)",
+   "Челси (ФК)",
+   "Челси (футбольный клуб)",
+   "FC Chelsea",
+   "Chelsea",
+   "Chelsea Football Club",
+   "Chelsea London",
+   "The Blues",
+   "Chelsea F.C.",
+   "Chelsea FC"
+  ]
+ },
+ "Q9617": {
+  "label": {
+   "de": "FC Arsenal",
+   "en": "Arsenal F.C.",
+   "ru": "Арсенал"
+  },
+  "names": [
+   "Arsenal F.C.",
+   "FC Arsenal",
+   "Арсенал",
+   "AFC",
+   "Arsenal Football Club",
+   "The Arsenal",
+   "The Ars",
+   "The Arsenal F.C.",
+   "The Arsenal FC",
+   "A.F.C.",
+   "Arsenal London",
+   "Arsenal London",
+   "Arsenal Football Club"
+  ]
+ },
+ "Q9653": {
+  "label": {
+   "de": "Ipswich Town",
+   "en": "Ipswich Town F.C.",
+   "ru": "Ипсвич Таун"
+  },
+  "names": [
+   "Ipswich Town F.C.",
+   "Ipswich Town",
+   "Ипсвич Таун",
+   "Ipswich Town Football Club",
+   "Ipswich Town FC",
+   "Ipswich Town",
+   "Ipswich",
+   "The Blues",
+   "The Tractor Boys",
+   "Town",
+   "ITFC"
+  ]
+ },
  "search": {
+  "soccer|AC Milan": "Q1543",
+  "soccer|Akhmat Grozny": "Q240444",
+  "soccer|Akron Tolyatti": "Q65124755",
+  "soccer|Angers": "Q845137",
+  "soccer|Arsenal": "Q9617",
+  "soccer|Aston Villa": "Q18711",
+  "soccer|Atalanta": "Q1886",
+  "soccer|Athletic Bilbao": "Q8687",
+  "soccer|Atlético Madrid": "Q8701",
+  "soccer|Auxerre": "Q182876",
+  "soccer|Baltika Kaliningrad": "Q795978",
+  "soccer|Barcelona": "Q7156",
+  "soccer|Bologna": "Q1893",
   "soccer|Borussia Mönchengladbach": "Q101959",
+  "soccer|Bournemouth": "Q19568",
+  "soccer|Brest": "Q218372",
+  "soccer|Brighton and Hove Albion": "Q19453",
+  "soccer|CSKA Moscow": "Q176371",
+  "soccer|Cagliari": "Q1900",
+  "soccer|Celta Vigo": "Q8749",
+  "soccer|Chelsea": "Q9616",
+  "soccer|Como": "Q1120838",
+  "soccer|Coventry City": "Q19580",
+  "soccer|Crystal Palace": "Q19467",
+  "soccer|Deportivo Alavés": "Q223620",
+  "soccer|Deportivo de A Coruña": "Q8760",
+  "soccer|Dynamo Makhachkala": "Q2494171",
+  "soccer|Dynamo Moscow": "Q1269117",
+  "soccer|Espanyol": "Q8780",
+  "soccer|Fakel Voronezh": "Q1388889",
+  "soccer|Frosinone": "Q845043",
+  "soccer|Fulham": "Q18708",
+  "soccer|Genoa": "Q2074",
+  "soccer|Getafe": "Q8806",
+  "soccer|Hull City": "Q19477",
+  "soccer|Inter Milan": "Q631",
+  "soccer|Ipswich Town": "Q9653",
+  "soccer|Juventus": "Q1422",
+  "soccer|Krasnodar": "Q220854",
+  "soccer|Krylia Sovetov Samara": "Q274778",
+  "soccer|Lazio": "Q2609",
+  "soccer|Le Havre": "Q328658",
+  "soccer|Le Mans": "Q210864",
+  "soccer|Lecce": "Q13391",
+  "soccer|Leeds United": "Q1128631",
+  "soccer|Lens": "Q191843",
+  "soccer|Lille": "Q19516",
+  "soccer|Liverpool": "Q1130849",
+  "soccer|Lokomotiv Moscow": "Q29115",
+  "soccer|Lorient": "Q48911",
+  "soccer|Lyon": "Q704",
+  "soccer|Manchester City": "Q50602",
+  "soccer|Manchester United": "Q18656",
+  "soccer|Marseille": "Q132885",
+  "soccer|Monaco": "Q180305",
+  "soccer|Málaga": "Q8857",
+  "soccer|Napoli": "Q2641",
+  "soccer|Newcastle United": "Q18716",
+  "soccer|Nice": "Q185163",
+  "soccer|Nottingham Forest": "Q19490",
+  "soccer|Orenburg": "Q2095484",
+  "soccer|Osasuna": "Q10286",
+  "soccer|Paris FC": "Q1051013",
+  "soccer|Paris Saint-Germain": "Q483020",
+  "soccer|Parma": "Q2693",
   "soccer|RB Leipzig": "Q702455",
+  "soccer|Racing de Santander": "Q12236",
+  "soccer|Rayo Vallecano": "Q10300",
+  "soccer|Real Betis": "Q8723",
+  "soccer|Real Madrid": "Q8682",
+  "soccer|Real Sociedad": "Q10315",
+  "soccer|Rennes": "Q19509",
+  "soccer|Rodina Moscow": "Q66210522",
+  "soccer|Roma": "Q2739",
+  "soccer|Rostov": "Q182930",
+  "soccer|Rubin Kazan": "Q170040",
   "soccer|SV 07 Elversberg": "Q692691",
   "soccer|SV Werder Bremen": "Q51976",
-  "soccer|TSG Hoffenheim": "Q22707"
+  "soccer|Sassuolo": "Q8603",
+  "soccer|Sevilla": "Q10329",
+  "soccer|Spartak Moscow": "Q29112",
+  "soccer|Strasbourg": "Q126334",
+  "soccer|Sunderland": "Q18739",
+  "soccer|TSG Hoffenheim": "Q22707",
+  "soccer|Torino": "Q2768",
+  "soccer|Tottenham Hotspur": "Q18741",
+  "soccer|Toulouse": "Q19518",
+  "soccer|Troyes": "Q501693",
+  "soccer|Udinese": "Q2798",
+  "soccer|Valencia": "Q10333",
+  "soccer|Venezia": "Q501245",
+  "soccer|Villarreal": "Q12297",
+  "soccer|Zenit Saint Petersburg": "Q29108"
  }
 }

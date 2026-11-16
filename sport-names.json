@@ -1,0 +1,16 @@
+{
+ "search": {
+  "soccer|Nice": "Q185163",
+  "soccer|Roma": "Q2739",
+  "soccer|Monaco": "Q180305",
+  "soccer|Brest": "Q218372",
+  "soccer|Osasuna": "Q10286",
+  "soccer|CSKA Moscow": "Q176371"
+ },
+ "Q704": {"label": {"ru": "Лион"}},
+ "Q132885": {"label": {"ru": "Марсель"}},
+ "Q631": {"label": {"ru": "Интер"}},
+ "Q66210522": {"label": {"ru": "Родина"}, "names": ["Родина"]},
+ "Q2494171": {"label": {"ru": "Динамо Махачкала"}},
+ "Q1269117": {"names": ["Динамо"]}
+}

@@ -1,4 +1,19 @@
 {
+ "Q100529919": {
+  "label": {
+   "de": "Galatasaray Istanbul",
+   "en": "Galatasaray S.K."
+  },
+  "names": [
+   "Galatasaray S.K.",
+   "Galatasaray Istanbul",
+   "Galatasaray",
+   "Galatasaray Istanbul",
+   "Gala",
+   "Galatasaray Women",
+   "Galatasaray Kadın"
+  ]
+ },
  "Q101959": {
   "label": {
    "de": "Borussia Mönchengladbach",
@@ -332,6 +347,20 @@
    "L.F.C."
   ]
  },
+ "Q11938": {
+  "label": {
+   "de": "PSV Eindhoven",
+   "en": "PSV Eindhoven",
+   "ru": "ПСВ"
+  },
+  "names": [
+   "PSV Eindhoven",
+   "PSV Eindhoven",
+   "ПСВ",
+   "Philips Sport Vereniging",
+   "Eindhoven Football Club"
+  ]
+ },
  "Q12236": {
   "label": {
    "de": "Racing de Santander",
@@ -435,6 +464,29 @@
    "MGO VFSO \"Dynamo\""
   ]
  },
+ "Q128446": {
+  "label": {
+   "de": "FC Porto",
+   "en": "FC Porto",
+   "ru": "Порту"
+  },
+  "names": [
+   "Порту",
+   "FC Porto",
+   "FC Porto",
+   "ФК Порту",
+   "Порто",
+   "FC Porto B",
+   "Futebol Clube do Porto",
+   "FCP",
+   "FCPorto",
+   "F.C.Porto",
+   "F.C.P.",
+   "F.C. Porto",
+   "Futebol Clube do Porto",
+   "Porto"
+  ]
+ },
  "Q132885": {
   "label": {
    "de": "Olympique Marseille",
@@ -478,6 +530,25 @@
    "Lecce Sports Union",
    "Lecce",
    "U.S. Lecce"
+  ]
+ },
+ "Q134241": {
+  "label": {
+   "de": "Feyenoord Rotterdam",
+   "en": "Feyenoord Rotterdam",
+   "ru": "Фейеноорд"
+  },
+  "names": [
+   "Фейеноорд",
+   "Feyenoord Rotterdam",
+   "Feyenoord Rotterdam",
+   "Фейнорд Роттердам",
+   "Фейеноорд Роттердам",
+   "Фейенорд",
+   "Feyenoord",
+   "Feijenoord Rotterdam",
+   "Feyenoord",
+   "FeyenoordRotterdam"
   ]
  },
  "Q1388889": {
@@ -1288,6 +1359,27 @@
    "Kingdom of Norway"
   ]
  },
+ "Q201584": {
+  "label": {
+   "de": "AEK Athen",
+   "en": "AEK Athens F.C.",
+   "ru": "АЕК"
+  },
+  "names": [
+   "AEK Athen",
+   "AEK Athens F.C.",
+   "АЕК",
+   "Athlitiki Enosi Konstantinoupoleos",
+   "АЕК Афины",
+   "AEK FC",
+   "A.E.K. FC",
+   "A.E.K. F.C.",
+   "AEK Athens",
+   "P.A.E. AEK",
+   "PAE AEK",
+   "AEK F.C."
+  ]
+ },
  "Q2052": {
   "label": {
    "de": "AC Florenz",
@@ -1950,6 +2042,28 @@
    "Hungary"
   ]
  },
+ "Q2817362": {
+  "label": {
+   "de": "Arsenal Tula",
+   "en": "FC Arsenal Tula",
+   "ru": "Арсенал"
+  },
+  "names": [
+   "Арсенал",
+   "FC Arsenal Tula",
+   "Arsenal Tula",
+   "Football Club Arsenal Tula",
+   "Арсенал-Тула",
+   "ФК Арсенал-Тула",
+   "ФК Арсенал Тула",
+   "ФК Оружейник",
+   "ПФК \"Арсенал\"",
+   "Оружейник",
+   "Арсенал Тула",
+   "ПФК Арсенал Тула",
+   "FK Arsenal Tula"
+  ]
+ },
  "Q289482": {
   "label": {
    "de": "AC Monza",
@@ -2219,6 +2333,15 @@
    "Danemark"
   ]
  },
+ "Q3594211": {
+  "label": {
+   "en": "Slovan Bratislava"
+  },
+  "names": [
+   "Slovan Bratislava",
+   "ŠK Slovan Bratislava"
+  ]
+ },
  "Q36": {
   "label": {
    "de": "Polen",
@@ -2309,6 +2432,26 @@
    "Swiss Confederation",
    "Swiss",
    "Confoederatio Helvetica"
+  ]
+ },
+ "Q392310": {
+  "label": {
+   "de": "LASK",
+   "en": "LASK Linz",
+   "ru": "ЛАСК"
+  },
+  "names": [
+   "LASK",
+   "LASK Linz",
+   "ЛАСК",
+   "Linzer Athletik-Sport-Klub",
+   "Linzer ASK",
+   "FC LASK Linz",
+   "LASK Linz",
+   "Linzer Athletik-Sport-Klub",
+   "Linzer ASK",
+   "LASK",
+   "L.A.S.K. Linz"
   ]
  },
  "Q40": {
@@ -2489,6 +2632,19 @@
    "Farre I.",
    "Farre Is.",
    "Farre Isl."
+  ]
+ },
+ "Q478167": {
+  "label": {
+   "de": "FK Bodø/Glimt",
+   "en": "FK Bodø/Glimt",
+   "ru": "Будё-Глимт"
+  },
+  "names": [
+   "FK Bodø/Glimt",
+   "FK Bodø/Glimt",
+   "Будё-Глимт",
+   "Bodø/Glimt"
   ]
  },
  "Q483020": {
@@ -3283,6 +3439,7 @@
   "nation|Ukraine": "Q212",
   "nation|Wales": "Q25",
   "soccer|AC Milan": "Q1543",
+  "soccer|AEK Athen": "Q201584",
   "soccer|Akhmat Grozny": "Q240444",
   "soccer|Akron Tolyatti": "Q65124755",
   "soccer|Angers": "Q845137",
@@ -3305,6 +3462,7 @@
   "soccer|Celta Vigo": "Q8749",
   "soccer|Chelsea": "Q9616",
   "soccer|Como": "Q1120838",
+  "soccer|Como 1907": "Q1120838",
   "soccer|Coventry City": "Q19580",
   "soccer|Crystal Palace": "Q19467",
   "soccer|Deportivo Alavés": "Q223620",
@@ -3314,10 +3472,15 @@
   "soccer|Elche": "Q10512",
   "soccer|Espanyol": "Q8780",
   "soccer|Everton": "Q5794",
+  "soccer|FC Arsenal": "Q2817362",
+  "soccer|FC Porto": "Q128446",
+  "soccer|FK Bodö/Glimt": "Q478167",
   "soccer|Fakel Voronezh": "Q1388889",
+  "soccer|Feyenoord Rotterdam": "Q134241",
   "soccer|Fiorentina": "Q2052",
   "soccer|Frosinone": "Q845043",
   "soccer|Fulham": "Q18708",
+  "soccer|Galatasaray Istanbul": "Q100529919",
   "soccer|Genoa": "Q2074",
   "soccer|Getafe": "Q8806",
   "soccer|Hull City": "Q19477",
@@ -3350,10 +3513,12 @@
   "soccer|Nottingham Forest": "Q19490",
   "soccer|Orenburg": "Q2095484",
   "soccer|Osasuna": "Q10286",
+  "soccer|PSV Eindhoven": "Q11938",
   "soccer|Paris FC": "Q1051013",
   "soccer|Paris Saint-Germain": "Q483020",
   "soccer|Parma": "Q2693",
   "soccer|RB Leipzig": "Q702455",
+  "soccer|RC Lens": "Q191843",
   "soccer|Racing de Santander": "Q12236",
   "soccer|Rayo Vallecano": "Q10300",
   "soccer|Real Betis": "Q8723",
@@ -3364,10 +3529,12 @@
   "soccer|Roma": "Q2739",
   "soccer|Rostov": "Q182930",
   "soccer|Rubin Kazan": "Q170040",
+  "soccer|SSC Napoli ": "Q2641",
   "soccer|SV 07 Elversberg": "Q692691",
   "soccer|SV Werder Bremen": "Q51976",
   "soccer|Sassuolo": "Q8603",
   "soccer|Sevilla": "Q10329",
+  "soccer|Slovan Bratislava": "Q3594211",
   "soccer|Spartak Moscow": "Q29112",
   "soccer|Strasbourg": "Q126334",
   "soccer|Sunderland": "Q18739",

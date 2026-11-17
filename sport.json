@@ -4,296 +4,6 @@
   {
    "away": {
     "label": {
-     "de": "Portugal",
-     "en": "Portugal",
-     "ru": "Португалия"
-    },
-    "name": "Portugal",
-    "names": [
-     "Portugal",
-     "Португалия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Wales",
-     "en": "Wales",
-     "ru": "Уэльс"
-    },
-    "name": "Wales",
-    "names": [
-     "Wales",
-     "Уэльс"
-    ]
-   },
-   "id": "thesportsdb:2442856",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Norwegen",
-     "en": "Norway",
-     "ru": "Норвегия"
-    },
-    "name": "Norway",
-    "names": [
-     "Norway",
-     "Norwegen",
-     "Норвегия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Dänemark",
-     "en": "Denmark",
-     "ru": "Дания"
-    },
-    "name": "Denmark",
-    "names": [
-     "Denmark",
-     "Dänemark",
-     "Дания"
-    ]
-   },
-   "id": "thesportsdb:2442857",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Georgien",
-     "en": "Georgia",
-     "ru": "Грузия"
-    },
-    "name": "Georgia",
-    "names": [
-     "Georgia",
-     "Georgien",
-     "Грузия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Ukraine",
-     "en": "Ukraine",
-     "ru": "Украина"
-    },
-    "name": "Ukraine",
-    "names": [
-     "Ukraine",
-     "Украина"
-    ]
-   },
-   "id": "thesportsdb:2442858",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Nordirland",
-     "en": "Northern Ireland",
-     "ru": "Северная Ирландия"
-    },
-    "name": "N.Ireland",
-    "names": [
-     "N.Ireland",
-     "Nordirland",
-     "Northern Ireland",
-     "Северная Ирландия",
-     "Сев. Ирландия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Ungarn",
-     "en": "Hungary",
-     "ru": "Венгрия"
-    },
-    "name": "Hungary",
-    "names": [
-     "Hungary",
-     "Ungarn",
-     "Венгрия"
-    ]
-   },
-   "id": "thesportsdb:2442859",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Österreich",
-     "en": "Austria",
-     "ru": "Австрия"
-    },
-    "name": "Austria",
-    "names": [
-     "Austria",
-     "Österreich",
-     "Австрия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Israel",
-     "en": "Israel",
-     "ru": "Израиль"
-    },
-    "name": "Israel",
-    "names": [
-     "Israel",
-     "Израиль"
-    ]
-   },
-   "id": "thesportsdb:2442860",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Kosovo",
-     "en": "Kosovo",
-     "ru": "Косово"
-    },
-    "name": "Kosovo",
-    "names": [
-     "Kosovo",
-     "Республика Косово",
-     "Косово"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Irland",
-     "en": "Ireland",
-     "ru": "Ирландия"
-    },
-    "name": "Ireland",
-    "names": [
-     "Ireland",
-     "Irland",
-     "Ирландия"
-    ]
-   },
-   "id": "thesportsdb:2442861",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Schweden",
-     "en": "Sweden",
-     "ru": "Швеция"
-    },
-    "name": "Sweden",
-    "names": [
-     "Sweden",
-     "Schweden",
-     "Швеция"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Polen",
-     "en": "Poland",
-     "ru": "Польша"
-    },
-    "name": "Poland",
-    "names": [
-     "Poland",
-     "Polen",
-     "Польша"
-    ]
-   },
-   "id": "thesportsdb:2442862",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Rumänien",
-     "en": "Romania",
-     "ru": "Румыния"
-    },
-    "name": "Romania",
-    "names": [
-     "Romania",
-     "Rumänien",
-     "Румыния"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Bosnien und Herzegowina",
-     "en": "Bosnia and Herzegovina",
-     "ru": "Босния и Герцеговина"
-    },
-    "name": "Bosnia-Herzegovina",
-    "names": [
-     "Bosnia-Herzegovina",
-     "Bosnien und Herzegowina",
-     "Bosnia and Herzegovina",
-     "Босния и Герцеговина",
-     "Босния",
-     "Bosnien-Herzegowina",
-     "Bosnien"
-    ]
-   },
-   "id": "thesportsdb:2442863",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794944700
-  },
-  {
-   "away": {
-    "label": {
      "de": "Krylja Sowetow Samara",
      "en": "FC Krylia Sovetov Samara",
      "ru": "Крылья Советов"
@@ -3289,9 +2999,461 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1795464000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Aston Villa",
+     "en": "Aston Villa F.C.",
+     "ru": "Астон Вилла"
+    },
+    "name": "Aston Villa",
+    "names": [
+     "Aston Villa",
+     "Villa",
+     "Aston Villa F.C.",
+     "Астон Вилла",
+     "Aston Villa Football Club",
+     "Aston Villa FC",
+     "The Villans",
+     "The Villa",
+     "AVFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Galatasaray Istanbul",
+     "en": "Galatasaray S.K."
+    },
+    "name": "Galatasaray Istanbul",
+    "names": [
+     "Galatasaray Istanbul",
+     "Galatasaray",
+     "Galatasaray S.K.",
+     "Gala",
+     "Galatasaray Women",
+     "Galatasaray Kadın"
+    ]
+   },
+   "id": "openligadb:87460",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795542300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "LASK",
+     "en": "LASK Linz",
+     "ru": "ЛАСК"
+    },
+    "name": "LASK",
+    "names": [
+     "LASK",
+     "LASK Linz",
+     "ЛАСК",
+     "Linzer Athletik-Sport-Klub",
+     "Linzer ASK",
+     "FC LASK Linz",
+     "L.A.S.K. Linz"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FK Bodø/Glimt",
+     "en": "FK Bodø/Glimt",
+     "ru": "Будё-Глимт"
+    },
+    "name": "FK Bodö/Glimt",
+    "names": [
+     "FK Bodö/Glimt",
+     "Bodö/Glimt",
+     "FK Bodø/Glimt",
+     "Bodø/Glimt",
+     "Будё-Глимт"
+    ]
+   },
+   "id": "openligadb:87461",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795542300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "PSV Eindhoven",
+     "en": "PSV Eindhoven",
+     "ru": "ПСВ"
+    },
+    "name": "PSV Eindhoven",
+    "names": [
+     "PSV Eindhoven",
+     "PSV",
+     "ПСВ",
+     "Philips Sport Vereniging",
+     "Eindhoven Football Club"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Real Madrid",
+     "en": "Real Madrid Club de Fútbol",
+     "ru": "Реал Мадрид"
+    },
+    "name": "Real Madrid",
+    "names": [
+     "Real Madrid",
+     "Madrid",
+     "Реал Мадрид",
+     "Real Madrid Club de Fútbol",
+     "Real Madrid Football Club",
+     "Real Madrid C.F.",
+     "RMCF",
+     "Real FC",
+     "Real",
+     "Royal Madrid Football Club",
+     "Real Madrid Club of Football",
+     "Real Football Club",
+     "Royal Madrid",
+     "Madrid Football Club",
+     "Madrid FC",
+     "Real Madrid CF",
+     "ФК Реал Мадрид"
+    ]
+   },
+   "id": "openligadb:87462",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "SSC Neapel",
+     "en": "SSC Napoli",
+     "ru": "Наполи"
+    },
+    "name": "SSC Napoli ",
+    "names": [
+     "SSC Napoli ",
+     "SSC Napoli",
+     "SSC Neapel",
+     "Наполи",
+     "Società Sportiva Calcio Napoli",
+     "Societa Sportiva Calcio Napoli",
+     "Napoli",
+     "SSCN",
+     "SSC Naples",
+     "S.S.C. Napoli",
+     "S.S.C.N."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Manchester City",
+     "en": "Manchester City F.C.",
+     "ru": "Манчестер Сити"
+    },
+    "name": "Manchester City",
+    "names": [
+     "Manchester City",
+     "Man'City",
+     "Manchester City F.C.",
+     "Манчестер Сити",
+     "Manchester City Football Club",
+     "The Citizens",
+     "Manchester City FC",
+     "Man City",
+     "Manchester City F.C. Soccer",
+     "Citizens",
+     "Sky Blues",
+     "MCFC",
+     "City",
+     "The Sky Blues",
+     "The Blues"
+    ]
+   },
+   "id": "openligadb:87463",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Borussia Dortmund",
+     "en": "Borussia Dortmund",
+     "ru": "Боруссия"
+    },
+    "name": "Borussia Dortmund",
+    "names": [
+     "Borussia Dortmund",
+     "Dortmund",
+     "Боруссия",
+     "Боруссия Дортмунд",
+     "Ballspielverein Borussia 09 Dortmund",
+     "BV 09 Borussia Dortmund",
+     "Ballspielverein Borussia Dortmund",
+     "BV Borussia 09 Dortmund",
+     "BVB 09",
+     "BVB Dortmund",
+     "BVB 09 Dortmund",
+     "Ballspiel-Verein Borussia 1909",
+     "Ballspiel-Verein Borussia",
+     "BV Borussia Dortmund",
+     "BVB09",
+     "Borussia 09",
+     "Borussia",
+     "BVB",
+     "Borussia Dortmund GmbH & Co. KGaA",
+     "Die Borussen",
+     "Die Schwarzgelben",
+     "The Black and Yellows"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Arsenal Tula",
+     "en": "FC Arsenal Tula",
+     "ru": "Арсенал"
+    },
+    "name": "FC Arsenal",
+    "names": [
+     "FC Arsenal",
+     "Arsenal",
+     "Арсенал",
+     "FC Arsenal Tula",
+     "Arsenal Tula",
+     "Football Club Arsenal Tula",
+     "Арсенал-Тула",
+     "ФК Арсенал-Тула",
+     "ФК Арсенал Тула",
+     "Арсенал Тула",
+     "ФК Оружейник",
+     "Оружейник",
+     "ПФК \"Арсенал\"",
+     "\"Арсенал\"",
+     "ПФК Арсенал Тула",
+     "FK Arsenal Tula"
+    ]
+   },
+   "id": "openligadb:87464",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Porto",
+     "en": "FC Porto",
+     "ru": "Порту"
+    },
+    "name": "FC Porto",
+    "names": [
+     "FC Porto",
+     "Porto",
+     "Порту",
+     "ФК Порту",
+     "Порто",
+     "FC Porto B",
+     "Porto B",
+     "Futebol Clube do Porto",
+     "FCP",
+     "FCPorto",
+     "F.C.Porto",
+     "F.C.P.",
+     "F.C. Porto"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Feyenoord Rotterdam",
+     "en": "Feyenoord Rotterdam",
+     "ru": "Фейеноорд"
+    },
+    "name": "Feyenoord Rotterdam",
+    "names": [
+     "Feyenoord Rotterdam",
+     "Feyenoord",
+     "Фейеноорд",
+     "Фейнорд Роттердам",
+     "Фейеноорд Роттердам",
+     "Фейенорд",
+     "Feijenoord Rotterdam",
+     "FeyenoordRotterdam"
+    ]
+   },
+   "id": "openligadb:87465",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Betis Sevilla",
+     "en": "Real Betis Balompié",
+     "ru": "Реал Бетис"
+    },
+    "name": "Real Betis",
+    "names": [
+     "Real Betis",
+     "Real Betis Balompié",
+     "Betis Sevilla",
+     "Реал Бетис",
+     "balompédicos",
+     "Real Betis football",
+     "Real Betis Soccer",
+     "Real Betis Balompié S.A.D.",
+     "Betis",
+     "Real Betis Sevilla",
+     "Real Betis Balompie"
+    ]
+   },
+   "home": {
+    "label": {
+     "en": "Slovan Bratislava"
+    },
+    "name": "Slovan Bratislava",
+    "names": [
+     "Slovan Bratislava",
+     "Bratislava",
+     "ŠK Slovan Bratislava"
+    ]
+   },
+   "id": "openligadb:87466",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "RC Lens",
+     "en": "R.C. Lens",
+     "ru": "Ланс"
+    },
+    "name": "RC Lens",
+    "names": [
+     "RC Lens",
+     "Lens",
+     "R.C. Lens",
+     "Ланс",
+     "Racing Lens",
+     "Racing Club de Lens",
+     "Расинг"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "RB Leipzig",
+     "en": "RB Leipzig",
+     "ru": "РБ Лейпциг"
+    },
+    "name": "RB Leipzig",
+    "names": [
+     "RB Leipzig",
+     "Leipzig",
+     "РБ Лейпциг",
+     "Лейпциг",
+     "Rasenball Leipzig",
+     "RasenBallsport Leipzig e.V.",
+     "RasenBallsport Leipzig",
+     "RasenBallsport Leipzig e. V.",
+     "Ред Булл",
+     "Die Roten Bullen",
+     "The Red Bulls"
+    ]
+   },
+   "id": "openligadb:87467",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AEK Athen",
+     "en": "AEK Athens F.C.",
+     "ru": "АЕК"
+    },
+    "name": "AEK Athen",
+    "names": [
+     "AEK Athen",
+     "AEK Athens F.C.",
+     "AEK Athens",
+     "АЕК",
+     "Athlitiki Enosi Konstantinoupoleos",
+     "АЕК Афины",
+     "AEK FC",
+     "A.E.K. FC",
+     "A.E.K.",
+     "A.E.K. F.C.",
+     "P.A.E. AEK",
+     "PAE AEK",
+     "AEK F.C."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Como 1907",
+     "en": "Como 1907",
+     "ru": "Комо"
+    },
+    "name": "Como 1907",
+    "names": [
+     "Como 1907",
+     "Como",
+     "Комо",
+     "Calcio Como",
+     "Como Calcio",
+     "F.C. Como"
+    ]
+   },
+   "id": "openligadb:87468",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795550400
   }
  ],
- "generated": 1794920381,
+ "generated": 1794952167,
  "license": "Fixtures marked OpenLigaDB: www.openligadb.de, ODbL 1.0. Fixtures marked TheSportsDB: www.thesportsdb.com. Team names: Wikidata, CC0.",
  "version": 1
 }

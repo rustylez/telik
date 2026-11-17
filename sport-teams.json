@@ -199,6 +199,20 @@
    "PFC"
   ]
  },
+ "Q10512": {
+  "label": {
+   "de": "FC Elche",
+   "en": "Elche CF",
+   "ru": "Эльче"
+  },
+  "names": [
+   "Elche CF",
+   "FC Elche",
+   "Эльче",
+   "Elche Club de Futbol",
+   "Elche Club de Fútbol, S.A.D."
+  ]
+ },
  "Q105254": {
   "label": {
    "de": "1. FSV Mainz 05",
@@ -1223,6 +1237,23 @@
    "AFCB"
   ]
  },
+ "Q19571": {
+  "label": {
+   "de": "FC Brentford",
+   "en": "Brentford F.C.",
+   "ru": "Брентфорд"
+  },
+  "names": [
+   "Brentford F.C.",
+   "FC Brentford",
+   "Брентфорд",
+   "Brentford Football Club",
+   "Brentford FC",
+   "Brentford",
+   "The Bees",
+   "BFC"
+  ]
+ },
  "Q19580": {
   "label": {
    "de": "Coventry City",
@@ -1255,6 +1286,31 @@
    "Königreich Norwegen",
    "Королевство Норвегия",
    "Kingdom of Norway"
+  ]
+ },
+ "Q2052": {
+  "label": {
+   "de": "AC Florenz",
+   "en": "ACF Fiorentina",
+   "ru": "Фиорентина"
+  },
+  "names": [
+   "Фиорентина",
+   "ACF Fiorentina",
+   "AC Florenz",
+   "Fiorentina",
+   "Associazione Calcio Fiorentina",
+   "A.C. Fiorentina",
+   "AC Fiorentina",
+   "A.C.F.Fiorentina",
+   "Florentia Viola",
+   "ACF Fiorentina",
+   "Fiorentina",
+   "Associazione Calcio Fiorentina",
+   "A.C. Fiorentina",
+   "AC Fiorentina",
+   "A.C.F.",
+   "ACF"
   ]
  },
  "Q2074": {
@@ -1892,6 +1948,40 @@
    "Венгрия",
    "Ungarn",
    "Hungary"
+  ]
+ },
+ "Q289482": {
+  "label": {
+   "de": "AC Monza",
+   "en": "AC Monza",
+   "ru": "Монца"
+  },
+  "names": [
+   "Монца",
+   "AC Monza",
+   "AC Monza",
+   "A.C. Monza Brianza",
+   "A.C. Monza",
+   "A C Monza Brianza 1912",
+   "A. C. Monza Brianza 1912",
+   "AC Monza Brianza 1912",
+   "Associazione Calcio Monza Brianza 1912",
+   "Monza Calcio",
+   "A.C. Monza Brianza 1912",
+   "S.S. Monza 1912 Srl",
+   "Società Sportiva Monza 1912",
+   "Monza",
+   "S.S. Monza",
+   "Società Sportiva Monza 1912 Srl",
+   "Associazione Calcio Monza",
+   "A.C.M.",
+   "ACM",
+   "ACMonza",
+   "Biancorossi",
+   "A.C. Monza Brianza 1912",
+   "Associazione Calcio Monza",
+   "Monza Calcio",
+   "Calcio Monza"
   ]
  },
  "Q29108": {
@@ -2574,6 +2664,26 @@
    "de Nederlanden"
   ]
  },
+ "Q5794": {
+  "label": {
+   "de": "FC Everton",
+   "en": "Everton F.C.",
+   "ru": "Эвертон"
+  },
+  "names": [
+   "Everton F.C.",
+   "FC Everton",
+   "Эвертон",
+   "Everton",
+   "Everton Football Club",
+   "The Blues",
+   "Everton FC",
+   "The Toffees",
+   "EFC",
+   "Everton Football Club",
+   "The Blues"
+  ]
+ },
  "Q631": {
   "label": {
    "de": "Inter Mailand",
@@ -3017,6 +3127,32 @@
    "Getafe C.F."
   ]
  },
+ "Q8823": {
+  "label": {
+   "de": "Levante UD",
+   "en": "Levante UD",
+   "ru": "Леванте"
+  },
+  "names": [
+   "Levante UD",
+   "Levante UD",
+   "Леванте",
+   "FC Levante",
+   "Levante Unión Deportiva",
+   "Levante Union Deportiva",
+   "Levante U.D.",
+   "UD Levante",
+   "Levante",
+   "Levante Unión Deportiva",
+   "Levante Union Deportiva",
+   "Levante UD Football",
+   "Levante",
+   "Levante U.D.",
+   "Levante Football Club",
+   "Levante FC",
+   "Levante Sports Union"
+  ]
+ },
  "Q8857": {
   "label": {
    "de": "FC Málaga",
@@ -3161,6 +3297,7 @@
   "soccer|Bologna": "Q1893",
   "soccer|Borussia Mönchengladbach": "Q101959",
   "soccer|Bournemouth": "Q19568",
+  "soccer|Brentford": "Q19571",
   "soccer|Brest": "Q218372",
   "soccer|Brighton and Hove Albion": "Q19453",
   "soccer|CSKA Moscow": "Q176371",
@@ -3174,8 +3311,11 @@
   "soccer|Deportivo de A Coruña": "Q8760",
   "soccer|Dynamo Makhachkala": "Q2494171",
   "soccer|Dynamo Moscow": "Q1269117",
+  "soccer|Elche": "Q10512",
   "soccer|Espanyol": "Q8780",
+  "soccer|Everton": "Q5794",
   "soccer|Fakel Voronezh": "Q1388889",
+  "soccer|Fiorentina": "Q2052",
   "soccer|Frosinone": "Q845043",
   "soccer|Fulham": "Q18708",
   "soccer|Genoa": "Q2074",
@@ -3192,6 +3332,7 @@
   "soccer|Lecce": "Q13391",
   "soccer|Leeds United": "Q1128631",
   "soccer|Lens": "Q191843",
+  "soccer|Levante": "Q8823",
   "soccer|Lille": "Q19516",
   "soccer|Liverpool": "Q1130849",
   "soccer|Lokomotiv Moscow": "Q29115",
@@ -3201,6 +3342,7 @@
   "soccer|Manchester United": "Q18656",
   "soccer|Marseille": "Q132885",
   "soccer|Monaco": "Q180305",
+  "soccer|Monza": "Q289482",
   "soccer|Málaga": "Q8857",
   "soccer|Napoli": "Q2641",
   "soccer|Newcastle United": "Q18716",

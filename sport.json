@@ -4,365 +4,6 @@
   {
    "away": {
     "label": {
-     "de": "Slowakei",
-     "en": "Slovakia",
-     "ru": "Словакия"
-    },
-    "name": "Slovakia",
-    "names": [
-     "Slovakia",
-     "Slowakei",
-     "Словакия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Kasachstan",
-     "en": "Kazakhstan",
-     "ru": "Казахстан"
-    },
-    "name": "Kazakhstan",
-    "names": [
-     "Kazakhstan",
-     "Kasachstan",
-     "Казахстан"
-    ]
-   },
-   "id": "thesportsdb:2442850",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794841200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Moldau",
-     "en": "Moldova",
-     "ru": "Молдова"
-    },
-    "name": "Moldova",
-    "names": [
-     "Moldova",
-     "Moldau",
-     "Молдова"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Färöer",
-     "en": "Faroe Islands",
-     "ru": "Фарерские острова"
-    },
-    "name": "Faroe Islands",
-    "names": [
-     "Faroe Islands",
-     "Färöer",
-     "Фарерские острова"
-    ]
-   },
-   "id": "thesportsdb:2442851",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794841200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Bulgarien",
-     "en": "Bulgaria",
-     "ru": "Болгария"
-    },
-    "name": "Bulgaria",
-    "names": [
-     "Bulgaria",
-     "Bulgarien",
-     "Болгария"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Estland",
-     "en": "Estonia",
-     "ru": "Эстония"
-    },
-    "name": "Estonia",
-    "names": [
-     "Estonia",
-     "Estland",
-     "Эстония"
-    ]
-   },
-   "id": "thesportsdb:2442852",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794848400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Liechtenstein",
-     "en": "Liechtenstein",
-     "ru": "Лихтенштейн"
-    },
-    "name": "Liechtenstein",
-    "names": [
-     "Liechtenstein",
-     "Лихтенштейн"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Litauen",
-     "en": "Lithuania",
-     "ru": "Литва"
-    },
-    "name": "Lithuania",
-    "names": [
-     "Lithuania",
-     "Litauen",
-     "Литва"
-    ]
-   },
-   "id": "thesportsdb:2442853",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794848400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Luxemburg",
-     "en": "Luxembourg",
-     "ru": "Люксембург"
-    },
-    "name": "Luxembourg",
-    "names": [
-     "Luxembourg",
-     "Luxemburg",
-     "Люксембург"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Island",
-     "en": "Iceland",
-     "ru": "Исландия"
-    },
-    "name": "Iceland",
-    "names": [
-     "Iceland",
-     "Island",
-     "Исландия"
-    ]
-   },
-   "id": "thesportsdb:2475311",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794848400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Niederlande",
-     "en": "Netherlands",
-     "ru": "Нидерланды"
-    },
-    "name": "Netherlands",
-    "names": [
-     "Netherlands",
-     "Niederlande",
-     "Нидерланды",
-     "Holland",
-     "Голландия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Deutschland",
-     "en": "Germany",
-     "ru": "Германия"
-    },
-    "name": "Germany",
-    "names": [
-     "Germany",
-     "Deutschland",
-     "Германия"
-    ]
-   },
-   "id": "thesportsdb:2442854",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794858300
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Serbien",
-     "en": "Serbia",
-     "ru": "Сербия"
-    },
-    "name": "Serbia",
-    "names": [
-     "Serbia",
-     "Serbien",
-     "Сербия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Griechenland",
-     "en": "Greece",
-     "ru": "Греция"
-    },
-    "name": "Greece",
-    "names": [
-     "Greece",
-     "Griechenland",
-     "Греция"
-    ]
-   },
-   "id": "thesportsdb:2442855",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794858300
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Schottland",
-     "en": "Scotland",
-     "ru": "Шотландия"
-    },
-    "name": "Scotland",
-    "names": [
-     "Scotland",
-     "Schottland",
-     "Шотландия"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Schweiz",
-     "en": "Switzerland",
-     "ru": "Швейцария"
-    },
-    "name": "Switzerland",
-    "names": [
-     "Switzerland",
-     "Schweiz",
-     "Швейцария"
-    ]
-   },
-   "id": "thesportsdb:2475312",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794858300
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Slowenien",
-     "en": "Slovenia",
-     "ru": "Словения"
-    },
-    "name": "Slovenia",
-    "names": [
-     "Slovenia",
-     "Slowenien",
-     "Словения"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Nordmazedonien",
-     "en": "North Macedonia",
-     "ru": "Северная Македония"
-    },
-    "name": "North Macedonia",
-    "names": [
-     "North Macedonia",
-     "Nordmazedonien",
-     "Северная Македония"
-    ]
-   },
-   "id": "thesportsdb:2475313",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794858300
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Malta",
-     "en": "Malta",
-     "ru": "Мальта"
-    },
-    "name": "Malta",
-    "names": [
-     "Malta",
-     "Мальта"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Gibraltar",
-     "en": "Gibraltar",
-     "ru": "Гибралтар"
-    },
-    "name": "Gibraltar",
-    "names": [
-     "Gibraltar",
-     "Гибралтар"
-    ]
-   },
-   "id": "thesportsdb:2475314",
-   "league": "Nations League",
-   "leagueLabel": {
-    "ru": "Лига наций"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1794858300
-  },
-  {
-   "away": {
-    "label": {
      "de": "Portugal",
      "en": "Portugal",
      "ru": "Португалия"
@@ -3484,9 +3125,173 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1795377600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AC Florenz",
+     "en": "ACF Fiorentina",
+     "ru": "Фиорентина"
+    },
+    "name": "Fiorentina",
+    "names": [
+     "Fiorentina",
+     "Фиорентина",
+     "ACF Fiorentina",
+     "AC Florenz",
+     "Florenz",
+     "Associazione Calcio Fiorentina",
+     "A.C. Fiorentina",
+     "AC Fiorentina",
+     "A.C.F.Fiorentina",
+     "Florentia Viola",
+     "A.C.F.",
+     "ACF"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "AC Monza",
+     "en": "AC Monza",
+     "ru": "Монца"
+    },
+    "name": "Monza",
+    "names": [
+     "Monza",
+     "Монца",
+     "AC Monza",
+     "A.C. Monza Brianza",
+     "A.C. Monza",
+     "A C Monza Brianza 1912",
+     "A C Monza Brianza",
+     "A. C. Monza Brianza 1912",
+     "A. C. Monza Brianza",
+     "AC Monza Brianza 1912",
+     "Monza Brianza 1912",
+     "AC Monza Brianza",
+     "Monza Brianza",
+     "Associazione Calcio Monza Brianza 1912",
+     "Associazione Calcio Monza Brianza",
+     "Monza Calcio",
+     "A.C. Monza Brianza 1912",
+     "S.S. Monza 1912 Srl",
+     "Società Sportiva Monza 1912",
+     "Società Sportiva Monza",
+     "S.S. Monza",
+     "Società Sportiva Monza 1912 Srl",
+     "Associazione Calcio Monza",
+     "A.C.M.",
+     "ACM",
+     "ACMonza",
+     "Biancorossi",
+     "Calcio Monza"
+    ]
+   },
+   "id": "thesportsdb:2482257",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795463100
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Everton",
+     "en": "Everton F.C.",
+     "ru": "Эвертон"
+    },
+    "name": "Everton",
+    "names": [
+     "Everton",
+     "Everton F.C.",
+     "FC Everton",
+     "Эвертон",
+     "Everton Football Club",
+     "The Blues",
+     "Everton FC",
+     "The Toffees",
+     "EFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Brentford",
+     "en": "Brentford F.C.",
+     "ru": "Брентфорд"
+    },
+    "name": "Brentford",
+    "names": [
+     "Brentford",
+     "Brentford F.C.",
+     "FC Brentford",
+     "Брентфорд",
+     "Brentford Football Club",
+     "Brentford FC",
+     "The Bees",
+     "BFC"
+    ]
+   },
+   "id": "thesportsdb:2494106",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795464000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Elche",
+     "en": "Elche CF",
+     "ru": "Эльче"
+    },
+    "name": "Elche",
+    "names": [
+     "Elche",
+     "Elche CF",
+     "FC Elche",
+     "Эльче",
+     "Elche Club de Futbol"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Levante UD",
+     "en": "Levante UD",
+     "ru": "Леванте"
+    },
+    "name": "Levante",
+    "names": [
+     "Levante",
+     "Levante UD",
+     "Леванте",
+     "FC Levante",
+     "Levante Unión Deportiva",
+     "Levante Union Deportiva",
+     "Levante U.D.",
+     "UD Levante",
+     "Levante UD Football",
+     "Levante Football Club",
+     "Levante FC",
+     "Levante Sports Union"
+    ]
+   },
+   "id": "thesportsdb:2506292",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795464000
   }
  ],
- "generated": 1794834922,
+ "generated": 1794917108,
  "license": "Fixtures marked OpenLigaDB: www.openligadb.de, ODbL 1.0. Fixtures marked TheSportsDB: www.thesportsdb.com. Team names: Wikidata, CC0.",
  "version": 1
 }

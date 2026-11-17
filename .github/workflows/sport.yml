@@ -1,12 +1,14 @@
-# Collects the fixtures for Telik's row "Sport live" once a day and commits sport.json.
+# Collects the fixtures for Telik's row "Sport live" and commits sport.json.
 # Lives in the public repository as .github/workflows/sport.yml, with collect.py at
 # tools/sportfeed/collect.py; the files it writes lie in the repository's root.
 name: Sport fixtures
 
 on:
   schedule:
-    # Early morning in Europe; an odd minute, as GitHub delays jobs on the full hour.
-    - cron: "23 3 * * *"
+    # Four times a day, at an odd minute. GitHub starts scheduled jobs late when it is busy (the
+    # first nightly run came almost nine hours after its time), so one run a day is not enough
+    # to have the day's matches in the file by the evening.
+    - cron: "23 1,7,13,19 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,18 +21,24 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - uses: actions/checkout@v5
+      # The runner's own Python is enough: the collector needs the standard library only.
       - name: Collect
-        run: python tools/sportfeed/collect.py .
+        run: python3 tools/sportfeed/collect.py .
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sport.json sport-teams.json
-          git diff --cached --quiet || git commit -m "Sport fixtures"
-          git push
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Sport fixtures"
+          # Someone pushed while the collector ran (it takes some minutes): put this run's files
+          # on top of what is there now instead of failing. They are the newer ones.
+          if ! git push; then
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --soft "origin/$GITHUB_REF_NAME"
+            git commit -m "Sport fixtures"
+            git push
+          fi

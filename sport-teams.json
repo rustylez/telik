@@ -347,6 +347,18 @@
    "L.F.C."
   ]
  },
+ "Q118919": {
+  "label": {
+   "de": "Eyüpspor",
+   "en": "Eyüpspor",
+   "ru": "Эюпспор"
+  },
+  "names": [
+   "Eyüpspor",
+   "Eyüpspor",
+   "Эюпспор"
+  ]
+ },
  "Q11938": {
   "label": {
    "de": "PSV Eindhoven",
@@ -405,6 +417,25 @@
    "Villarreal C.F.",
    "Villarreal",
    "VCF"
+  ]
+ },
+ "Q1231804": {
+  "label": {
+   "de": "Amedspor",
+   "en": "Amed S.F.K.",
+   "ru": "Амед"
+  },
+  "names": [
+   "Amedspor",
+   "Amed S.F.K.",
+   "Амед",
+   "Diyarbakır BB",
+   "Diyarbakir Büyüksehir Belediyespor",
+   "Diyarbakır Büyükşehir Belediyespor Kulübü",
+   "Diyarbakır Büyük Şehir Diskispor",
+   "Amed SFK",
+   "Amed SK",
+   "Diyarbakır Büyükşehir Belediyespor"
   ]
  },
  "Q1246": {
@@ -551,6 +582,32 @@
    "FeyenoordRotterdam"
   ]
  },
+ "Q1366316": {
+  "label": {
+   "de": "Erzurumspor",
+   "en": "Erzurumspor",
+   "ru": "Эрзурумспор"
+  },
+  "names": [
+   "Erzurumspor",
+   "Erzurumspor",
+   "Эрзурумспор"
+  ]
+ },
+ "Q138230": {
+  "label": {
+   "de": "Kasımpaşa Istanbul",
+   "en": "Kasımpaşa S.K.",
+   "ru": "Касымпаша"
+  },
+  "names": [
+   "Касымпаша",
+   "Kasımpaşa S.K.",
+   "Kasımpaşa Istanbul",
+   "Kasımpaşa SK",
+   "Kasımpaşa Spor Kulübü"
+  ]
+ },
  "Q1388889": {
   "label": {
    "de": "FK Fakel Woronesch",
@@ -634,6 +691,22 @@
    "J.F.C.",
    "JuventusF.C.",
    "JuventusFootballClub"
+  ]
+ },
+ "Q1423118": {
+  "label": {
+   "de": "Göztepe Izmir",
+   "en": "Göztepe S.K.",
+   "ru": "Гёзтепе"
+  },
+  "names": [
+   "Гёзтепе",
+   "Göztepe S.K.",
+   "Göztepe Izmir",
+   "Göztepe SK",
+   "Göztepe A.Ş.",
+   "Göztepe Sportif Yatırımlar A.Ş.",
+   "Goztepe Izmir"
   ]
  },
  "Q1543": {
@@ -740,6 +813,22 @@
    "Die Ostwestfalen"
   ]
  },
+ "Q1636019": {
+  "label": {
+   "de": "Alanyaspor",
+   "en": "Alanyaspor",
+   "ru": "Аланьяспор"
+  },
+  "names": [
+   "Alanyaspor",
+   "Alanyaspor",
+   "Аланьяспор"
+  ]
+ },
+ "Q165188": {
+  "label": {},
+  "names": []
+ },
  "Q170040": {
   "label": {
    "de": "Rubin Kasan",
@@ -760,6 +849,36 @@
    "Рубин Казань",
    "Футбольный клуб Рубин Казань",
    "FC Rubin Kazan"
+  ]
+ },
+ "Q172567": {
+  "label": {
+   "de": "Beşiktaş Istanbul",
+   "en": "Beşiktaş J.K.",
+   "ru": "Бешикташ"
+  },
+  "names": [
+   "Beşiktaş Istanbul",
+   "Beşiktaş J.K.",
+   "Бешикташ",
+   "Beşiktaş Jimnastik Kulübü",
+   "Beşiktaş JK",
+   "Besiktas JK",
+   "Besiktas Jimnastik Kulübü",
+   "Besiktas Istanbul",
+   "Beşiktaş JK (Fußball)",
+   "Бешикташ Стамбул",
+   "ФК Бешикташ",
+   "BJK",
+   "Besiktas",
+   "Beşiktaş Jimnastik Kulübü",
+   "Beşiktaş JK",
+   "Besiktas J.K.",
+   "Besiktas JK",
+   "Beşiktaş",
+   "Besiktas Jimnastik Kulubu",
+   "B.J.K.",
+   "Beşiktaş J.K. (Football)"
   ]
  },
  "Q176371": {
@@ -1136,6 +1255,44 @@
    "Расинг"
   ]
  },
+ "Q192641": {
+  "label": {
+   "de": "Trabzonspor",
+   "en": "Trabzonspor",
+   "ru": "Трабзонспор"
+  },
+  "names": [
+   "Trabzonspor",
+   "Трабзонспор",
+   "Trabzonspor",
+   "Trabzonspor Kulübü",
+   "Трабзонспор Трабзон"
+  ]
+ },
+ "Q194393": {
+  "label": {
+   "de": "Slavia Prag",
+   "en": "SK Slavia Prague",
+   "ru": "Славия"
+  },
+  "names": [
+   "Slavia Prag",
+   "Славия",
+   "SK Slavia Prague",
+   "SK Slavia Prag",
+   "SK Slavia Praha",
+   "Slavia Praha",
+   "Slavia Prague",
+   "S.K. Slavia Prague",
+   "SlaviaPrague",
+   "Slavia Praha",
+   "Slavia Prague Football",
+   "Slavia Prague FC",
+   "Славия Прага",
+   "ФК «Славия Прага»",
+   "ФК «Славия»"
+  ]
+ },
  "Q19453": {
   "label": {
    "de": "Brighton & Hove Albion",
@@ -1342,6 +1499,18 @@
    "City",
    "CCFC",
    "Sky Blues"
+  ]
+ },
+ "Q19613395": {
+  "label": {
+   "de": "Çorum Belediyespor",
+   "en": "Çorum FK",
+   "ru": "Чорум (футбольный клуб)"
+  },
+  "names": [
+   "Çorum Belediyespor",
+   "Çorum FK",
+   "Чорум (футбольный клуб)"
   ]
  },
  "Q20": {
@@ -1934,6 +2103,24 @@
    "Republik Irland"
   ]
  },
+ "Q272712": {
+  "label": {
+   "de": "Çaykur Rizespor",
+   "en": "Çaykur Rizespor",
+   "ru": "Ризеспор"
+  },
+  "names": [
+   "Ризеспор",
+   "Çaykur Rizespor",
+   "Çaykur Rizespor",
+   "Кайкюр Ризеспор (футбольный клуб)",
+   "Чайкур Ризеспор",
+   "Caykur Rizespor",
+   "Rizespor",
+   "Caykur Rizespor",
+   "Rizespor"
+  ]
+ },
  "Q2739": {
   "label": {
    "de": "AS Rom",
@@ -2064,6 +2251,18 @@
    "FK Arsenal Tula"
   ]
  },
+ "Q285722": {
+  "label": {
+   "de": "Gaziantepspor",
+   "en": "Gaziantepspor",
+   "ru": "Газиантепспор"
+  },
+  "names": [
+   "Gaziantepspor",
+   "Gaziantepspor",
+   "Газиантепспор"
+  ]
+ },
  "Q289482": {
   "label": {
    "de": "AC Monza",
@@ -2187,6 +2386,21 @@
   },
   "names": [
    "F.C. du Bergot"
+  ]
+ },
+ "Q3099791": {
+  "label": {
+   "de": "Sabah FA",
+   "en": "Sabah F.C."
+  },
+  "names": [
+   "Sabah F.C.",
+   "Sabah FA",
+   "Sabah FA",
+   "Sabah Football Club",
+   "Sabah FC",
+   "Sabah Football Club Sdn Bhd",
+   "Persatuan Bola Sepak Sabah"
   ]
  },
  "Q3138464": {
@@ -2541,6 +2755,18 @@
    "The Black and Yellows"
   ]
  },
+ "Q430107": {
+  "label": {
+   "de": "Samsunspor",
+   "en": "Samsunspor FC",
+   "ru": "Самсунспор"
+  },
+  "names": [
+   "Samsunspor",
+   "Samsunspor FC",
+   "Самсунспор"
+  ]
+ },
  "Q45": {
   "label": {
    "de": "Portugal",
@@ -2683,6 +2909,35 @@
    "Football Club Lorient-Bretagne Sud"
   ]
  },
+ "Q495299": {
+  "label": {
+   "de": "Galatasaray Istanbul",
+   "en": "Galatasaray S.K.",
+   "ru": "Галатасарай"
+  },
+  "names": [
+   "Галатасарай",
+   "Galatasaray S.K.",
+   "Galatasaray Istanbul",
+   "Galatasaray",
+   "Cim bom",
+   "Galatasaray Spor Klübü",
+   "Галатасарай Стамбул",
+   "Galatasaray Istanbul",
+   "Galatasaray Spor Kulübü",
+   "ФК Галатасарай",
+   "Galatasaray S. K.",
+   "Galatasaray SK",
+   "Galatasaray S K",
+   "Cimbom",
+   "Galatasaray S.K.",
+   "Galatasaray Spor Kulübü",
+   "Galatasaray AŞ",
+   "Galatasaray",
+   "Galatasaray Sports Club",
+   "GS"
+  ]
+ },
  "Q501245": {
   "label": {
    "de": "FC Venedig",
@@ -2750,6 +3005,30 @@
    "The Blues",
    "The Citizens",
    "Manchester City Football Club"
+  ]
+ },
+ "Q513237": {
+  "label": {
+   "de": "Kocaelispor",
+   "en": "Kocaelispor",
+   "ru": "Коджаэлиспор"
+  },
+  "names": [
+   "Kocaelispor",
+   "Kocaelispor",
+   "Коджаэлиспор"
+  ]
+ },
+ "Q513840": {
+  "label": {
+   "de": "Konyaspor",
+   "en": "Konyaspor",
+   "ru": "Коньяспор"
+  },
+  "names": [
+   "Konyaspor",
+   "Konyaspor",
+   "Коньяспор"
   ]
  },
  "Q51974": {
@@ -2889,6 +3168,26 @@
    "Миланский Интер"
   ]
  },
+ "Q641373": {
+  "label": {
+   "de": "Gençlerbirliği Ankara",
+   "en": "Gençlerbirliği S.K.",
+   "ru": "Генчлербирлиги"
+  },
+  "names": [
+   "Генчлербирлиги",
+   "Gençlerbirliği S.K.",
+   "Gençlerbirliği Ankara",
+   "Гянджларбирлийи",
+   "Genclerbirligi Ankara",
+   "Gençlerbirligi",
+   "Gençlerbirliği",
+   "Gençlerbirligi Ankara",
+   "Genclerbirligi",
+   "Gençlerbirliği",
+   "Gençlerbirliği Spor Kulübü"
+  ]
+ },
  "Q65124755": {
   "label": {
    "de": "FK Akron Toljatti",
@@ -2900,6 +3199,33 @@
    "FC Akron Tolyatti",
    "FK Akron Toljatti",
    "ФК Акрон Тольятти"
+  ]
+ },
+ "Q6601875": {
+  "label": {
+   "de": "Fenerbahçe Istanbul",
+   "en": "Fenerbahçe Istanbul",
+   "ru": "Фенербахче"
+  },
+  "names": [
+   "Fenerbahçe Istanbul",
+   "Фенербахче",
+   "Fenerbahçe Istanbul",
+   "Fenerbahce",
+   "Fenerbahce S.K.",
+   "Fenerbahce SK",
+   "Fenerbahçe Spor Kulübü",
+   "Fenerbahce Spor Kulubu",
+   "Fenerbahçe Sports Club",
+   "Fenerbahce Sports Club",
+   "Fenerbahçe SK Football",
+   "Fenerbahçe Futbol A.Ş.",
+   "Fenerbahçe",
+   "Fener",
+   "Fenerbahçe SK",
+   "Fenerbahçe Spor Kulübü",
+   "Fenerbahçe Sport Klub",
+   "Fenerbahçe Sports Club"
   ]
  },
  "Q66210522": {
@@ -3036,6 +3362,20 @@
    "Yisrael"
   ]
  },
+ "Q824850": {
+  "label": {
+   "de": "Gazişehir Gaziantep FK",
+   "en": "Gaziantep F.K.",
+   "ru": "Газиантеп"
+  },
+  "names": [
+   "Gazişehir Gaziantep FK",
+   "Gaziantep F.K.",
+   "Газиантеп",
+   "Gaziantep BB",
+   "Sankospor"
+  ]
+ },
  "Q845043": {
   "label": {
    "de": "Frosinone Calcio",
@@ -3067,6 +3407,30 @@
    "SCO",
    "SCO of Angers",
    "Angers"
+  ]
+ },
+ "Q857938": {
+  "label": {
+   "de": "Başakşehir FK",
+   "en": "İstanbul Başakşehir F.K.",
+   "ru": "Истанбул Башакшехир"
+  },
+  "names": [
+   "Истанбул Башакшехир",
+   "Başakşehir FK",
+   "İstanbul Başakşehir F.K.",
+   "Истамбул Башакшехир",
+   "Istanbul BB",
+   "Istanbul Büyüksehir Belediyespor",
+   "Istanbul Başakşehir FK",
+   "Medipol Başakşehir Futbol Kulübü",
+   "Medipol Başakşehir",
+   "Medipol Başakşehir FK",
+   "RAMS Başakşehir FK",
+   "İBFK",
+   "ibfk",
+   "İstanbul Başakşehir",
+   "Başakşehir F.K."
   ]
  },
  "Q8603": {
@@ -3442,6 +3806,8 @@
   "soccer|AEK Athen": "Q201584",
   "soccer|Akhmat Grozny": "Q240444",
   "soccer|Akron Tolyatti": "Q65124755",
+  "soccer|Alanyaspor": "Q1636019",
+  "soccer|Amed": "Q1231804",
   "soccer|Angers": "Q845137",
   "soccer|Arsenal": "Q9617",
   "soccer|Aston Villa": "Q18711",
@@ -3451,6 +3817,7 @@
   "soccer|Auxerre": "Q182876",
   "soccer|Baltika Kaliningrad": "Q795978",
   "soccer|Barcelona": "Q7156",
+  "soccer|Beşiktaş": "Q172567",
   "soccer|Bologna": "Q1893",
   "soccer|Borussia Mönchengladbach": "Q101959",
   "soccer|Bournemouth": "Q19568",
@@ -3470,23 +3837,33 @@
   "soccer|Dynamo Makhachkala": "Q2494171",
   "soccer|Dynamo Moscow": "Q1269117",
   "soccer|Elche": "Q10512",
+  "soccer|Erzurumspor": "Q1366316",
   "soccer|Espanyol": "Q8780",
   "soccer|Everton": "Q5794",
+  "soccer|Eyüpspor": "Q118919",
   "soccer|FC Arsenal": "Q2817362",
   "soccer|FC Porto": "Q128446",
   "soccer|FK Bodö/Glimt": "Q478167",
   "soccer|Fakel Voronezh": "Q1388889",
+  "soccer|Fenerbahçe": "Q6601875",
   "soccer|Feyenoord Rotterdam": "Q134241",
   "soccer|Fiorentina": "Q2052",
   "soccer|Frosinone": "Q845043",
   "soccer|Fulham": "Q18708",
+  "soccer|Galatasaray": "Q495299",
   "soccer|Galatasaray Istanbul": "Q100529919",
+  "soccer|Gaziantep": "Q824850",
   "soccer|Genoa": "Q2074",
+  "soccer|Gençlerbirliği": "Q641373",
   "soccer|Getafe": "Q8806",
+  "soccer|Göztepe": "Q1423118",
   "soccer|Hull City": "Q19477",
   "soccer|Inter Milan": "Q631",
   "soccer|Ipswich Town": "Q9653",
   "soccer|Juventus": "Q1422",
+  "soccer|Kasımpaşa": "Q138230",
+  "soccer|Kocaelispor": "Q513237",
+  "soccer|Konyaspor": "Q513840",
   "soccer|Krasnodar": "Q220854",
   "soccer|Krylia Sovetov Samara": "Q274778",
   "soccer|Lazio": "Q2609",
@@ -3525,6 +3902,7 @@
   "soccer|Real Madrid": "Q8682",
   "soccer|Real Sociedad": "Q10315",
   "soccer|Rennes": "Q19509",
+  "soccer|Rizespor": "Q272712",
   "soccer|Rodina Moscow": "Q66210522",
   "soccer|Roma": "Q2739",
   "soccer|Rostov": "Q182930",
@@ -3532,8 +3910,11 @@
   "soccer|SSC Napoli ": "Q2641",
   "soccer|SV 07 Elversberg": "Q692691",
   "soccer|SV Werder Bremen": "Q51976",
+  "soccer|Sabah": "Q3099791",
+  "soccer|Samsunspor": "Q430107",
   "soccer|Sassuolo": "Q8603",
   "soccer|Sevilla": "Q10329",
+  "soccer|Slavia Prag": "Q194393",
   "soccer|Slovan Bratislava": "Q3594211",
   "soccer|Spartak Moscow": "Q29112",
   "soccer|Strasbourg": "Q126334",
@@ -3542,11 +3923,15 @@
   "soccer|Torino": "Q2768",
   "soccer|Tottenham Hotspur": "Q18741",
   "soccer|Toulouse": "Q19518",
+  "soccer|Trabzonspor": "Q192641",
   "soccer|Troyes": "Q501693",
   "soccer|Udinese": "Q2798",
   "soccer|Valencia": "Q10333",
   "soccer|Venezia": "Q501245",
   "soccer|Villarreal": "Q12297",
-  "soccer|Zenit Saint Petersburg": "Q29108"
+  "soccer|Villarreal CF": "Q12297",
+  "soccer|Zenit Saint Petersburg": "Q29108",
+  "soccer|Çorum": "Q19613395",
+  "soccer|İstanbul Başakşehir": "Q857938"
  }
 }

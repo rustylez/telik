@@ -5,7 +5,11 @@
   "soccer|Monaco": "Q180305",
   "soccer|Brest": "Q218372",
   "soccer|Osasuna": "Q10286",
-  "soccer|CSKA Moscow": "Q176371"
+  "soccer|CSKA Moscow": "Q176371",
+  "soccer|Gaziantep": "Q824850",
+  "soccer|Amed": "Q1231804",
+  "soccer|Göztepe": "Q1423118",
+  "soccer|Çorum": "Q19613395"
  },
  "Q704": {
   "label": {
@@ -65,5 +69,10 @@
    "Holland",
    "Голландия"
   ]
+ },
+ "Q19613395": {
+  "label": {
+   "ru": "Чорум"
+  }
  }
 }

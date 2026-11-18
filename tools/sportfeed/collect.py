@@ -72,6 +72,7 @@ THESPORTSDB = {
     4332: ("soccer", "Serie A", {"ru": "Серия А"}, "Q38"),
     4334: ("soccer", "Ligue 1", {"ru": "Лига 1"}, "Q142"),
     4355: ("soccer", "Russian Premier League", {"ru": "РПЛ", "de": "Russische Premjer-Liga"}, "Q159"),
+    4339: ("soccer", "Süper Lig", {"ru": "Суперлига Турции", "en": "Turkish Süper Lig"}, "Q43"),
     # Clubs from all over Europe: no country to go by.
     4481: ("soccer", "Europa League", {"ru": "Лига Европы"}, None),
     5071: ("soccer", "Conference League", {"ru": "Лига конференций"}, None),
@@ -368,12 +369,16 @@ def main():
         team["label"] = label
 
     events = sorted(events + kept, key=lambda e: (e["start"], e["id"]))
+    # Every league the file may hold, also one without a match this week: Telik offers them for
+    # choosing, and a league added here appears there without a new Telik.
+    tables = [OPENLIGADB[key] for key in OPENLIGADB] + [THESPORTSDB[key][:3] for key in THESPORTSDB]
     write(out / "sport.json", {
         "version": 1,
         "generated": int(now.timestamp()),
         # Shown by Telik at the row.
         "credit": ", ".join(unique(event["source"] for event in events if event.get("source"))),
         "license": "Fixtures marked OpenLigaDB: www.openligadb.de, ODbL 1.0. Fixtures marked TheSportsDB: www.thesportsdb.com. Team names: Wikidata, CC0.",
+        "leagues": [{"name": name, "sport": sport, "label": label} for sport, name, label in tables],
         "events": events,
     })
     unnamed = sorted({team["name"] for team in sides if not team["label"]})

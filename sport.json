@@ -285,6 +285,53 @@
   {
    "away": {
     "label": {
+     "de": "Gazişehir Gaziantep FK",
+     "en": "Gaziantep F.K.",
+     "ru": "Газиантеп"
+    },
+    "name": "Gaziantep",
+    "names": [
+     "Gaziantep",
+     "Gazişehir Gaziantep FK",
+     "Gaziantep F.K.",
+     "Газиантеп",
+     "Gaziantep BB",
+     "Sankospor"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Gençlerbirliği Ankara",
+     "en": "Gençlerbirliği S.K.",
+     "ru": "Генчлербирлиги"
+    },
+    "name": "Gençlerbirliği",
+    "names": [
+     "Gençlerbirliği",
+     "Генчлербирлиги",
+     "Gençlerbirliği S.K.",
+     "Gençlerbirliği Ankara",
+     "Гянджларбирлийи",
+     "Genclerbirligi Ankara",
+     "Gençlerbirligi",
+     "Gençlerbirligi Ankara",
+     "Genclerbirligi",
+     "Gençlerbirliği Spor Kulübü"
+    ]
+   },
+   "id": "thesportsdb:2527826",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795257000
+  },
+  {
+   "away": {
+    "label": {
      "de": "FK Fakel Woronesch",
      "en": "FC Fakel Voronezh",
      "ru": "Факел"
@@ -427,6 +474,101 @@
    "league": "La Liga",
    "leagueLabel": {
     "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795266000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Samsunspor",
+     "en": "Samsunspor FC",
+     "ru": "Самсунспор"
+    },
+    "name": "Samsunspor",
+    "names": [
+     "Samsunspor",
+     "Samsunspor FC",
+     "Самсунспор"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Galatasaray Istanbul",
+     "en": "Galatasaray S.K.",
+     "ru": "Галатасарай"
+    },
+    "name": "Galatasaray",
+    "names": [
+     "Galatasaray",
+     "Галатасарай",
+     "Galatasaray S.K.",
+     "Galatasaray Istanbul",
+     "Cim bom",
+     "Galatasaray Spor Klübü",
+     "Галатасарай Стамбул",
+     "Galatasaray Spor Kulübü",
+     "ФК Галатасарай",
+     "Galatasaray S. K.",
+     "Galatasaray SK",
+     "Galatasaray S K",
+     "Cimbom",
+     "Galatasaray AŞ",
+     "Galatasaray Sports Club"
+    ]
+   },
+   "id": "thesportsdb:2527825",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795266000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Çaykur Rizespor",
+     "en": "Çaykur Rizespor",
+     "ru": "Ризеспор"
+    },
+    "name": "Rizespor",
+    "names": [
+     "Rizespor",
+     "Ризеспор",
+     "Çaykur Rizespor",
+     "Чайкур Ризеспор",
+     "Caykur Rizespor"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Amedspor",
+     "en": "Amed S.F.K.",
+     "ru": "Амед"
+    },
+    "name": "Amed",
+    "names": [
+     "Amed",
+     "Amedspor",
+     "Amed S.F.K.",
+     "Амед",
+     "Diyarbakır BB",
+     "Diyarbakir Büyüksehir Belediyespor",
+     "Diyarbakır Büyük Şehir Diskispor",
+     "Amed SFK",
+     "Amed SK",
+     "Diyarbakır Büyükşehir Belediyespor"
+    ]
+   },
+   "id": "thesportsdb:2527830",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
    },
    "source": "TheSportsDB",
    "sport": "soccer",
@@ -1201,6 +1343,54 @@
   {
    "away": {
     "label": {
+     "de": "Fenerbahçe Istanbul",
+     "en": "Fenerbahçe Istanbul",
+     "ru": "Фенербахче"
+    },
+    "name": "Fenerbahçe",
+    "names": [
+     "Fenerbahçe",
+     "Fenerbahçe Istanbul",
+     "Фенербахче",
+     "Fenerbahce",
+     "Fenerbahce S.K.",
+     "Fenerbahce SK",
+     "Fenerbahçe Spor Kulübü",
+     "Fenerbahce Spor Kulubu",
+     "Fenerbahçe Sports Club",
+     "Fenerbahce Sports Club",
+     "Fenerbahçe SK Football",
+     "Fenerbahçe Futbol A.Ş.",
+     "Fener",
+     "Fenerbahçe SK",
+     "Fenerbahçe Sport Klub"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Kocaelispor",
+     "en": "Kocaelispor",
+     "ru": "Коджаэлиспор"
+    },
+    "name": "Kocaelispor",
+    "names": [
+     "Kocaelispor",
+     "Коджаэлиспор"
+    ]
+   },
+   "id": "thesportsdb:2527831",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795276800
+  },
+  {
+   "away": {
+    "label": {
      "de": "Paris Saint-Germain",
      "en": "Paris Saint-Germain FC",
      "ru": "Пари Сен-Жермен"
@@ -1833,6 +2023,47 @@
   {
    "away": {
     "label": {
+     "de": "Göztepe Izmir",
+     "en": "Göztepe S.K.",
+     "ru": "Гёзтепе"
+    },
+    "name": "Göztepe",
+    "names": [
+     "Göztepe",
+     "Гёзтепе",
+     "Göztepe S.K.",
+     "Göztepe Izmir",
+     "Göztepe SK",
+     "Göztepe A.Ş.",
+     "Göztepe Sportif Yatırımlar A.Ş.",
+     "Goztepe Izmir"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Erzurumspor",
+     "en": "Erzurumspor",
+     "ru": "Эрзурумспор"
+    },
+    "name": "Erzurumspor",
+    "names": [
+     "Erzurumspor",
+     "Эрзурумспор"
+    ]
+   },
+   "id": "thesportsdb:2527829",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795343400
+  },
+  {
+   "away": {
+    "label": {
      "de": "FK Krasnodar",
      "en": "FC Krasnodar",
      "ru": "Краснодар"
@@ -1987,6 +2218,94 @@
    "league": "La Liga",
    "leagueLabel": {
     "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795352400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Beşiktaş Istanbul",
+     "en": "Beşiktaş J.K.",
+     "ru": "Бешикташ"
+    },
+    "name": "Beşiktaş",
+    "names": [
+     "Beşiktaş",
+     "Beşiktaş Istanbul",
+     "Beşiktaş J.K.",
+     "Бешикташ",
+     "Beşiktaş Jimnastik Kulübü",
+     "Beşiktaş JK",
+     "Besiktas JK",
+     "Besiktas Jimnastik Kulübü",
+     "Besiktas Istanbul",
+     "Бешикташ Стамбул",
+     "ФК Бешикташ",
+     "BJK",
+     "Besiktas",
+     "Besiktas J.K.",
+     "Besiktas Jimnastik Kulubu",
+     "B.J.K."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Konyaspor",
+     "en": "Konyaspor",
+     "ru": "Коньяспор"
+    },
+    "name": "Konyaspor",
+    "names": [
+     "Konyaspor",
+     "Коньяспор"
+    ]
+   },
+   "id": "thesportsdb:2527824",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795352400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Alanyaspor",
+     "en": "Alanyaspor",
+     "ru": "Аланьяспор"
+    },
+    "name": "Alanyaspor",
+    "names": [
+     "Alanyaspor",
+     "Аланьяспор"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Kasımpaşa Istanbul",
+     "en": "Kasımpaşa S.K.",
+     "ru": "Касымпаша"
+    },
+    "name": "Kasımpaşa",
+    "names": [
+     "Kasımpaşa",
+     "Касымпаша",
+     "Kasımpaşa S.K.",
+     "Kasımpaşa Istanbul",
+     "Kasımpaşa SK",
+     "Kasımpaşa Spor Kulübü"
+    ]
+   },
+   "id": "thesportsdb:2527828",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
    },
    "source": "TheSportsDB",
    "sport": "soccer",
@@ -2381,6 +2700,43 @@
    "leagueLabel": {
     "de": "Russische Premjer-Liga",
     "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795363200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Eyüpspor",
+     "en": "Eyüpspor",
+     "ru": "Эюпспор"
+    },
+    "name": "Eyüpspor",
+    "names": [
+     "Eyüpspor",
+     "Эюпспор"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Trabzonspor",
+     "en": "Trabzonspor",
+     "ru": "Трабзонспор"
+    },
+    "name": "Trabzonspor",
+    "names": [
+     "Trabzonspor",
+     "Трабзонспор",
+     "Trabzonspor Kulübü",
+     "Трабзонспор Трабзон"
+    ]
+   },
+   "id": "thesportsdb:2527827",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
    },
    "source": "TheSportsDB",
    "sport": "soccer",
@@ -2835,6 +3191,56 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1795377600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Çorum Belediyespor",
+     "en": "Çorum FK",
+     "ru": "Чорум"
+    },
+    "name": "Çorum",
+    "names": [
+     "Çorum",
+     "Çorum Belediyespor",
+     "Çorum FK",
+     "Чорум"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Başakşehir FK",
+     "en": "İstanbul Başakşehir F.K.",
+     "ru": "Истанбул Башакшехир"
+    },
+    "name": "İstanbul Başakşehir",
+    "names": [
+     "İstanbul Başakşehir",
+     "Истанбул Башакшехир",
+     "Başakşehir FK",
+     "İstanbul Başakşehir F.K.",
+     "Истамбул Башакшехир",
+     "Istanbul BB",
+     "Istanbul Büyüksehir Belediyespor",
+     "Istanbul Başakşehir FK",
+     "Medipol Başakşehir Futbol Kulübü",
+     "Medipol Başakşehir",
+     "Medipol Başakşehir FK",
+     "RAMS Başakşehir FK",
+     "İBFK",
+     "ibfk",
+     "Başakşehir F.K."
+    ]
+   },
+   "id": "thesportsdb:2527823",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795453200
   },
   {
    "away": {
@@ -3451,9 +3857,207 @@
    "source": "OpenLigaDB",
    "sport": "soccer",
    "start": 1795550400
+  },
+  {
+   "away": {
+    "label": {},
+    "name": "Excelsior Rotterdam",
+    "names": [
+     "Excelsior Rotterdam",
+     "Excelsior"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Sabah FA",
+     "en": "Sabah F.C."
+    },
+    "name": "Sabah",
+    "names": [
+     "Sabah",
+     "Sabah F.C.",
+     "Sabah FA",
+     "Sabah Football Club",
+     "Sabah FC",
+     "Sabah Football Club Sdn Bhd",
+     "Persatuan Bola Sepak Sabah"
+    ]
+   },
+   "id": "openligadb:87469",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795628700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Villarreal",
+     "en": "Villarreal CF",
+     "ru": "Вильярреал"
+    },
+    "name": "Villarreal CF",
+    "names": [
+     "Villarreal CF",
+     "Villarreal",
+     "FC Villarreal",
+     "Вильярреал",
+     "Villarreal Club de Futbol",
+     "Villarreal Club Football",
+     "Villarreal 1923",
+     "Villarreal Club de Fútbol 1923",
+     "Villarreal Club de Fútbol",
+     "Villarreal Club of Football",
+     "Villarreal CF 1923",
+     "Villarreal C.F.",
+     "VCF"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Slavia Prag",
+     "en": "SK Slavia Prague",
+     "ru": "Славия"
+    },
+    "name": "Slavia Prag",
+    "names": [
+     "Slavia Prag",
+     "Славия",
+     "SK Slavia Prague",
+     "SK Slavia Prag",
+     "SK Slavia Praha",
+     "Slavia Praha",
+     "Slavia Prague",
+     "S.K. Slavia Prague",
+     "SlaviaPrague",
+     "Slavia Prague Football",
+     "Slavia Prague FC",
+     "Славия Прага",
+     "ФК «Славия Прага»",
+     "«Славия Прага»",
+     "ФК «Славия»",
+     "«Славия»"
+    ]
+   },
+   "id": "openligadb:87470",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795628700
   }
  ],
- "generated": 1794991032,
+ "generated": 1795029856,
+ "leagues": [
+  {
+   "label": {
+    "ru": "Бундеслига"
+   },
+   "name": "Bundesliga",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Лига чемпионов"
+   },
+   "name": "Champions League",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Премьер-лига"
+   },
+   "name": "Premier League",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Ла Лига"
+   },
+   "name": "La Liga",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Серия А"
+   },
+   "name": "Serie A",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Лига 1"
+   },
+   "name": "Ligue 1",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "name": "Russian Premier League",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "name": "Süper Lig",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Лига Европы"
+   },
+   "name": "Europa League",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Лига конференций"
+   },
+   "name": "Conference League",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "ru": "Лига наций"
+   },
+   "name": "Nations League",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "de": "WM-Qualifikation",
+    "ru": "Отбор на чемпионат мира"
+   },
+   "name": "World Cup Qualifying",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "de": "Weltmeisterschaft",
+    "ru": "Чемпионат мира"
+   },
+   "name": "World Cup",
+   "sport": "soccer"
+  },
+  {
+   "label": {
+    "de": "Europameisterschaft",
+    "ru": "Чемпионат Европы"
+   },
+   "name": "European Championship",
+   "sport": "soccer"
+  }
+ ],
  "license": "Fixtures marked OpenLigaDB: www.openligadb.de, ODbL 1.0. Fixtures marked TheSportsDB: www.thesportsdb.com. Team names: Wikidata, CC0.",
  "version": 1
 }

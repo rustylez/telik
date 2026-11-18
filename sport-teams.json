@@ -881,6 +881,35 @@
    "Beşiktaş J.K. (Football)"
   ]
  },
+ "Q172969": {
+  "label": {
+   "de": "Schachtar Donezk",
+   "en": "FC Shakhtar Donetsk",
+   "ru": "Шахтёр"
+  },
+  "names": [
+   "Schachtar Donezk",
+   "FC Shakhtar Donetsk",
+   "Шахтёр",
+   "Schachtar Stalino",
+   "Shakhtar Donetsk",
+   "Schaktar Donesk",
+   "Schachtjor Donezk",
+   "Угольщики",
+   "Шахтёр Донецк",
+   "Шахтар",
+   "Шахтер",
+   "Шахтёр Сталино",
+   "Шахтер Донецк",
+   "FCSD",
+   "Стахановец Донецк",
+   "FC SD",
+   "ФК Шахтёр Донецк",
+   "ФКШД",
+   "Shakhtar Donetsk",
+   "Shakhtar"
+  ]
+ },
  "Q176371": {
   "label": {
    "de": "PFK ZSKA Moskau",
@@ -1215,6 +1244,29 @@
    "Cagliari Calcio",
    "Кальяри",
    "Cagliari"
+  ]
+ },
+ "Q190916": {
+  "label": {
+   "de": "FC Brügge",
+   "en": "Club Brugge K.V.",
+   "ru": "Брюгге"
+  },
+  "names": [
+   "FC Brügge",
+   "Брюгге",
+   "Club Brugge K.V.",
+   "Club Brugge KV",
+   "Club Brügge",
+   "Club Brugge",
+   "Club Brügge KV",
+   "Club Brugge Koninklijke Voetbalvereniging",
+   "Брюгге Брюгге",
+   "ФК Брюгге",
+   "Club Brugge",
+   "Club Brugge KV",
+   "Club Bruges",
+   "Club Bruges KV"
   ]
  },
  "Q191": {
@@ -1627,6 +1679,20 @@
    "Le MUC",
    "Le Mans Football Club",
    "Le Mans U.C. 72"
+  ]
+ },
+ "Q211177": {
+  "label": {
+   "de": "Viking Stavanger",
+   "en": "Viking FK",
+   "ru": "Викинг"
+  },
+  "names": [
+   "Viking Stavanger",
+   "Викинг",
+   "Viking FK",
+   "Viking FK",
+   "Viking Fotballklubb"
   ]
  },
  "Q212": {
@@ -3327,6 +3393,27 @@
    "ФК «Барселона»"
   ]
  },
+ "Q75729": {
+  "label": {
+   "de": "Sporting Lissabon",
+   "en": "Sporting CP",
+   "ru": "Спортинг"
+  },
+  "names": [
+   "Спортинг",
+   "Sporting Lissabon",
+   "Sporting CP",
+   "Спортинг Лиссабон",
+   "Sporting Clube de Portugal",
+   "Sporting Lisbon",
+   "SCP",
+   "Sporting CP",
+   "Sporting Club Portugal",
+   "Sporting Portugal",
+   "SCP",
+   "Sporting Lisbon"
+  ]
+ },
  "Q795978": {
   "label": {
    "de": "Baltika Kaliningrad",
@@ -3804,6 +3891,7 @@
   "nation|Wales": "Q25",
   "soccer|AC Milan": "Q1543",
   "soccer|AEK Athen": "Q201584",
+  "soccer|AS Rom": "Q2739",
   "soccer|Akhmat Grozny": "Q240444",
   "soccer|Akron Tolyatti": "Q65124755",
   "soccer|Alanyaspor": "Q1636019",
@@ -3813,6 +3901,7 @@
   "soccer|Aston Villa": "Q18711",
   "soccer|Atalanta": "Q1886",
   "soccer|Athletic Bilbao": "Q8687",
+  "soccer|Atletico Madrid": "Q8701",
   "soccer|Atlético Madrid": "Q8701",
   "soccer|Auxerre": "Q182876",
   "soccer|Baltika Kaliningrad": "Q795978",
@@ -3842,10 +3931,13 @@
   "soccer|Everton": "Q5794",
   "soccer|Eyüpspor": "Q118919",
   "soccer|FC Arsenal": "Q2817362",
+  "soccer|FC Brügge": "Q190916",
+  "soccer|FC Liverpool": "Q1130849",
   "soccer|FC Porto": "Q128446",
   "soccer|FK Bodö/Glimt": "Q478167",
   "soccer|Fakel Voronezh": "Q1388889",
   "soccer|Fenerbahçe": "Q6601875",
+  "soccer|Fenerbahçe SK": "Q6601875",
   "soccer|Feyenoord Rotterdam": "Q134241",
   "soccer|Fiorentina": "Q2052",
   "soccer|Frosinone": "Q845043",
@@ -3858,6 +3950,7 @@
   "soccer|Getafe": "Q8806",
   "soccer|Göztepe": "Q1423118",
   "soccer|Hull City": "Q19477",
+  "soccer|Inter Mailand": "Q631",
   "soccer|Inter Milan": "Q631",
   "soccer|Ipswich Town": "Q9653",
   "soccer|Juventus": "Q1422",
@@ -3874,12 +3967,14 @@
   "soccer|Lens": "Q191843",
   "soccer|Levante": "Q8823",
   "soccer|Lille": "Q19516",
+  "soccer|Lille OSC": "Q19516",
   "soccer|Liverpool": "Q1130849",
   "soccer|Lokomotiv Moscow": "Q29115",
   "soccer|Lorient": "Q48911",
   "soccer|Lyon": "Q704",
   "soccer|Manchester City": "Q50602",
   "soccer|Manchester United": "Q18656",
+  "soccer|Manchester United FC": "Q18656",
   "soccer|Marseille": "Q132885",
   "soccer|Monaco": "Q180305",
   "soccer|Monza": "Q289482",
@@ -3893,6 +3988,7 @@
   "soccer|PSV Eindhoven": "Q11938",
   "soccer|Paris FC": "Q1051013",
   "soccer|Paris Saint-Germain": "Q483020",
+  "soccer|Paris St. Germain": "Q483020",
   "soccer|Parma": "Q2693",
   "soccer|RB Leipzig": "Q702455",
   "soccer|RC Lens": "Q191843",
@@ -3914,9 +4010,11 @@
   "soccer|Samsunspor": "Q430107",
   "soccer|Sassuolo": "Q8603",
   "soccer|Sevilla": "Q10329",
+  "soccer|Shakhtar Donetsk": "Q172969",
   "soccer|Slavia Prag": "Q194393",
   "soccer|Slovan Bratislava": "Q3594211",
   "soccer|Spartak Moscow": "Q29112",
+  "soccer|Sporting CP": "Q75729",
   "soccer|Strasbourg": "Q126334",
   "soccer|Sunderland": "Q18739",
   "soccer|TSG Hoffenheim": "Q22707",
@@ -3928,6 +4026,7 @@
   "soccer|Udinese": "Q2798",
   "soccer|Valencia": "Q10333",
   "soccer|Venezia": "Q501245",
+  "soccer|Viking": "Q211177",
   "soccer|Villarreal": "Q12297",
   "soccer|Villarreal CF": "Q12297",
   "soccer|Zenit Saint Petersburg": "Q29108",

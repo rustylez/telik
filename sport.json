@@ -3203,8 +3203,7 @@
     "names": [
      "Çorum",
      "Çorum Belediyespor",
-     "Çorum FK",
-     "Чорум"
+     "Çorum FK"
     ]
    },
    "home": {
@@ -3950,9 +3949,440 @@
    "source": "OpenLigaDB",
    "sport": "soccer",
    "start": 1795628700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "VfB Stuttgart",
+     "en": "VfB Stuttgart",
+     "ru": "Штутгарт"
+    },
+    "name": "VfB Stuttgart",
+    "names": [
+     "VfB Stuttgart",
+     "Stuttgart",
+     "Штутгарт",
+     "ФК Штутгарт",
+     "Штуттгарт",
+     "ФК Штуттгарт",
+     "Die Schwaben",
+     "The Swabians",
+     "VfB"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Inter Mailand",
+     "en": "Inter Milan",
+     "ru": "Интер"
+    },
+    "name": "Inter Mailand",
+    "names": [
+     "Inter Mailand",
+     "Inter",
+     "Inter Milan",
+     "Интернационале",
+     "Internazionale Milano",
+     "The Inter",
+     "Internazionale",
+     "FC Internazionale Milano",
+     "Football Club Inter Milan",
+     "I M",
+     "FCIM",
+     "F.C. Inter Milan",
+     "Inter Milano",
+     "F.C. Inter",
+     "Football Club Inter",
+     "Inter of Milan",
+     "Football Club Internazionale Milano",
+     "FCInter",
+     "FC Inter",
+     "Inter soccer club",
+     "F.C.I.M.",
+     "Inter Club",
+     "Inter FC",
+     "Inter Football Club",
+     "Internazionale Mailand",
+     "FC Internazionale Mailand",
+     "Fußball-Club Inter Mailand",
+     "Fußball-Club Internazionale Mailand",
+     "Fußball-Club Inter",
+     "FC Internazionale",
+     "Интер",
+     "Интер Милан",
+     "Миланский Интер"
+    ]
+   },
+   "id": "openligadb:87471",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Viking Stavanger",
+     "en": "Viking FK",
+     "ru": "Викинг"
+    },
+    "name": "Viking",
+    "names": [
+     "Viking",
+     "Viking Stavanger",
+     "Викинг",
+     "Viking FK",
+     "Viking Fotballklubb"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Atlético Madrid",
+     "en": "Atlético Madrid",
+     "ru": "Атлетико Мадрид"
+    },
+    "name": "Atletico Madrid",
+    "names": [
+     "Atletico Madrid",
+     "Atlético Madrid",
+     "Атлетико Мадрид",
+     "Atlético de Madrid",
+     "Atletico de Madrid",
+     "Club Atlético de Madrid S.A.D.",
+     "Club Atletico de Madrid S.A.D.",
+     "Club Atlético de Madrid",
+     "Atletico",
+     "El Atleti",
+     "ATM Football Club",
+     "Atletico of Madrid",
+     "Atleti de Madrid",
+     "ATM",
+     "Atl. de Madrid",
+     "The Atletico",
+     "Atlético",
+     "AtléticoDeMadrid"
+    ]
+   },
+   "id": "openligadb:87472",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AS Rom",
+     "en": "AS Roma",
+     "ru": "Рома"
+    },
+    "name": "AS Rom",
+    "names": [
+     "AS Rom",
+     "AS Roma",
+     "Roma",
+     "Рома",
+     "Associazione Sportiva Roma",
+     "ASR",
+     "ASRoma",
+     "A.S.R",
+     "La Roma",
+     "A.S.Roma",
+     "ASR 1927",
+     "A.S.R 1927",
+     "The Wolfs",
+     "Rome Sport Association",
+     "A.S. Rome",
+     "A.S.Rome",
+     "A.S. Roma"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Paris Saint-Germain",
+     "en": "Paris Saint-Germain FC",
+     "ru": "Пари Сен-Жермен"
+    },
+    "name": "Paris St. Germain",
+    "names": [
+     "Paris St. Germain",
+     "Paris",
+     "Пари Сен-Жермен",
+     "Paris Saint-Germain",
+     "Paris Saint-Germain FC",
+     "Пари-Сен-Жермен Париж",
+     "Пари-Сен-Жермен",
+     "ПСЖ",
+     "Пари Сен Жермен",
+     "FC Paris St. Germain",
+     "Paris St.-Germain",
+     "PSGFC"
+    ]
+   },
+   "id": "openligadb:87473",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Liverpool",
+     "en": "Liverpool F.C.",
+     "ru": "Ливерпуль"
+    },
+    "name": "FC Liverpool",
+    "names": [
+     "FC Liverpool",
+     "Liverpool",
+     "Liverpool F.C.",
+     "Ливерпуль",
+     "ФК Ливерпуль",
+     "ФК «Ливерпуль»",
+     "«Ливерпуль»",
+     "Мерсисайдцы",
+     "F.C. Liverpool",
+     "The Reds",
+     "LiverpoolFC",
+     "LiverpoolF.C.",
+     "L.F.C."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Brügge",
+     "en": "Club Brugge K.V.",
+     "ru": "Брюгге"
+    },
+    "name": "FC Brügge",
+    "names": [
+     "FC Brügge",
+     "Brügge",
+     "Брюгге",
+     "Club Brugge K.V.",
+     "Club Brugge KV",
+     "Club Brügge",
+     "Club Brugge",
+     "Club Brügge KV",
+     "Брюгге Брюгге",
+     "ФК Брюгге",
+     "Club Bruges",
+     "Club Bruges KV"
+    ]
+   },
+   "id": "openligadb:87474",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Bayern München",
+     "en": "FC Bayern Munich",
+     "ru": "Бавария"
+    },
+    "name": "FC Bayern München",
+    "names": [
+     "FC Bayern München",
+     "Bayern München",
+     "Bayern",
+     "FC Bayern Munich",
+     "Bayern Munich",
+     "Бавария",
+     "FCB",
+     "FC Bayern",
+     "Fußball-Club Bayern München e. V.",
+     "Bayern Muenchen",
+     "Bayern Munchen",
+     "FC Bayern Muenchen",
+     "FC Bayern Munchen",
+     "FCBM",
+     "Munich",
+     "FCBM 1900",
+     "FCB Munich",
+     "Bayern of Munich",
+     "F.C. Bayern Munich",
+     "Die Bayernf",
+     "FC Hollywood",
+     "Hollywood",
+     "FC Bavaria Munich",
+     "Bavaria Munich",
+     "ФК Бавария Мюнхен",
+     "Бавария Мюнхен"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "OSC Lille",
+     "en": "Lille OSC",
+     "ru": "Лилль"
+    },
+    "name": "Lille OSC",
+    "names": [
+     "Lille OSC",
+     "Lille",
+     "OSC Lille",
+     "Лилль",
+     "LOSC",
+     "Olympique Lillois",
+     "Lille Olympique Sporting Club",
+     "Olympique Lille"
+    ]
+   },
+   "id": "openligadb:87475",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Manchester United",
+     "en": "Manchester United F.C.",
+     "ru": "Манчестер Юнайтед"
+    },
+    "name": "Manchester United FC",
+    "names": [
+     "Manchester United FC",
+     "Manchester United",
+     "ManU",
+     "Manchester United F.C.",
+     "Манчестер Юнайтед",
+     "Man United",
+     "MUFC",
+     "Manchester United Football Club",
+     "Man Utd",
+     "Red Devils",
+     "Man U",
+     "United",
+     "Newton Heath FC",
+     "Newton Heath",
+     "Newton Heath F.C.",
+     "Man U.",
+     "ManUtd",
+     "Manchester Utd.",
+     "Красные Дьяволы",
+     "ФК МЮ",
+     "Ман Ютд",
+     "Ман Юнайтед",
+     "МЮН",
+     "Красные"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Sporting Lissabon",
+     "en": "Sporting CP",
+     "ru": "Спортинг"
+    },
+    "name": "Sporting CP",
+    "names": [
+     "Sporting CP",
+     "Sporting",
+     "Спортинг",
+     "Sporting Lissabon",
+     "Спортинг Лиссабон",
+     "Sporting Clube de Portugal",
+     "Sporting Lisbon",
+     "SCP",
+     "Sporting Club Portugal",
+     "Sporting Portugal"
+    ]
+   },
+   "id": "openligadb:87476",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Fenerbahçe Istanbul",
+     "en": "Fenerbahçe Istanbul",
+     "ru": "Фенербахче"
+    },
+    "name": "Fenerbahçe SK",
+    "names": [
+     "Fenerbahçe SK",
+     "Fenerbahçe",
+     "Fenerbahçe Istanbul",
+     "Фенербахче",
+     "Fenerbahce",
+     "Fenerbahce S.K.",
+     "Fenerbahce SK",
+     "Fenerbahçe Spor Kulübü",
+     "Fenerbahce Spor Kulubu",
+     "Fenerbahçe Sports Club",
+     "Fenerbahce Sports Club",
+     "Fenerbahçe SK Football",
+     "Fenerbahçe Futbol A.Ş.",
+     "Fener",
+     "Fenerbahçe Sport Klub"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Schachtar Donezk",
+     "en": "FC Shakhtar Donetsk",
+     "ru": "Шахтёр"
+    },
+    "name": "Shakhtar Donetsk",
+    "names": [
+     "Shakhtar Donetsk",
+     "Schachtar Donezk",
+     "FC Shakhtar Donetsk",
+     "Шахтёр",
+     "Schachtar Stalino",
+     "Schaktar Donesk",
+     "Schachtjor Donezk",
+     "Угольщики",
+     "Шахтёр Донецк",
+     "Шахтар",
+     "Шахтер",
+     "Шахтёр Сталино",
+     "Шахтер Донецк",
+     "FCSD",
+     "Стахановец Донецк",
+     "FC SD",
+     "ФК Шахтёр Донецк",
+     "ФКШД",
+     "Shakhtar"
+    ]
+   },
+   "id": "openligadb:87477",
+   "league": "Champions League",
+   "leagueLabel": {
+    "ru": "Лига чемпионов"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795636800
   }
  ],
- "generated": 1795029856,
+ "generated": 1795037299,
  "leagues": [
   {
    "label": {

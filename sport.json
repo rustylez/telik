@@ -1,71 +1,6 @@
 {
- "credit": "TheSportsDB, OpenLigaDB",
+ "credit": "OpenLigaDB, TheSportsDB",
  "events": [
-  {
-   "away": {
-    "label": {
-     "de": "Krylja Sowetow Samara",
-     "en": "FC Krylia Sovetov Samara",
-     "ru": "Крылья Советов"
-    },
-    "name": "Krylia Sovetov Samara",
-    "names": [
-     "Krylia Sovetov Samara",
-     "Krylja Sowetow Samara",
-     "Крылья Советов",
-     "FC Krylia Sovetov Samara",
-     "Krylja Sowetow Kujbyschew",
-     "Krylja Sowjetow Samara",
-     "FC Krylya Sovetov Samara",
-     "Krylya Sovetov Samara",
-     "Зенит Куйбышев",
-     "Крылья Советов-2",
-     "Крылья Советов Куйбышев",
-     "ФК КС",
-     "Крылья Советов Самара",
-     "ФК Крылья Советов",
-     "Зенит",
-     "PFC Krylia Sovetov"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FK Rostow",
-     "en": "FC Rostov",
-     "ru": "Ростов"
-    },
-    "name": "Rostov",
-    "names": [
-     "Rostov",
-     "FK Rostow",
-     "Rostow",
-     "Ростов",
-     "FC Rostov",
-     "FK Rostov",
-     "FC Rostow",
-     "Rostselmasch Rostow",
-     "ФК Ростов",
-     "ФК Ростов Ростов-на-Дону",
-     "Ростов Ростов-на-Дону",
-     "Торпедо",
-     "Ростсельмаш-2",
-     "Ростсельмаш",
-     "ФК «Ростов»",
-     "«Ростов»",
-     "ФК Ростсельмаш",
-     "Футбольный клуб \"Ростов\""
-    ]
-   },
-   "id": "thesportsdb:2501971",
-   "league": "Russian Premier League",
-   "leagueLabel": {
-    "de": "Russische Premjer-Liga",
-    "ru": "РПЛ"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795192200
-  },
   {
    "away": {
     "label": {
@@ -6112,9 +6047,339 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1795723200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Konyaspor",
+     "en": "Konyaspor",
+     "ru": "Коньяспор"
+    },
+    "name": "Konyaspor",
+    "names": [
+     "Konyaspor",
+     "Коньяспор"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Alanyaspor",
+     "en": "Alanyaspor",
+     "ru": "Аланьяспор"
+    },
+    "name": "Alanyaspor",
+    "names": [
+     "Alanyaspor",
+     "Аланьяспор"
+    ]
+   },
+   "id": "thesportsdb:2527835",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795798800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Kasımpaşa Istanbul",
+     "en": "Kasımpaşa S.K.",
+     "ru": "Касымпаша"
+    },
+    "name": "Kasımpaşa",
+    "names": [
+     "Kasımpaşa",
+     "Касымпаша",
+     "Kasımpaşa S.K.",
+     "Kasımpaşa Istanbul",
+     "Kasımpaşa SK",
+     "Kasımpaşa Spor Kulübü"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Çaykur Rizespor",
+     "en": "Çaykur Rizespor",
+     "ru": "Ризеспор"
+    },
+    "name": "Rizespor",
+    "names": [
+     "Rizespor",
+     "Ризеспор",
+     "Çaykur Rizespor",
+     "Чайкур Ризеспор",
+     "Caykur Rizespor"
+    ]
+   },
+   "id": "thesportsdb:2527836",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795798800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Borussia Mönchengladbach",
+     "en": "Borussia Mönchengladbach",
+     "ru": "Боруссия"
+    },
+    "name": "Borussia Mönchengladbach",
+    "names": [
+     "Borussia Mönchengladbach",
+     "Gladbach",
+     "Боруссия",
+     "Боруссия Мёнхенгладбах",
+     "Боруссия Менхенгладбах",
+     "VfTuR München-Gladbach",
+     "Borussia M'Gladbach",
+     "Borussia VfL 1900",
+     "Borussia VfL",
+     "Fohlen-Elf",
+     "Fohlenelf",
+     "Bor. Mönchengladbach"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Werder Bremen",
+     "en": "SV Werder Bremen",
+     "ru": "Вердер"
+    },
+    "name": "SV Werder Bremen",
+    "names": [
+     "SV Werder Bremen",
+     "Werder Bremen",
+     "Bremen",
+     "Вердер",
+     "Werder",
+     "Die Werderaner",
+     "Die Grün-Weißen",
+     "The Green-Whites",
+     "Sportverein Werder Bremen von 1899 e. V.",
+     "Sportverein Werder Bremen"
+    ]
+   },
+   "id": "openligadb:83253",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795807800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Bologna",
+     "en": "Bologna F.C. 1909",
+     "ru": "Болонья"
+    },
+    "name": "Bologna",
+    "names": [
+     "Bologna",
+     "Bologna F.C. 1909",
+     "Bologna F.C.",
+     "FC Bologna",
+     "Болонья",
+     "Bologna Football Club 1909",
+     "Bologna Football Club",
+     "BFC1909",
+     "Bologna FC 1909",
+     "Bologna FC",
+     "BolognaFC1909"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Venedig",
+     "en": "Venezia F.C.",
+     "ru": "Венеция"
+    },
+    "name": "Venezia",
+    "names": [
+     "Venezia",
+     "FC Venedig",
+     "Venedig",
+     "Venezia F.C.",
+     "Венеция",
+     "SSC Venedig",
+     "Venedig FC",
+     "Venezia FC",
+     "Venezia Football Club",
+     "Venice Football Club",
+     "Venice FC",
+     "Venice",
+     "VFC",
+     "VeneziaMestre FC",
+     "VeneziaMestre",
+     "Arancioneroverdi"
+    ]
+   },
+   "id": "thesportsdb:2482265",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795808700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Paris FC",
+     "en": "Paris FC",
+     "ru": "Париж"
+    },
+    "name": "Paris FC",
+    "names": [
+     "Paris FC",
+     "Paris",
+     "Париж",
+     "Пари",
+     "Paris F.C.",
+     "Paris Football Club",
+     "PFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Stade Brest",
+     "en": "Stade Brestois 29",
+     "ru": "Брест"
+    },
+    "name": "Brest",
+    "names": [
+     "Brest",
+     "Stade Brest",
+     "Stade Brestois 29",
+     "Stade Brestois",
+     "Брест",
+     "Стад Брест",
+     "Стад Брестуа",
+     "Брест 29"
+    ]
+   },
+   "id": "thesportsdb:2489566",
+   "league": "Ligue 1",
+   "leagueLabel": {
+    "ru": "Лига 1"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795808700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Chelsea",
+     "en": "Chelsea F.C.",
+     "ru": "Челси"
+    },
+    "name": "Chelsea",
+    "names": [
+     "Chelsea",
+     "Chelsea F.C.",
+     "FC Chelsea",
+     "Челси",
+     "Chelsea Football Club",
+     "Chelsea FC",
+     "The Blues",
+     "The Pensioners",
+     "CFC",
+     "Chelsea London"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Nottingham Forest",
+     "en": "Nottingham Forest F.C.",
+     "ru": "Ноттингем Форест"
+    },
+    "name": "Nottingham Forest",
+    "names": [
+     "Nottingham Forest",
+     "Nottingham Forest F.C.",
+     "Ноттингем Форест",
+     "Nottingham Forest Football Club",
+     "Nottingham Forest FC",
+     "Forest",
+     "The Reds",
+     "Tricky Trees",
+     "NFFC",
+     "Nottm Forest"
+    ]
+   },
+   "id": "thesportsdb:2494118",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795809600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Racing de Santander",
+     "en": "Racing de Santander",
+     "ru": "Расинг"
+    },
+    "name": "Racing de Santander",
+    "names": [
+     "Racing de Santander",
+     "Расинг",
+     "Racing Club de Santander",
+     "Real Racing Club de Santander",
+     "Racing Santander",
+     "Real Racing Club",
+     "Real Santander SD"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Levante UD",
+     "en": "Levante UD",
+     "ru": "Леванте"
+    },
+    "name": "Levante",
+    "names": [
+     "Levante",
+     "Levante UD",
+     "Леванте",
+     "FC Levante",
+     "Levante Unión Deportiva",
+     "Levante Union Deportiva",
+     "Levante U.D.",
+     "UD Levante",
+     "Levante UD Football",
+     "Levante Football Club",
+     "Levante FC",
+     "Levante Sports Union"
+    ]
+   },
+   "id": "thesportsdb:2506302",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795809600
   }
  ],
- "generated": 1795163975,
+ "generated": 1795209311,
  "leagues": [
   {
    "label": {

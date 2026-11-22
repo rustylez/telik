@@ -1,775 +1,6 @@
 {
- "credit": "TheSportsDB, OpenLigaDB",
+ "credit": "OpenLigaDB, TheSportsDB",
  "events": [
-  {
-   "away": {
-    "label": {
-     "de": "Göztepe Izmir",
-     "en": "Göztepe S.K.",
-     "ru": "Гёзтепе"
-    },
-    "name": "Göztepe",
-    "names": [
-     "Göztepe",
-     "Гёзтепе",
-     "Göztepe S.K.",
-     "Göztepe Izmir",
-     "Göztepe SK",
-     "Göztepe A.Ş.",
-     "Göztepe Sportif Yatırımlar A.Ş.",
-     "Goztepe Izmir"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Erzurumspor",
-     "en": "Erzurumspor",
-     "ru": "Эрзурумспор"
-    },
-    "name": "Erzurumspor",
-    "names": [
-     "Erzurumspor",
-     "Эрзурумспор"
-    ]
-   },
-   "id": "thesportsdb:2527829",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795343400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "FK Krasnodar",
-     "en": "FC Krasnodar",
-     "ru": "Краснодар"
-    },
-    "name": "Krasnodar",
-    "names": [
-     "Krasnodar",
-     "FK Krasnodar",
-     "Краснодар",
-     "FC Krasnodar",
-     "Футбольный клуб «Краснодар»",
-     "ФК Краснодар",
-     "ФК «Краснода́р»",
-     "«Краснода́р»"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Dynamo Moskau",
-     "en": "Dynamo Moscow",
-     "ru": "Динамо Москва"
-    },
-    "name": "Dynamo Moscow",
-    "names": [
-     "Dynamo Moscow",
-     "Динамо Москва",
-     "Dynamo Moskau",
-     "Dinamo Moskau",
-     "VC Dinamo Moscow",
-     "MGO VFSO \"Dynamo\"",
-     "Динамо"
-    ]
-   },
-   "id": "thesportsdb:2501974",
-   "league": "Russian Premier League",
-   "leagueLabel": {
-    "de": "Russische Premjer-Liga",
-    "ru": "РПЛ"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795345200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "FC Venedig",
-     "en": "Venezia F.C.",
-     "ru": "Венеция"
-    },
-    "name": "Venezia",
-    "names": [
-     "Venezia",
-     "FC Venedig",
-     "Venedig",
-     "Venezia F.C.",
-     "Венеция",
-     "SSC Venedig",
-     "Venedig FC",
-     "Venezia FC",
-     "Venezia Football Club",
-     "Venice Football Club",
-     "Venice FC",
-     "Venice",
-     "VFC",
-     "VeneziaMestre FC",
-     "VeneziaMestre",
-     "Arancioneroverdi"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Juventus Turin",
-     "en": "Juventus FC",
-     "ru": "Ювентус"
-    },
-    "name": "Juventus",
-    "names": [
-     "Juventus",
-     "Juventus Turin",
-     "Ювентус",
-     "Juventus FC",
-     "Juventus of Turin",
-     "Juventus F.C.",
-     "JuventusFC",
-     "J.F.C.",
-     "JuventusF.C.",
-     "JuventusFootballClub"
-    ]
-   },
-   "id": "thesportsdb:2482252",
-   "league": "Serie A",
-   "leagueLabel": {
-    "ru": "Серия А"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795347000
-  },
-  {
-   "away": {
-    "label": {
-     "de": "FC Villarreal",
-     "en": "Villarreal CF",
-     "ru": "Вильярреал"
-    },
-    "name": "Villarreal",
-    "names": [
-     "Villarreal",
-     "Villarreal CF",
-     "FC Villarreal",
-     "Вильярреал",
-     "Villarreal Club de Futbol",
-     "Villarreal Club Football",
-     "Villarreal 1923",
-     "Villarreal Club de Fútbol 1923",
-     "Villarreal Club de Fútbol",
-     "Villarreal Club of Football",
-     "Villarreal CF 1923",
-     "Villarreal C.F.",
-     "VCF"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FC Barcelona",
-     "en": "FC Barcelona",
-     "ru": "Барселона"
-    },
-    "name": "Barcelona",
-    "names": [
-     "Barcelona",
-     "FC Barcelona",
-     "Барселона",
-     "Fútbol Club Barcelona",
-     "Barcelona FC",
-     "F.C. Barcelona",
-     "Barcelona Football Club",
-     "Football Club of Barcelona",
-     "FC Barcelona Football",
-     "Barcelona Football",
-     "FCBarcelona",
-     "F.C.B.",
-     "F.C.Barcelona",
-     "Football Club Barcelona",
-     "ФК Барселона",
-     "ФК «Барселона»",
-     "«Барселона»"
-    ]
-   },
-   "id": "thesportsdb:2506289",
-   "league": "La Liga",
-   "leagueLabel": {
-    "ru": "Ла Лига"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795352400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Beşiktaş Istanbul",
-     "en": "Beşiktaş J.K.",
-     "ru": "Бешикташ"
-    },
-    "name": "Beşiktaş",
-    "names": [
-     "Beşiktaş",
-     "Beşiktaş Istanbul",
-     "Beşiktaş J.K.",
-     "Бешикташ",
-     "Beşiktaş Jimnastik Kulübü",
-     "Beşiktaş JK",
-     "Besiktas JK",
-     "Besiktas Jimnastik Kulübü",
-     "Besiktas Istanbul",
-     "Бешикташ Стамбул",
-     "ФК Бешикташ",
-     "BJK",
-     "Besiktas",
-     "Besiktas J.K.",
-     "Besiktas Jimnastik Kulubu",
-     "B.J.K."
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Konyaspor",
-     "en": "Konyaspor",
-     "ru": "Коньяспор"
-    },
-    "name": "Konyaspor",
-    "names": [
-     "Konyaspor",
-     "Коньяспор"
-    ]
-   },
-   "id": "thesportsdb:2527824",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795352400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Alanyaspor",
-     "en": "Alanyaspor",
-     "ru": "Аланьяспор"
-    },
-    "name": "Alanyaspor",
-    "names": [
-     "Alanyaspor",
-     "Аланьяспор"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Kasımpaşa Istanbul",
-     "en": "Kasımpaşa S.K.",
-     "ru": "Касымпаша"
-    },
-    "name": "Kasımpaşa",
-    "names": [
-     "Kasımpaşa",
-     "Касымпаша",
-     "Kasımpaşa S.K.",
-     "Kasımpaşa Istanbul",
-     "Kasımpaşa SK",
-     "Kasımpaşa Spor Kulübü"
-    ]
-   },
-   "id": "thesportsdb:2527828",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795352400
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Spartak Moskau",
-     "en": "Spartak Moscow",
-     "ru": "Спартак"
-    },
-    "name": "Spartak Moscow",
-    "names": [
-     "Spartak Moscow",
-     "Spartak Moskau",
-     "Спартак",
-     "FC Spartak Moscow",
-     "Spartak Moskva",
-     "Народная команда",
-     "ФК Спартак Москва",
-     "Спартак Москва",
-     "Спартак-Москва",
-     "ФК Спартак",
-     "ФКСМ",
-     "Московский футбольный клуб \"Спартак\"",
-     "FCSM",
-     "Футбольный клуб Спартак Москва"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FK Dynamo Machatschkala",
-     "en": "FC Dynamo Makhachkala",
-     "ru": "Динамо Махачкала"
-    },
-    "name": "Dynamo Makhachkala",
-    "names": [
-     "Dynamo Makhachkala",
-     "Динамо",
-     "FC Dynamo Makhachkala",
-     "FK Dynamo Machatschkala",
-     "Dynamo Machatschkala",
-     "Динамо Махачкала",
-     "Темп"
-    ]
-   },
-   "id": "thesportsdb:2501976",
-   "league": "Russian Premier League",
-   "leagueLabel": {
-    "de": "Russische Premjer-Liga",
-    "ru": "РПЛ"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795354200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "CFC Genua",
-     "en": "Genoa CFC",
-     "ru": "Дженоа"
-    },
-    "name": "Genoa",
-    "names": [
-     "Genoa",
-     "Genoa CFC",
-     "CFC Genua",
-     "Дженоа",
-     "Genoa Cricket and Football Club s.p.a",
-     "Genoa C.F.C."
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "US Sassuolo Calcio",
-     "en": "US Sassuolo Calcio",
-     "ru": "Сассуоло"
-    },
-    "name": "Sassuolo",
-    "names": [
-     "Sassuolo",
-     "US Sassuolo Calcio",
-     "Сассуоло",
-     "Sassuolo Calcio",
-     "U.S. Sassuolo Calcio",
-     "Unione Sportiva Sassuolo Calcio"
-    ]
-   },
-   "id": "thesportsdb:2482249",
-   "league": "Serie A",
-   "leagueLabel": {
-    "ru": "Серия А"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795356000
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Udinese Calcio",
-     "en": "Udinese Calcio",
-     "ru": "Удинезе"
-    },
-    "name": "Udinese",
-    "names": [
-     "Udinese",
-     "Udinese Calcio",
-     "Удинезе",
-     "Udinese Football",
-     "Udinese Football Club",
-     "Udinese FC",
-     "First Bianconeri of Italy"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FC Bologna",
-     "en": "Bologna F.C. 1909",
-     "ru": "Болонья"
-    },
-    "name": "Bologna",
-    "names": [
-     "Bologna",
-     "Bologna F.C. 1909",
-     "Bologna F.C.",
-     "FC Bologna",
-     "Болонья",
-     "Bologna Football Club 1909",
-     "Bologna Football Club",
-     "BFC1909",
-     "Bologna FC 1909",
-     "Bologna FC",
-     "BolognaFC1909"
-    ]
-   },
-   "id": "thesportsdb:2482254",
-   "league": "Serie A",
-   "leagueLabel": {
-    "ru": "Серия А"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795356000
-  },
-  {
-   "away": {
-    "label": {
-     "de": "SCO Angers",
-     "en": "Angers SCO",
-     "ru": "Анже"
-    },
-    "name": "Angers",
-    "names": [
-     "Angers",
-     "Анже",
-     "Angers SCO",
-     "SCO Angers",
-     "Анжерс",
-     "Angers Sporting Club de l'Ouest",
-     "SCO",
-     "SCO of Angers"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Paris FC",
-     "en": "Paris FC",
-     "ru": "Париж"
-    },
-    "name": "Paris FC",
-    "names": [
-     "Paris FC",
-     "Paris",
-     "Париж",
-     "Пари",
-     "Paris F.C.",
-     "Paris Football Club",
-     "PFC"
-    ]
-   },
-   "id": "thesportsdb:2489559",
-   "league": "Ligue 1",
-   "leagueLabel": {
-    "ru": "Лига 1"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795356000
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Brighton & Hove Albion",
-     "en": "Brighton & Hove Albion F.C.",
-     "ru": "Брайтон энд Хоув Альбион"
-    },
-    "name": "Brighton and Hove Albion",
-    "names": [
-     "Brighton and Hove Albion",
-     "Brighton & Hove Albion F.C.",
-     "Brighton & Hove Albion",
-     "Брайтон энд Хоув Альбион",
-     "Brighton and Hove Albion F.C.",
-     "Brighton & Hove Albion Football Club",
-     "Brighton and Hove Albion Football Club",
-     "Brighton & Hove",
-     "Brighton and Hove Albion FC",
-     "Brighton & Hove Albion FC",
-     "Brighton",
-     "Brighton and Hove",
-     "The Seagulls",
-     "Albion",
-     "BHAFC",
-     "Brighton F.C.",
-     "Brighton FC",
-     "BHA"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Hull City",
-     "en": "Hull City A.F.C.",
-     "ru": "Халл Сити"
-    },
-    "name": "Hull City",
-    "names": [
-     "Hull City",
-     "Hull City A.F.C.",
-     "Халл Сити",
-     "Hull City Association Football Club",
-     "Hull City AFC",
-     "Hull",
-     "The Tigers",
-     "City",
-     "HCAFC"
-    ]
-   },
-   "id": "thesportsdb:2494107",
-   "league": "Premier League",
-   "leagueLabel": {
-    "ru": "Премьер-лига"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795356000
-  },
-  {
-   "away": {
-    "label": {
-     "de": "1. FSV Mainz 05",
-     "en": "1. FSV Mainz 05",
-     "ru": "Майнц 05"
-    },
-    "name": "1. FSV Mainz 05",
-    "names": [
-     "1. FSV Mainz 05",
-     "Mainz 05",
-     "1. FSV Mainz",
-     "Mainz",
-     "Майнц 05",
-     "Майнц",
-     "FSV Mainz",
-     "FSV Mainz 05",
-     "Mainzer FSV",
-     "1.Fußball und Sportverein Mainz 05",
-     "1.Fußball und Sportverein Mainz",
-     "ФК Майнц",
-     "Die Nullfünfer",
-     "The Zero-Fivers"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FC Augsburg",
-     "en": "FC Augsburg",
-     "ru": "Аугсбург"
-    },
-    "name": "FC Augsburg",
-    "names": [
-     "FC Augsburg",
-     "Augsburg",
-     "Аугсбург",
-     "Fußball-Club Augsburg 1907 e. V.",
-     "Fußball-Club Augsburg 1907 e. V",
-     "FC Augsburg Football Team",
-     "Augsburg Football Team",
-     "Fußball-Club Augsburg",
-     "FC Augsburg Soccer Team",
-     "Augsburg Soccer Team",
-     "Die Fuggerstädter"
-    ]
-   },
-   "id": "openligadb:83240",
-   "league": "Bundesliga",
-   "leagueLabel": {
-    "ru": "Бундеслига"
-   },
-   "source": "OpenLigaDB",
-   "sport": "soccer",
-   "start": 1795357800
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Real Sociedad",
-     "en": "Real Sociedad",
-     "ru": "Реал Сосьедад"
-    },
-    "name": "Real Sociedad",
-    "names": [
-     "Real Sociedad",
-     "Реал Сосьедад",
-     "Real Sociedad de Futbol",
-     "Real Sociedad San Sebastian",
-     "Real Sociedad de Fútbol",
-     "Real Sociedad San Sebastián",
-     "Donostia Football Club",
-     "San Sebastián Foot-Ball Club",
-     "San Sebastian Foot-Ball Club"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Racing de Santander",
-     "en": "Racing de Santander",
-     "ru": "Расинг"
-    },
-    "name": "Racing de Santander",
-    "names": [
-     "Racing de Santander",
-     "Расинг",
-     "Racing Club de Santander",
-     "Real Racing Club de Santander",
-     "Racing Santander",
-     "Real Racing Club",
-     "Real Santander SD"
-    ]
-   },
-   "id": "thesportsdb:2506298",
-   "league": "La Liga",
-   "leagueLabel": {
-    "ru": "Ла Лига"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795360500
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Lokomotive Moskau",
-     "en": "FC Lokomotiv Moscow",
-     "ru": "Локомотив"
-    },
-    "name": "Lokomotiv Moscow",
-    "names": [
-     "Lokomotiv Moscow",
-     "Lokomotive Moskau",
-     "Локомотив",
-     "FC Lokomotiv Moscow",
-     "Lok Moskau",
-     "Lokomotiv Moskau",
-     "Lokomotiw Moskau",
-     "Локомотив Москва",
-     "ФК Локомотив Москва",
-     "Loko",
-     "ФКЛМ",
-     "Футбольный клуб Локомотив Москва",
-     "Локо"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FC Rodina Moskau",
-     "en": "FC Rodina Moscow",
-     "ru": "Родина"
-    },
-    "name": "Rodina Moscow",
-    "names": [
-     "Rodina Moscow",
-     "FC Rodina Moscow",
-     "FC Rodina Moskau",
-     "Rodina Moskau",
-     "Родина"
-    ]
-   },
-   "id": "thesportsdb:2501977",
-   "league": "Russian Premier League",
-   "leagueLabel": {
-    "de": "Russische Premjer-Liga",
-    "ru": "РПЛ"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795363200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Eyüpspor",
-     "en": "Eyüpspor",
-     "ru": "Эюпспор"
-    },
-    "name": "Eyüpspor",
-    "names": [
-     "Eyüpspor",
-     "Эюпспор"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Trabzonspor",
-     "en": "Trabzonspor",
-     "ru": "Трабзонспор"
-    },
-    "name": "Trabzonspor",
-    "names": [
-     "Trabzonspor",
-     "Трабзонспор",
-     "Trabzonspor Kulübü",
-     "Трабзонспор Трабзон"
-    ]
-   },
-   "id": "thesportsdb:2527827",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795363200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Stade Rennes",
-     "en": "Stade Rennais F.C.",
-     "ru": "Ренн"
-    },
-    "name": "Rennes",
-    "names": [
-     "Rennes",
-     "Stade Rennes",
-     "Stade Rennais F.C.",
-     "Stade Rennais",
-     "Ренн",
-     "Stade Rennais Football Club",
-     "Stade Rennais UC",
-     "Stade Rennais FC",
-     "Rennais",
-     "SRFC"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FC Lorient",
-     "en": "F.C. Lorient",
-     "ru": "Лорьян"
-    },
-    "name": "Lorient",
-    "names": [
-     "Lorient",
-     "FC Lorient",
-     "F.C. Lorient",
-     "Лорьян",
-     "FC Lorient Bretagne-Sud",
-     "Lorient Bretagne-Sud",
-     "Football Club Lorient-Bretagne Sud"
-    ]
-   },
-   "id": "thesportsdb:2489557",
-   "league": "Ligue 1",
-   "leagueLabel": {
-    "ru": "Лига 1"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795364100
-  },
   {
    "away": {
     "label": {
@@ -1055,61 +286,6 @@
    "league": "Serie A",
    "leagueLabel": {
     "ru": "Серия А"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795376700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Le Mans FC",
-     "en": "Le Mans F.C.",
-     "ru": "Ле-Ман"
-    },
-    "name": "Le Mans",
-    "names": [
-     "Le Mans",
-     "Le Mans FC",
-     "Le Mans F.C.",
-     "Ле-Ман",
-     "FC Le Mans",
-     "Le Mans UC",
-     "Le Mans UC 72",
-     "UC Le Mans",
-     "UC 72 Le Mans",
-     "Ле Ман",
-     "Le MUC",
-     "Le Mans Football Club",
-     "Le Mans U.C. 72",
-     "Le Mans U.C."
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Olympique Marseille",
-     "en": "Olympique de Marseille",
-     "ru": "Марсель"
-    },
-    "name": "Marseille",
-    "names": [
-     "Marseille",
-     "Олимпик",
-     "Olympique Marseille",
-     "Olympique de Marseille",
-     "Олимпик Марсель",
-     "Марсель",
-     "Марсель Олимпик",
-     "Olympique Marsilien",
-     "Olympic of Marseille",
-     "Olympic Marseille",
-     "O Marseille"
-    ]
-   },
-   "id": "thesportsdb:2489553",
-   "league": "Ligue 1",
-   "leagueLabel": {
-    "ru": "Лига 1"
    },
    "source": "TheSportsDB",
    "sport": "soccer",
@@ -5784,9 +4960,1420 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1795896000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Rodina Moskau",
+     "en": "FC Rodina Moscow",
+     "ru": "Родина"
+    },
+    "name": "Rodina Moscow",
+    "names": [
+     "Rodina Moscow",
+     "FC Rodina Moscow",
+     "FC Rodina Moskau",
+     "Rodina Moskau",
+     "Родина"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FK Orenburg",
+     "en": "FC Orenburg",
+     "ru": "Оренбург"
+    },
+    "name": "Orenburg",
+    "names": [
+     "Orenburg",
+     "FK Orenburg",
+     "Оренбург",
+     "FC Orenburg",
+     "ФК Газовик Оренбург",
+     "Газовик Оренбург",
+     "Прогресс Оренбург",
+     "Локомотив Оренбург",
+     "Футбольный Клуб Оренбург",
+     "FC Gazovik Orenburg",
+     "Gazovik Orenburg"
+    ]
+   },
+   "id": "thesportsdb:2501982",
+   "league": "Russian Premier League",
+   "leagueLabel": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795946400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Kocaelispor",
+     "en": "Kocaelispor",
+     "ru": "Коджаэлиспор"
+    },
+    "name": "Kocaelispor",
+    "names": [
+     "Kocaelispor",
+     "Коджаэлиспор"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Çorum Belediyespor",
+     "en": "Çorum FK",
+     "ru": "Чорум"
+    },
+    "name": "Çorum",
+    "names": [
+     "Çorum",
+     "Çorum Belediyespor",
+     "Çorum FK"
+    ]
+   },
+   "id": "thesportsdb:2527840",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795948200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AC Florenz",
+     "en": "ACF Fiorentina",
+     "ru": "Фиорентина"
+    },
+    "name": "Fiorentina",
+    "names": [
+     "Fiorentina",
+     "Фиорентина",
+     "ACF Fiorentina",
+     "AC Florenz",
+     "Florenz",
+     "Associazione Calcio Fiorentina",
+     "A.C. Fiorentina",
+     "AC Fiorentina",
+     "A.C.F.Fiorentina",
+     "Florentia Viola",
+     "A.C.F.",
+     "ACF"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Udinese Calcio",
+     "en": "Udinese Calcio",
+     "ru": "Удинезе"
+    },
+    "name": "Udinese",
+    "names": [
+     "Udinese",
+     "Udinese Calcio",
+     "Удинезе",
+     "Udinese Football",
+     "Udinese Football Club",
+     "Udinese FC",
+     "First Bianconeri of Italy"
+    ]
+   },
+   "id": "thesportsdb:2482260",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795951800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Liverpool",
+     "en": "Liverpool F.C.",
+     "ru": "Ливерпуль"
+    },
+    "name": "Liverpool",
+    "names": [
+     "Liverpool",
+     "Liverpool F.C.",
+     "Ливерпуль",
+     "FC Liverpool",
+     "ФК Ливерпуль",
+     "ФК «Ливерпуль»",
+     "«Ливерпуль»",
+     "Мерсисайдцы",
+     "F.C. Liverpool",
+     "The Reds",
+     "LiverpoolFC",
+     "LiverpoolF.C.",
+     "L.F.C."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Everton",
+     "en": "Everton F.C.",
+     "ru": "Эвертон"
+    },
+    "name": "Everton",
+    "names": [
+     "Everton",
+     "Everton F.C.",
+     "FC Everton",
+     "Эвертон",
+     "Everton Football Club",
+     "The Blues",
+     "Everton FC",
+     "The Toffees",
+     "EFC"
+    ]
+   },
+   "id": "thesportsdb:2494113",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795953600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FK Krasnodar",
+     "en": "FC Krasnodar",
+     "ru": "Краснодар"
+    },
+    "name": "Krasnodar",
+    "names": [
+     "Krasnodar",
+     "FK Krasnodar",
+     "Краснодар",
+     "FC Krasnodar",
+     "Футбольный клуб «Краснодар»",
+     "ФК Краснодар",
+     "ФК «Краснода́р»",
+     "«Краснода́р»"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FK Rostow",
+     "en": "FC Rostov",
+     "ru": "Ростов"
+    },
+    "name": "Rostov",
+    "names": [
+     "Rostov",
+     "FK Rostow",
+     "Rostow",
+     "Ростов",
+     "FC Rostov",
+     "FK Rostov",
+     "FC Rostow",
+     "Rostselmasch Rostow",
+     "ФК Ростов",
+     "ФК Ростов Ростов-на-Дону",
+     "Ростов Ростов-на-Дону",
+     "Торпедо",
+     "Ростсельмаш-2",
+     "Ростсельмаш",
+     "ФК «Ростов»",
+     "«Ростов»",
+     "ФК Ростсельмаш",
+     "Футбольный клуб \"Ростов\""
+    ]
+   },
+   "id": "thesportsdb:2501980",
+   "league": "Russian Premier League",
+   "leagueLabel": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795954500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "CA Osasuna",
+     "en": "Club Atlético Osasuna",
+     "ru": "Осасуна"
+    },
+    "name": "Osasuna",
+    "names": [
+     "Osasuna",
+     "Club Atlético Osasuna",
+     "CA Osasuna",
+     "Осасуна",
+     "Osasuna Pamplona",
+     "CA Osasuna Pamplona"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Valencia",
+     "en": "Valencia CF",
+     "ru": "Валенсия"
+    },
+    "name": "Valencia",
+    "names": [
+     "Valencia",
+     "Valencia CF",
+     "FC Valencia",
+     "Валенсия",
+     "Valencia C.F.",
+     "Valencia Club de Fútbol",
+     "VCF",
+     "Valencia Club de Futbol",
+     "Valencia Club de Fútbol team",
+     "Valencia Football Club",
+     "Valencia Club of Football",
+     "ValenciaCF",
+     "ValenciaC.F.",
+     "V.C.F.",
+     "Футбольный клуб Валенсия",
+     "Валенсия ФК",
+     "ФК Валенсия"
+    ]
+   },
+   "id": "thesportsdb:2506299",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795957200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Başakşehir FK",
+     "en": "İstanbul Başakşehir F.K.",
+     "ru": "Истанбул Башакшехир"
+    },
+    "name": "İstanbul Başakşehir",
+    "names": [
+     "İstanbul Başakşehir",
+     "Истанбул Башакшехир",
+     "Başakşehir FK",
+     "İstanbul Başakşehir F.K.",
+     "Истамбул Башакшехир",
+     "Istanbul BB",
+     "Istanbul Büyüksehir Belediyespor",
+     "Istanbul Başakşehir FK",
+     "Medipol Başakşehir Futbol Kulübü",
+     "Medipol Başakşehir",
+     "Medipol Başakşehir FK",
+     "RAMS Başakşehir FK",
+     "İBFK",
+     "ibfk",
+     "Başakşehir F.K."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Eyüpspor",
+     "en": "Eyüpspor",
+     "ru": "Эюпспор"
+    },
+    "name": "Eyüpspor",
+    "names": [
+     "Eyüpspor",
+     "Эюпспор"
+    ]
+   },
+   "id": "thesportsdb:2527838",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795957200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "SSC Neapel",
+     "en": "SSC Napoli",
+     "ru": "Наполи"
+    },
+    "name": "Napoli",
+    "names": [
+     "Napoli",
+     "SSC Napoli",
+     "SSC Neapel",
+     "Наполи",
+     "Società Sportiva Calcio Napoli",
+     "Societa Sportiva Calcio Napoli",
+     "SSCN",
+     "SSC Naples",
+     "S.S.C. Napoli",
+     "S.S.C.N."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "US Sassuolo Calcio",
+     "en": "US Sassuolo Calcio",
+     "ru": "Сассуоло"
+    },
+    "name": "Sassuolo",
+    "names": [
+     "Sassuolo",
+     "US Sassuolo Calcio",
+     "Сассуоло",
+     "Sassuolo Calcio",
+     "U.S. Sassuolo Calcio",
+     "Unione Sportiva Sassuolo Calcio"
+    ]
+   },
+   "id": "thesportsdb:2482258",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795960800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Olympique Marseille",
+     "en": "Olympique de Marseille",
+     "ru": "Марсель"
+    },
+    "name": "Marseille",
+    "names": [
+     "Marseille",
+     "Олимпик",
+     "Olympique Marseille",
+     "Olympique de Marseille",
+     "Олимпик Марсель",
+     "Марсель",
+     "Марсель Олимпик",
+     "Olympique Marsilien",
+     "Olympic of Marseille",
+     "Olympic Marseille",
+     "O Marseille"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "AJ Auxerre",
+     "en": "AJ Auxerre",
+     "ru": "Осер"
+    },
+    "name": "Auxerre",
+    "names": [
+     "Auxerre",
+     "AJ Auxerre",
+     "Осер",
+     "Association de la Jeunesse Auxerroise",
+     "ФК Осер",
+     "AJA",
+     "Les Icaunais"
+    ]
+   },
+   "id": "thesportsdb:2489567",
+   "league": "Ligue 1",
+   "leagueLabel": {
+    "ru": "Лига 1"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795960800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AFC Bournemouth",
+     "en": "AFC Bournemouth",
+     "ru": "Борнмут"
+    },
+    "name": "Bournemouth",
+    "names": [
+     "Bournemouth",
+     "AFC Bournemouth",
+     "Борнмут",
+     "Bournemouth and Boscombe Athletic F.C.",
+     "Bournemouth and Boscombe Athletic",
+     "Boscombe F.C.",
+     "Boscombe",
+     "Boscombe Football Club",
+     "Boscombe FC",
+     "Bournemouth and Boscombe Athletic FC",
+     "The Cherries",
+     "A.F.C. Bournemouth",
+     "AFCB"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Fulham",
+     "en": "Fulham F.C.",
+     "ru": "Фулхэм"
+    },
+    "name": "Fulham",
+    "names": [
+     "Fulham",
+     "Fulham F.C.",
+     "FC Fulham",
+     "Фулхэм",
+     "Fulham Football Club",
+     "Fulham FC",
+     "The Cottagers",
+     "FFC"
+    ]
+   },
+   "id": "thesportsdb:2494111",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795961100
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Newcastle United",
+     "en": "Newcastle United F.C.",
+     "ru": "Ньюкасл Юнайтед"
+    },
+    "name": "Newcastle United",
+    "names": [
+     "Newcastle United",
+     "Newcastle United F.C.",
+     "Ньюкасл Юнайтед",
+     "Newcastle United Football Club",
+     "Newcastle United FC",
+     "Newcastle",
+     "The Magpies",
+     "NUFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Brighton & Hove Albion",
+     "en": "Brighton & Hove Albion F.C.",
+     "ru": "Брайтон энд Хоув Альбион"
+    },
+    "name": "Brighton and Hove Albion",
+    "names": [
+     "Brighton and Hove Albion",
+     "Brighton & Hove Albion F.C.",
+     "Brighton & Hove Albion",
+     "Брайтон энд Хоув Альбион",
+     "Brighton and Hove Albion F.C.",
+     "Brighton & Hove Albion Football Club",
+     "Brighton and Hove Albion Football Club",
+     "Brighton & Hove",
+     "Brighton and Hove Albion FC",
+     "Brighton & Hove Albion FC",
+     "Brighton",
+     "Brighton and Hove",
+     "The Seagulls",
+     "Albion",
+     "BHAFC",
+     "Brighton F.C.",
+     "Brighton FC",
+     "BHA"
+    ]
+   },
+   "id": "thesportsdb:2494114",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795961100
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Hull City",
+     "en": "Hull City A.F.C.",
+     "ru": "Халл Сити"
+    },
+    "name": "Hull City",
+    "names": [
+     "Hull City",
+     "Hull City A.F.C.",
+     "Халл Сити",
+     "Hull City Association Football Club",
+     "Hull City AFC",
+     "Hull",
+     "The Tigers",
+     "City",
+     "HCAFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Crystal Palace",
+     "en": "Crystal Palace F.C.",
+     "ru": "Кристал Пэлас"
+    },
+    "name": "Crystal Palace",
+    "names": [
+     "Crystal Palace",
+     "Crystal Palace F.C.",
+     "Кристал Пэлас",
+     "Crystal Palace Football Club",
+     "Crystal Palace FC",
+     "Palace",
+     "The Eagles",
+     "The Glaziers",
+     "CPFC"
+    ]
+   },
+   "id": "thesportsdb:2494115",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795961100
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Tottenham Hotspur",
+     "en": "Tottenham Hotspur F.C.",
+     "ru": "Тоттенхэм Хотспур"
+    },
+    "name": "Tottenham Hotspur",
+    "names": [
+     "Tottenham Hotspur",
+     "Tottenham Hotspur F.C.",
+     "Тоттенхэм Хотспур",
+     "Tottenham Hotspur Football Club",
+     "THFC",
+     "Spurs",
+     "The Lilywhites",
+     "Tottenham Hotspur FC",
+     "Tottenham",
+     "Hotspur",
+     "Тоттенхэм"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "AFC Sunderland",
+     "en": "Sunderland A.F.C.",
+     "ru": "Сандерленд"
+    },
+    "name": "Sunderland",
+    "names": [
+     "Sunderland",
+     "Sunderland A.F.C.",
+     "AFC Sunderland",
+     "Сандерленд",
+     "Sunderland Association Football Club",
+     "The Black Cats",
+     "Sunderland AFC",
+     "SAFC"
+    ]
+   },
+   "id": "thesportsdb:2494119",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795961100
+  },
+  {
+   "away": {
+    "label": {
+     "de": "RB Leipzig",
+     "en": "RB Leipzig",
+     "ru": "РБ Лейпциг"
+    },
+    "name": "RB Leipzig",
+    "names": [
+     "RB Leipzig",
+     "Leipzig",
+     "РБ Лейпциг",
+     "Лейпциг",
+     "Rasenball Leipzig",
+     "RasenBallsport Leipzig e.V.",
+     "RasenBallsport Leipzig",
+     "RasenBallsport Leipzig e. V.",
+     "Ред Булл",
+     "Die Roten Bullen",
+     "The Red Bulls"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "SC Freiburg",
+     "en": "SC Freiburg",
+     "ru": "Фрайбург"
+    },
+    "name": "SC Freiburg",
+    "names": [
+     "SC Freiburg",
+     "Freiburg",
+     "Фрайбург",
+     "Sportclub Freiburg",
+     "VfL Freiburg",
+     "Sport-Club Freiburg e. V.",
+     "ФК Фрайбург",
+     "Sport Club Freiburg",
+     "Sport-Club Freiburg e.V.",
+     "S.C. Freiburg",
+     "Die Breisgau-Brasilianer",
+     "The Breisgau Brazilians"
+    ]
+   },
+   "id": "openligadb:83249",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795962600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Dynamo Moskau",
+     "en": "Dynamo Moscow",
+     "ru": "Динамо Москва"
+    },
+    "name": "Dynamo Moscow",
+    "names": [
+     "Dynamo Moscow",
+     "Динамо Москва",
+     "Dynamo Moskau",
+     "Dinamo Moskau",
+     "VC Dinamo Moscow",
+     "MGO VFSO \"Dynamo\"",
+     "Динамо"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Krylja Sowetow Samara",
+     "en": "FC Krylia Sovetov Samara",
+     "ru": "Крылья Советов"
+    },
+    "name": "Krylia Sovetov Samara",
+    "names": [
+     "Krylia Sovetov Samara",
+     "Krylja Sowetow Samara",
+     "Крылья Советов",
+     "FC Krylia Sovetov Samara",
+     "Krylja Sowetow Kujbyschew",
+     "Krylja Sowjetow Samara",
+     "FC Krylya Sovetov Samara",
+     "Krylya Sovetov Samara",
+     "Зенит Куйбышев",
+     "Крылья Советов-2",
+     "Крылья Советов Куйбышев",
+     "ФК КС",
+     "Крылья Советов Самара",
+     "ФК Крылья Советов",
+     "Зенит",
+     "PFC Krylia Sovetov"
+    ]
+   },
+   "id": "thesportsdb:2501981",
+   "league": "Russian Premier League",
+   "leagueLabel": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795962600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Barcelona",
+     "en": "FC Barcelona",
+     "ru": "Барселона"
+    },
+    "name": "Barcelona",
+    "names": [
+     "Barcelona",
+     "FC Barcelona",
+     "Барселона",
+     "Fútbol Club Barcelona",
+     "Barcelona FC",
+     "F.C. Barcelona",
+     "Barcelona Football Club",
+     "Football Club of Barcelona",
+     "FC Barcelona Football",
+     "Barcelona Football",
+     "FCBarcelona",
+     "F.C.B.",
+     "F.C.Barcelona",
+     "Football Club Barcelona",
+     "ФК Барселона",
+     "ФК «Барселона»",
+     "«Барселона»"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Deportivo A Coruña",
+     "en": "Deportivo de A Coruña",
+     "ru": "Депортиво Ла-Корунья"
+    },
+    "name": "Deportivo de A Coruña",
+    "names": [
+     "Deportivo de A Coruña",
+     "Deportivo A Coruña",
+     "Депортиво Ла-Корунья",
+     "Deportivo de La Coruña",
+     "Real Club Deportivo de La Coruña",
+     "Depor",
+     "Real Club Deportivo de A Coruña",
+     "Deportivo da Coruña",
+     "Deportivo La Coruña",
+     "RC Deportivo",
+     "Dépor",
+     "Deportivo",
+     "Real Club Deportivo de La Coruña S.A.D.",
+     "R.C. Deportivo de La Coruña"
+    ]
+   },
+   "id": "thesportsdb:2506306",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795965300
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Erzurumspor",
+     "en": "Erzurumspor",
+     "ru": "Эрзурумспор"
+    },
+    "name": "Erzurumspor",
+    "names": [
+     "Erzurumspor",
+     "Эрзурумспор"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Fenerbahçe Istanbul",
+     "en": "Fenerbahçe Istanbul",
+     "ru": "Фенербахче"
+    },
+    "name": "Fenerbahçe",
+    "names": [
+     "Fenerbahçe",
+     "Fenerbahçe Istanbul",
+     "Фенербахче",
+     "Fenerbahce",
+     "Fenerbahce S.K.",
+     "Fenerbahce SK",
+     "Fenerbahçe Spor Kulübü",
+     "Fenerbahce Spor Kulubu",
+     "Fenerbahçe Sports Club",
+     "Fenerbahce Sports Club",
+     "Fenerbahçe SK Football",
+     "Fenerbahçe Futbol A.Ş.",
+     "Fener",
+     "Fenerbahçe SK",
+     "Fenerbahçe Sport Klub"
+    ]
+   },
+   "id": "thesportsdb:2527833",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795968000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Stade Rennes",
+     "en": "Stade Rennais F.C.",
+     "ru": "Ренн"
+    },
+    "name": "Rennes",
+    "names": [
+     "Rennes",
+     "Stade Rennes",
+     "Stade Rennais F.C.",
+     "Stade Rennais",
+     "Ренн",
+     "Stade Rennais Football Club",
+     "Stade Rennais UC",
+     "Stade Rennais FC",
+     "Rennais",
+     "SRFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Toulouse",
+     "en": "Toulouse FC",
+     "ru": "Тулуза"
+    },
+    "name": "Toulouse",
+    "names": [
+     "Toulouse",
+     "FC Toulouse",
+     "Toulouse FC",
+     "Тулуза",
+     "ФК Тулуза",
+     "Toulouse Football Club",
+     "Toulouse F.C.",
+     "TFC"
+    ]
+   },
+   "id": "thesportsdb:2489565",
+   "league": "Ligue 1",
+   "leagueLabel": {
+    "ru": "Лига 1"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795968900
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Augsburg",
+     "en": "FC Augsburg",
+     "ru": "Аугсбург"
+    },
+    "name": "FC Augsburg",
+    "names": [
+     "FC Augsburg",
+     "Augsburg",
+     "Аугсбург",
+     "Fußball-Club Augsburg 1907 e. V.",
+     "Fußball-Club Augsburg 1907 e. V",
+     "FC Augsburg Football Team",
+     "Augsburg Football Team",
+     "Fußball-Club Augsburg",
+     "FC Augsburg Soccer Team",
+     "Augsburg Soccer Team",
+     "Die Fuggerstädter"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "TSG 1899 Hoffenheim",
+     "en": "TSG 1899 Hoffenheim",
+     "ru": "Хоффенхайм"
+    },
+    "name": "TSG Hoffenheim",
+    "names": [
+     "TSG Hoffenheim",
+     "Hoffenheim",
+     "TSG 1899 Hoffenheim",
+     "1899 Hoffenheim",
+     "Хоффенхайм",
+     "ФК Хоффенхайм",
+     "1899 Hoffenheim II",
+     "TSG Hoffenheim II",
+     "Hoffenheim II",
+     "Die Kraichgauer"
+    ]
+   },
+   "id": "openligadb:83248",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795969800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Manchester City",
+     "en": "Manchester City F.C.",
+     "ru": "Манчестер Сити"
+    },
+    "name": "Manchester City",
+    "names": [
+     "Manchester City",
+     "Manchester City F.C.",
+     "Манчестер Сити",
+     "Manchester City Football Club",
+     "The Citizens",
+     "Manchester City FC",
+     "Man City",
+     "Manchester City F.C. Soccer",
+     "Citizens",
+     "Sky Blues",
+     "MCFC",
+     "City",
+     "The Sky Blues",
+     "The Blues"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Arsenal",
+     "en": "Arsenal F.C.",
+     "ru": "Арсенал"
+    },
+    "name": "Arsenal",
+    "names": [
+     "Arsenal",
+     "Arsenal F.C.",
+     "FC Arsenal",
+     "Арсенал",
+     "AFC",
+     "Arsenal Football Club",
+     "The Arsenal",
+     "The Ars",
+     "The Arsenal F.C.",
+     "The Arsenal FC",
+     "A.F.C.",
+     "Arsenal London"
+    ]
+   },
+   "id": "thesportsdb:2494112",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795969800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FK Dynamo Machatschkala",
+     "en": "FC Dynamo Makhachkala",
+     "ru": "Динамо Махачкала"
+    },
+    "name": "Dynamo Makhachkala",
+    "names": [
+     "Dynamo Makhachkala",
+     "Динамо",
+     "FC Dynamo Makhachkala",
+     "FK Dynamo Machatschkala",
+     "Dynamo Machatschkala",
+     "Динамо Махачкала",
+     "Темп"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Lokomotive Moskau",
+     "en": "FC Lokomotiv Moscow",
+     "ru": "Локомотив"
+    },
+    "name": "Lokomotiv Moscow",
+    "names": [
+     "Lokomotiv Moscow",
+     "Lokomotive Moskau",
+     "Локомотив",
+     "FC Lokomotiv Moscow",
+     "Lok Moskau",
+     "Lokomotiv Moskau",
+     "Lokomotiw Moskau",
+     "Локомотив Москва",
+     "ФК Локомотив Москва",
+     "Loko",
+     "ФКЛМ",
+     "Футбольный клуб Локомотив Москва",
+     "Локо"
+    ]
+   },
+   "id": "thesportsdb:2501979",
+   "league": "Russian Premier League",
+   "leagueLabel": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795970700
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AC Monza",
+     "en": "AC Monza",
+     "ru": "Монца"
+    },
+    "name": "Monza",
+    "names": [
+     "Monza",
+     "Монца",
+     "AC Monza",
+     "A.C. Monza Brianza",
+     "A.C. Monza",
+     "A C Monza Brianza 1912",
+     "A C Monza Brianza",
+     "A. C. Monza Brianza 1912",
+     "A. C. Monza Brianza",
+     "AC Monza Brianza 1912",
+     "Monza Brianza 1912",
+     "AC Monza Brianza",
+     "Monza Brianza",
+     "Associazione Calcio Monza Brianza 1912",
+     "Associazione Calcio Monza Brianza",
+     "Monza Calcio",
+     "A.C. Monza Brianza 1912",
+     "S.S. Monza 1912 Srl",
+     "Società Sportiva Monza 1912",
+     "Società Sportiva Monza",
+     "S.S. Monza",
+     "Società Sportiva Monza 1912 Srl",
+     "Associazione Calcio Monza",
+     "A.C.M.",
+     "ACM",
+     "ACMonza",
+     "Biancorossi",
+     "Calcio Monza"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "AS Rom",
+     "en": "AS Roma",
+     "ru": "Рома"
+    },
+    "name": "Roma",
+    "names": [
+     "Roma",
+     "AS Rom",
+     "AS Roma",
+     "Рома",
+     "Associazione Sportiva Roma",
+     "ASR",
+     "ASRoma",
+     "A.S.R",
+     "La Roma",
+     "A.S.Roma",
+     "ASR 1927",
+     "A.S.R 1927",
+     "The Wolfs",
+     "Rome Sport Association",
+     "A.S. Rome",
+     "A.S.Rome",
+     "A.S. Roma"
+    ]
+   },
+   "id": "thesportsdb:2482261",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795971600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Villarreal",
+     "en": "Villarreal CF",
+     "ru": "Вильярреал"
+    },
+    "name": "Villarreal",
+    "names": [
+     "Villarreal",
+     "Villarreal CF",
+     "FC Villarreal",
+     "Вильярреал",
+     "Villarreal Club de Futbol",
+     "Villarreal Club Football",
+     "Villarreal 1923",
+     "Villarreal Club de Fútbol 1923",
+     "Villarreal Club de Fútbol",
+     "Villarreal Club of Football",
+     "Villarreal CF 1923",
+     "Villarreal C.F.",
+     "VCF"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Celta Vigo",
+     "en": "RC Celta de Vigo",
+     "ru": "Сельта"
+    },
+    "name": "Celta Vigo",
+    "names": [
+     "Celta Vigo",
+     "RC Celta de Vigo",
+     "Сельта",
+     "R.C. Celta de Vigo",
+     "Celta de Vigo",
+     "Real Club Celta de Vigo",
+     "Fortuna de Vigo",
+     "Real Club Fortuna de Vigo",
+     "Real Club Celta S.A.D.",
+     "RC Celta",
+     "Real Club Celta",
+     "RCCV",
+     "Celta"
+    ]
+   },
+   "id": "thesportsdb:2506301",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795973400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Bayer 04 Leverkusen",
+     "en": "Bayer 04 Leverkusen",
+     "ru": "Байер 04"
+    },
+    "name": "Bayer 04 Leverkusen",
+    "names": [
+     "Bayer 04 Leverkusen",
+     "Leverkusen",
+     "Байер 04",
+     "Байер",
+     "Bayer 04",
+     "Bayer",
+     "Байер Леверкузен",
+     "Байер-04",
+     "Байер-04 Леверкузен",
+     "Bayer 04 Leverkusen Fußball GmbH",
+     "Bayer Leverkusen",
+     "Die Werkself",
+     "Bayer 04 Leverkusen Fußball GmbH Soccer",
+     "Bayer 04 Football",
+     "The Company XI"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Borussia Dortmund",
+     "en": "Borussia Dortmund",
+     "ru": "Боруссия"
+    },
+    "name": "Borussia Dortmund",
+    "names": [
+     "Borussia Dortmund",
+     "Dortmund",
+     "Боруссия",
+     "Боруссия Дортмунд",
+     "Ballspielverein Borussia 09 Dortmund",
+     "BV 09 Borussia Dortmund",
+     "Ballspielverein Borussia Dortmund",
+     "BV Borussia 09 Dortmund",
+     "BVB 09",
+     "BVB Dortmund",
+     "BVB 09 Dortmund",
+     "Ballspiel-Verein Borussia 1909",
+     "Ballspiel-Verein Borussia",
+     "BV Borussia Dortmund",
+     "BVB09",
+     "Borussia 09",
+     "Borussia",
+     "BVB",
+     "Borussia Dortmund GmbH & Co. KGaA",
+     "Die Borussen",
+     "Die Schwarzgelben",
+     "The Black and Yellows"
+    ]
+   },
+   "id": "openligadb:83246",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1795977000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Juventus Turin",
+     "en": "Juventus FC",
+     "ru": "Ювентус"
+    },
+    "name": "Juventus",
+    "names": [
+     "Juventus",
+     "Juventus Turin",
+     "Ювентус",
+     "Juventus FC",
+     "Juventus of Turin",
+     "Juventus F.C.",
+     "JuventusFC",
+     "J.F.C.",
+     "JuventusF.C.",
+     "JuventusFootballClub"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Como 1907",
+     "en": "Como 1907",
+     "ru": "Комо"
+    },
+    "name": "Como",
+    "names": [
+     "Como",
+     "Комо",
+     "Como 1907",
+     "Calcio Como",
+     "Como Calcio",
+     "F.C. Como"
+    ]
+   },
+   "id": "thesportsdb:2482267",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795981500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AS Monaco",
+     "en": "AS Monaco FC",
+     "ru": "Монако"
+    },
+    "name": "Monaco",
+    "names": [
+     "Monaco",
+     "AS Monaco",
+     "AS Monaco FC",
+     "Monaco FC",
+     "Монако",
+     "ФК Монако",
+     "ASMFC",
+     "AS Monaco F.C.",
+     "Monaco F.C.",
+     "A.S. Monaco F.C.",
+     "A.S. Monaco",
+     "AS Monaco Football Club",
+     "Monaco Football Club",
+     "ASMonaco",
+     "A.S.M.F.C."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Olympique Lyon",
+     "en": "Olympique Lyonnais",
+     "ru": "Лион"
+    },
+    "name": "Lyon",
+    "names": [
+     "Lyon",
+     "Olympique Lyonnais",
+     "Olympique Lyon",
+     "Олимпик",
+     "O. Lyon",
+     "O. Lyonnais",
+     "O.L.",
+     "Олимпик Лион",
+     "Лион"
+    ]
+   },
+   "id": "thesportsdb:2489562",
+   "league": "Ligue 1",
+   "leagueLabel": {
+    "ru": "Лига 1"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795981500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Sevilla",
+     "en": "Sevilla FC",
+     "ru": "Севилья"
+    },
+    "name": "Sevilla",
+    "names": [
+     "Sevilla",
+     "Sevilla FC",
+     "FC Sevilla",
+     "Севилья",
+     "Sevilla Futbol Club",
+     "Sevilla Fútbol Club",
+     "Sevilla F.C.",
+     "Sevilla Football Club",
+     "SevillaFC",
+     "SevillaF.C.",
+     "SFC",
+     "S.F.C."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Real Sociedad",
+     "en": "Real Sociedad",
+     "ru": "Реал Сосьедад"
+    },
+    "name": "Real Sociedad",
+    "names": [
+     "Real Sociedad",
+     "Реал Сосьедад",
+     "Real Sociedad de Futbol",
+     "Real Sociedad San Sebastian",
+     "Real Sociedad de Fútbol",
+     "Real Sociedad San Sebastián",
+     "Donostia Football Club",
+     "San Sebastián Foot-Ball Club",
+     "San Sebastian Foot-Ball Club"
+    ]
+   },
+   "id": "thesportsdb:2506307",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1795982400
   }
  ],
- "generated": 1795334787,
+ "generated": 1795379012,
  "leagues": [
   {
    "label": {

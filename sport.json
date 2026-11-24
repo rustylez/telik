@@ -4,92 +4,6 @@
   {
    "away": {
     "label": {
-     "de": "Aston Villa",
-     "en": "Aston Villa F.C.",
-     "ru": "Астон Вилла"
-    },
-    "name": "Aston Villa",
-    "names": [
-     "Aston Villa",
-     "Villa",
-     "Aston Villa F.C.",
-     "Астон Вилла",
-     "Aston Villa Football Club",
-     "Aston Villa FC",
-     "The Villans",
-     "The Villa",
-     "AVFC"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Galatasaray Istanbul",
-     "en": "Galatasaray S.K."
-    },
-    "name": "Galatasaray Istanbul",
-    "names": [
-     "Galatasaray Istanbul",
-     "Galatasaray",
-     "Galatasaray S.K.",
-     "Gala",
-     "Galatasaray Women",
-     "Galatasaray Kadın"
-    ]
-   },
-   "id": "openligadb:87460",
-   "league": "Champions League",
-   "leagueLabel": {
-    "ru": "Лига чемпионов"
-   },
-   "source": "OpenLigaDB",
-   "sport": "soccer",
-   "start": 1795542300
-  },
-  {
-   "away": {
-    "label": {
-     "de": "LASK",
-     "en": "LASK Linz",
-     "ru": "ЛАСК"
-    },
-    "name": "LASK",
-    "names": [
-     "LASK",
-     "LASK Linz",
-     "ЛАСК",
-     "Linzer Athletik-Sport-Klub",
-     "Linzer ASK",
-     "FC LASK Linz",
-     "L.A.S.K. Linz"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FK Bodø/Glimt",
-     "en": "FK Bodø/Glimt",
-     "ru": "Будё-Глимт"
-    },
-    "name": "FK Bodö/Glimt",
-    "names": [
-     "FK Bodö/Glimt",
-     "Bodö/Glimt",
-     "FK Bodø/Glimt",
-     "Bodø/Glimt",
-     "Будё-Глимт"
-    ]
-   },
-   "id": "openligadb:87461",
-   "league": "Champions League",
-   "leagueLabel": {
-    "ru": "Лига чемпионов"
-   },
-   "source": "OpenLigaDB",
-   "sport": "soccer",
-   "start": 1795542300
-  },
-  {
-   "away": {
-    "label": {
      "de": "PSV Eindhoven",
      "en": "PSV Eindhoven",
      "ru": "ПСВ"
@@ -455,11 +369,31 @@
   },
   {
    "away": {
-    "label": {},
-    "name": "Excelsior Rotterdam",
+    "label": {
+     "de": "FC Barcelona",
+     "en": "FC Barcelona",
+     "ru": "Барселона"
+    },
+    "name": "FC Barcelona",
     "names": [
-     "Excelsior Rotterdam",
-     "Excelsior"
+     "FC Barcelona",
+     "Barcelona",
+     "FCB",
+     "Барселона",
+     "Fútbol Club Barcelona",
+     "Barcelona FC",
+     "F.C. Barcelona",
+     "Barcelona Football Club",
+     "Football Club of Barcelona",
+     "FC Barcelona Football",
+     "Barcelona Football",
+     "FCBarcelona",
+     "F.C.B.",
+     "F.C.Barcelona",
+     "Football Club Barcelona",
+     "ФК Барселона",
+     "ФК «Барселона»",
+     "«Барселона»"
     ]
    },
    "home": {
@@ -6112,9 +6046,58 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1796068800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Ipswich Town",
+     "en": "Ipswich Town F.C.",
+     "ru": "Ипсвич Таун"
+    },
+    "name": "Ipswich Town",
+    "names": [
+     "Ipswich Town",
+     "Ipswich Town F.C.",
+     "Ипсвич Таун",
+     "Ipswich Town Football Club",
+     "Ipswich Town FC",
+     "Ipswich",
+     "The Blues",
+     "The Tractor Boys",
+     "Town",
+     "ITFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Coventry City",
+     "en": "Coventry City F.C.",
+     "ru": "Ковентри Сити"
+    },
+    "name": "Coventry City",
+    "names": [
+     "Coventry City",
+     "Coventry City F.C.",
+     "Ковентри Сити",
+     "Coventry City Football Club",
+     "Coventry City FC",
+     "Coventry",
+     "City",
+     "CCFC",
+     "Sky Blues"
+    ]
+   },
+   "id": "thesportsdb:2494129",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796155200
   }
  ],
- "generated": 1795518276,
+ "generated": 1795561473,
  "leagues": [
   {
    "label": {

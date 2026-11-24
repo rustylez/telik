@@ -1,219 +1,6 @@
 {
- "credit": "TheSportsDB, OpenLigaDB",
+ "credit": "OpenLigaDB, TheSportsDB",
  "events": [
-  {
-   "away": {
-    "label": {
-     "de": "Çorum Belediyespor",
-     "en": "Çorum FK",
-     "ru": "Чорум"
-    },
-    "name": "Çorum",
-    "names": [
-     "Çorum",
-     "Çorum Belediyespor",
-     "Çorum FK"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Başakşehir FK",
-     "en": "İstanbul Başakşehir F.K.",
-     "ru": "Истанбул Башакшехир"
-    },
-    "name": "İstanbul Başakşehir",
-    "names": [
-     "İstanbul Başakşehir",
-     "Истанбул Башакшехир",
-     "Başakşehir FK",
-     "İstanbul Başakşehir F.K.",
-     "Истамбул Башакшехир",
-     "Istanbul BB",
-     "Istanbul Büyüksehir Belediyespor",
-     "Istanbul Başakşehir FK",
-     "Medipol Başakşehir Futbol Kulübü",
-     "Medipol Başakşehir",
-     "Medipol Başakşehir FK",
-     "RAMS Başakşehir FK",
-     "İBFK",
-     "ibfk",
-     "Başakşehir F.K."
-    ]
-   },
-   "id": "thesportsdb:2527823",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795453200
-  },
-  {
-   "away": {
-    "label": {
-     "de": "AC Florenz",
-     "en": "ACF Fiorentina",
-     "ru": "Фиорентина"
-    },
-    "name": "Fiorentina",
-    "names": [
-     "Fiorentina",
-     "Фиорентина",
-     "ACF Fiorentina",
-     "AC Florenz",
-     "Florenz",
-     "Associazione Calcio Fiorentina",
-     "A.C. Fiorentina",
-     "AC Fiorentina",
-     "A.C.F.Fiorentina",
-     "Florentia Viola",
-     "A.C.F.",
-     "ACF"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "AC Monza",
-     "en": "AC Monza",
-     "ru": "Монца"
-    },
-    "name": "Monza",
-    "names": [
-     "Monza",
-     "Монца",
-     "AC Monza",
-     "A.C. Monza Brianza",
-     "A.C. Monza",
-     "A C Monza Brianza 1912",
-     "A C Monza Brianza",
-     "A. C. Monza Brianza 1912",
-     "A. C. Monza Brianza",
-     "AC Monza Brianza 1912",
-     "Monza Brianza 1912",
-     "AC Monza Brianza",
-     "Monza Brianza",
-     "Associazione Calcio Monza Brianza 1912",
-     "Associazione Calcio Monza Brianza",
-     "Monza Calcio",
-     "A.C. Monza Brianza 1912",
-     "S.S. Monza 1912 Srl",
-     "Società Sportiva Monza 1912",
-     "Società Sportiva Monza",
-     "S.S. Monza",
-     "Società Sportiva Monza 1912 Srl",
-     "Associazione Calcio Monza",
-     "A.C.M.",
-     "ACM",
-     "ACMonza",
-     "Biancorossi",
-     "Calcio Monza"
-    ]
-   },
-   "id": "thesportsdb:2482257",
-   "league": "Serie A",
-   "leagueLabel": {
-    "ru": "Серия А"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795463100
-  },
-  {
-   "away": {
-    "label": {
-     "de": "FC Everton",
-     "en": "Everton F.C.",
-     "ru": "Эвертон"
-    },
-    "name": "Everton",
-    "names": [
-     "Everton",
-     "Everton F.C.",
-     "FC Everton",
-     "Эвертон",
-     "Everton Football Club",
-     "The Blues",
-     "Everton FC",
-     "The Toffees",
-     "EFC"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "FC Brentford",
-     "en": "Brentford F.C.",
-     "ru": "Брентфорд"
-    },
-    "name": "Brentford",
-    "names": [
-     "Brentford",
-     "Brentford F.C.",
-     "FC Brentford",
-     "Брентфорд",
-     "Brentford Football Club",
-     "Brentford FC",
-     "The Bees",
-     "BFC"
-    ]
-   },
-   "id": "thesportsdb:2494106",
-   "league": "Premier League",
-   "leagueLabel": {
-    "ru": "Премьер-лига"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795464000
-  },
-  {
-   "away": {
-    "label": {
-     "de": "FC Elche",
-     "en": "Elche CF",
-     "ru": "Эльче"
-    },
-    "name": "Elche",
-    "names": [
-     "Elche",
-     "Elche CF",
-     "FC Elche",
-     "Эльче",
-     "Elche Club de Futbol"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Levante UD",
-     "en": "Levante UD",
-     "ru": "Леванте"
-    },
-    "name": "Levante",
-    "names": [
-     "Levante",
-     "Levante UD",
-     "Леванте",
-     "FC Levante",
-     "Levante Unión Deportiva",
-     "Levante Union Deportiva",
-     "Levante U.D.",
-     "UD Levante",
-     "Levante UD Football",
-     "Levante Football Club",
-     "Levante FC",
-     "Levante Sports Union"
-    ]
-   },
-   "id": "thesportsdb:2506292",
-   "league": "La Liga",
-   "leagueLabel": {
-    "ru": "Ла Лига"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795464000
-  },
   {
    "away": {
     "label": {
@@ -6023,9 +5810,311 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1795982400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Trabzonspor",
+     "en": "Trabzonspor",
+     "ru": "Трабзонспор"
+    },
+    "name": "Trabzonspor",
+    "names": [
+     "Trabzonspor",
+     "Трабзонспор",
+     "Trabzonspor Kulübü",
+     "Трабзонспор Трабзон"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Göztepe Izmir",
+     "en": "Göztepe S.K.",
+     "ru": "Гёзтепе"
+    },
+    "name": "Göztepe",
+    "names": [
+     "Göztepe",
+     "Гёзтепе",
+     "Göztepe S.K.",
+     "Göztepe Izmir",
+     "Göztepe SK",
+     "Göztepe A.Ş.",
+     "Göztepe Sportif Yatırımlar A.Ş.",
+     "Goztepe Izmir"
+    ]
+   },
+   "id": "thesportsdb:2527834",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796054400
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Spartak Moskau",
+     "en": "Spartak Moscow",
+     "ru": "Спартак"
+    },
+    "name": "Spartak Moscow",
+    "names": [
+     "Spartak Moscow",
+     "Spartak Moskau",
+     "Спартак",
+     "FC Spartak Moscow",
+     "Spartak Moskva",
+     "Народная команда",
+     "ФК Спартак Москва",
+     "Спартак Москва",
+     "Спартак-Москва",
+     "ФК Спартак",
+     "ФКСМ",
+     "Московский футбольный клуб \"Спартак\"",
+     "FCSM",
+     "Футбольный клуб Спартак Москва"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FK Fakel Woronesch",
+     "en": "FC Fakel Voronezh",
+     "ru": "Факел"
+    },
+    "name": "Fakel Voronezh",
+    "names": [
+     "Fakel Voronezh",
+     "Факел",
+     "FC Fakel Voronezh",
+     "FK Fakel Woronesch",
+     "Fakel Woronesch",
+     "Факел Воронеж",
+     "Футбольный клуб Факел Воронеж",
+     "Fakel Voronezh Logo"
+    ]
+   },
+   "id": "thesportsdb:2501984",
+   "league": "Russian Premier League",
+   "leagueLabel": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796056200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Atalanta Bergamo",
+     "en": "Atalanta BC",
+     "ru": "Аталанта"
+    },
+    "name": "Atalanta",
+    "names": [
+     "Atalanta",
+     "Atalanta BC",
+     "Atalanta Bergamo",
+     "Аталанта",
+     "Atalanta Bergamasca Calcio",
+     "Atalanta B.C.",
+     "AtalantaBC",
+     "AtalantaB.C."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "U.S. Lecce",
+     "en": "US Lecce",
+     "ru": "Лечче"
+    },
+    "name": "Lecce",
+    "names": [
+     "Lecce",
+     "US Lecce",
+     "U.S. Lecce",
+     "Лечче",
+     "Unione Sportiva Lecce",
+     "USLecce",
+     "U.S.Lecce",
+     "U.S.L.",
+     "Lecce Sports Union"
+    ]
+   },
+   "id": "thesportsdb:2482266",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796059800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Galatasaray Istanbul",
+     "en": "Galatasaray S.K.",
+     "ru": "Галатасарай"
+    },
+    "name": "Galatasaray",
+    "names": [
+     "Galatasaray",
+     "Галатасарай",
+     "Galatasaray S.K.",
+     "Galatasaray Istanbul",
+     "Cim bom",
+     "Galatasaray Spor Klübü",
+     "Галатасарай Стамбул",
+     "Galatasaray Spor Kulübü",
+     "ФК Галатасарай",
+     "Galatasaray S. K.",
+     "Galatasaray SK",
+     "Galatasaray S K",
+     "Cimbom",
+     "Galatasaray AŞ",
+     "Galatasaray Sports Club"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Beşiktaş Istanbul",
+     "en": "Beşiktaş J.K.",
+     "ru": "Бешикташ"
+    },
+    "name": "Beşiktaş",
+    "names": [
+     "Beşiktaş",
+     "Beşiktaş Istanbul",
+     "Beşiktaş J.K.",
+     "Бешикташ",
+     "Beşiktaş Jimnastik Kulübü",
+     "Beşiktaş JK",
+     "Besiktas JK",
+     "Besiktas Jimnastik Kulübü",
+     "Besiktas Istanbul",
+     "Бешикташ Стамбул",
+     "ФК Бешикташ",
+     "BJK",
+     "Besiktas",
+     "Besiktas J.K.",
+     "Besiktas Jimnastik Kulubu",
+     "B.J.K."
+    ]
+   },
+   "id": "thesportsdb:2527832",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796061600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AC Milan",
+     "en": "AC Milan",
+     "ru": "Милан"
+    },
+    "name": "AC Milan",
+    "names": [
+     "AC Milan",
+     "Milan",
+     "Милан",
+     "Associazione Calcio Milan",
+     "Association Football Milan",
+     "ACMilan",
+     "A.C. Milan",
+     "A.C.M.",
+     "ACM",
+     "A.C.Milan",
+     "ФК Милан",
+     "AC Mailand",
+     "Mailand"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Cagliari Calcio",
+     "en": "Cagliari Calcio",
+     "ru": "Кальяри"
+    },
+    "name": "Cagliari",
+    "names": [
+     "Cagliari",
+     "Cagliari Calcio",
+     "Кальяри"
+    ]
+   },
+   "id": "thesportsdb:2482259",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796067900
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Getafe",
+     "en": "Getafe CF",
+     "ru": "Хетафе"
+    },
+    "name": "Getafe",
+    "names": [
+     "Getafe",
+     "Getafe CF",
+     "FC Getafe",
+     "Хетафе",
+     "Getafe Club de Fútbol",
+     "Getafe Club de Futbol",
+     "Getafe Club de Fútbol Team",
+     "Getafe Football Club",
+     "Getafe Club of Football",
+     "Getafe C.F."
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Espanyol Barcelona",
+     "en": "RCD Espanyol de Barcelona",
+     "ru": "Эспаньол"
+    },
+    "name": "Espanyol",
+    "names": [
+     "Espanyol",
+     "RCD Espanyol de Barcelona",
+     "Espanyol Barcelona",
+     "Эспаньол",
+     "RCDE",
+     "RCD Espanyol",
+     "R.C.D. Espanyol de Barcelona",
+     "R.C.D. Espanyol of Barcelona",
+     "R.C.D. Espanyol",
+     "RCD Espanyol of Barcelona",
+     "Espanyol of Barcelona"
+    ]
+   },
+   "id": "thesportsdb:2506303",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796068800
   }
  ],
- "generated": 1795425142,
+ "generated": 1795481991,
  "leagues": [
   {
    "label": {

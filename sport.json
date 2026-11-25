@@ -4,119 +4,6 @@
   {
    "away": {
     "label": {
-     "de": "FC Barcelona",
-     "en": "FC Barcelona",
-     "ru": "Барселона"
-    },
-    "name": "FC Barcelona",
-    "names": [
-     "FC Barcelona",
-     "Barcelona",
-     "FCB",
-     "Барселона",
-     "Fútbol Club Barcelona",
-     "Barcelona FC",
-     "F.C. Barcelona",
-     "Barcelona Football Club",
-     "Football Club of Barcelona",
-     "FC Barcelona Football",
-     "Barcelona Football",
-     "FCBarcelona",
-     "F.C.B.",
-     "F.C.Barcelona",
-     "Football Club Barcelona",
-     "ФК Барселона",
-     "ФК «Барселона»",
-     "«Барселона»"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Sabah FA",
-     "en": "Sabah F.C."
-    },
-    "name": "Sabah",
-    "names": [
-     "Sabah",
-     "Sabah F.C.",
-     "Sabah FA",
-     "Sabah Football Club",
-     "Sabah FC",
-     "Sabah Football Club Sdn Bhd",
-     "Persatuan Bola Sepak Sabah"
-    ]
-   },
-   "id": "openligadb:87469",
-   "league": "Champions League",
-   "leagueLabel": {
-    "ru": "Лига чемпионов"
-   },
-   "source": "OpenLigaDB",
-   "sport": "soccer",
-   "start": 1795628700
-  },
-  {
-   "away": {
-    "label": {
-     "de": "FC Villarreal",
-     "en": "Villarreal CF",
-     "ru": "Вильярреал"
-    },
-    "name": "Villarreal CF",
-    "names": [
-     "Villarreal CF",
-     "Villarreal",
-     "FC Villarreal",
-     "Вильярреал",
-     "Villarreal Club de Futbol",
-     "Villarreal Club Football",
-     "Villarreal 1923",
-     "Villarreal Club de Fútbol 1923",
-     "Villarreal Club de Fútbol",
-     "Villarreal Club of Football",
-     "Villarreal CF 1923",
-     "Villarreal C.F.",
-     "VCF"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Slavia Prag",
-     "en": "SK Slavia Prague",
-     "ru": "Славия"
-    },
-    "name": "Slavia Prag",
-    "names": [
-     "Slavia Prag",
-     "Славия",
-     "SK Slavia Prague",
-     "SK Slavia Prag",
-     "SK Slavia Praha",
-     "Slavia Praha",
-     "Slavia Prague",
-     "S.K. Slavia Prague",
-     "SlaviaPrague",
-     "Slavia Prague Football",
-     "Slavia Prague FC",
-     "Славия Прага",
-     "ФК «Славия Прага»",
-     "«Славия Прага»",
-     "ФК «Славия»",
-     "«Славия»"
-    ]
-   },
-   "id": "openligadb:87470",
-   "league": "Champions League",
-   "leagueLabel": {
-    "ru": "Лига чемпионов"
-   },
-   "source": "OpenLigaDB",
-   "sport": "soccer",
-   "start": 1795628700
-  },
-  {
-   "away": {
-    "label": {
      "de": "VfB Stuttgart",
      "en": "VfB Stuttgart",
      "ru": "Штутгарт"
@@ -5729,9 +5616,441 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1796155200
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AFC Sunderland",
+     "en": "Sunderland A.F.C.",
+     "ru": "Сандерленд"
+    },
+    "name": "Sunderland",
+    "names": [
+     "Sunderland",
+     "Sunderland A.F.C.",
+     "AFC Sunderland",
+     "Сандерленд",
+     "Sunderland Association Football Club",
+     "The Black Cats",
+     "Sunderland AFC",
+     "SAFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Liverpool",
+     "en": "Liverpool F.C.",
+     "ru": "Ливерпуль"
+    },
+    "name": "Liverpool",
+    "names": [
+     "Liverpool",
+     "Liverpool F.C.",
+     "Ливерпуль",
+     "FC Liverpool",
+     "ФК Ливерпуль",
+     "ФК «Ливерпуль»",
+     "«Ливерпуль»",
+     "Мерсисайдцы",
+     "F.C. Liverpool",
+     "The Reds",
+     "LiverpoolFC",
+     "LiverpoolF.C.",
+     "L.F.C."
+    ]
+   },
+   "id": "thesportsdb:2494122",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796239800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Crystal Palace",
+     "en": "Crystal Palace F.C.",
+     "ru": "Кристал Пэлас"
+    },
+    "name": "Crystal Palace",
+    "names": [
+     "Crystal Palace",
+     "Crystal Palace F.C.",
+     "Кристал Пэлас",
+     "Crystal Palace Football Club",
+     "Crystal Palace FC",
+     "Palace",
+     "The Eagles",
+     "The Glaziers",
+     "CPFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Chelsea",
+     "en": "Chelsea F.C.",
+     "ru": "Челси"
+    },
+    "name": "Chelsea",
+    "names": [
+     "Chelsea",
+     "Chelsea F.C.",
+     "FC Chelsea",
+     "Челси",
+     "Chelsea Football Club",
+     "Chelsea FC",
+     "The Blues",
+     "The Pensioners",
+     "CFC",
+     "Chelsea London"
+    ]
+   },
+   "id": "thesportsdb:2494124",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796239800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Leeds United",
+     "en": "Leeds United F.C.",
+     "ru": "Лидс Юнайтед"
+    },
+    "name": "Leeds United",
+    "names": [
+     "Leeds United",
+     "Leeds United F.C.",
+     "Лидс Юнайтед",
+     "ФК «Лидс Юнайтед»",
+     "«Лидс Юнайтед»",
+     "Leeds United A.F.C.",
+     "Leeds United LFC",
+     "Leeds United Football Club",
+     "Leeds United FC",
+     "Leeds United Association Football Club",
+     "Leeds United AFC",
+     "Leeds",
+     "United",
+     "The Peacocks",
+     "LUFC",
+     "L.U.F.C.",
+     "Leeds Utd",
+     "LeedsUnited"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Manchester City",
+     "en": "Manchester City F.C.",
+     "ru": "Манчестер Сити"
+    },
+    "name": "Manchester City",
+    "names": [
+     "Manchester City",
+     "Manchester City F.C.",
+     "Манчестер Сити",
+     "Manchester City Football Club",
+     "The Citizens",
+     "Manchester City FC",
+     "Man City",
+     "Manchester City F.C. Soccer",
+     "Citizens",
+     "Sky Blues",
+     "MCFC",
+     "City",
+     "The Sky Blues",
+     "The Blues"
+    ]
+   },
+   "id": "thesportsdb:2494125",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796239800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Nottingham Forest",
+     "en": "Nottingham Forest F.C.",
+     "ru": "Ноттингем Форест"
+    },
+    "name": "Nottingham Forest",
+    "names": [
+     "Nottingham Forest",
+     "Nottingham Forest F.C.",
+     "Ноттингем Форест",
+     "Nottingham Forest Football Club",
+     "Nottingham Forest FC",
+     "Forest",
+     "The Reds",
+     "Tricky Trees",
+     "NFFC",
+     "Nottm Forest"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Hull City",
+     "en": "Hull City A.F.C.",
+     "ru": "Халл Сити"
+    },
+    "name": "Hull City",
+    "names": [
+     "Hull City",
+     "Hull City A.F.C.",
+     "Халл Сити",
+     "Hull City Association Football Club",
+     "Hull City AFC",
+     "Hull",
+     "The Tigers",
+     "City",
+     "HCAFC"
+    ]
+   },
+   "id": "thesportsdb:2494127",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796239800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Manchester United",
+     "en": "Manchester United F.C.",
+     "ru": "Манчестер Юнайтед"
+    },
+    "name": "Manchester United",
+    "names": [
+     "Manchester United",
+     "Manchester United F.C.",
+     "Манчестер Юнайтед",
+     "Man United",
+     "MUFC",
+     "Manchester United Football Club",
+     "Manchester United FC",
+     "Man Utd",
+     "Red Devils",
+     "Man U",
+     "United",
+     "ManU",
+     "Newton Heath FC",
+     "Newton Heath",
+     "Newton Heath F.C.",
+     "Man U.",
+     "ManUtd",
+     "Manchester Utd.",
+     "Красные Дьяволы",
+     "ФК МЮ",
+     "Ман Ютд",
+     "Ман Юнайтед",
+     "МЮН",
+     "Красные"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Newcastle United",
+     "en": "Newcastle United F.C.",
+     "ru": "Ньюкасл Юнайтед"
+    },
+    "name": "Newcastle United",
+    "names": [
+     "Newcastle United",
+     "Newcastle United F.C.",
+     "Ньюкасл Юнайтед",
+     "Newcastle United Football Club",
+     "Newcastle United FC",
+     "Newcastle",
+     "The Magpies",
+     "NUFC"
+    ]
+   },
+   "id": "thesportsdb:2494120",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796242500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Brighton & Hove Albion",
+     "en": "Brighton & Hove Albion F.C.",
+     "ru": "Брайтон энд Хоув Альбион"
+    },
+    "name": "Brighton and Hove Albion",
+    "names": [
+     "Brighton and Hove Albion",
+     "Brighton & Hove Albion F.C.",
+     "Brighton & Hove Albion",
+     "Брайтон энд Хоув Альбион",
+     "Brighton and Hove Albion F.C.",
+     "Brighton & Hove Albion Football Club",
+     "Brighton and Hove Albion Football Club",
+     "Brighton & Hove",
+     "Brighton and Hove Albion FC",
+     "Brighton & Hove Albion FC",
+     "Brighton",
+     "Brighton and Hove",
+     "The Seagulls",
+     "Albion",
+     "BHAFC",
+     "Brighton F.C.",
+     "Brighton FC",
+     "BHA"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "AFC Bournemouth",
+     "en": "AFC Bournemouth",
+     "ru": "Борнмут"
+    },
+    "name": "Bournemouth",
+    "names": [
+     "Bournemouth",
+     "AFC Bournemouth",
+     "Борнмут",
+     "Bournemouth and Boscombe Athletic F.C.",
+     "Bournemouth and Boscombe Athletic",
+     "Boscombe F.C.",
+     "Boscombe",
+     "Boscombe Football Club",
+     "Boscombe FC",
+     "Bournemouth and Boscombe Athletic FC",
+     "The Cherries",
+     "A.F.C. Bournemouth",
+     "AFCB"
+    ]
+   },
+   "id": "thesportsdb:2494121",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796242500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Arsenal",
+     "en": "Arsenal F.C.",
+     "ru": "Арсенал"
+    },
+    "name": "Arsenal",
+    "names": [
+     "Arsenal",
+     "Arsenal F.C.",
+     "FC Arsenal",
+     "Арсенал",
+     "AFC",
+     "Arsenal Football Club",
+     "The Arsenal",
+     "The Ars",
+     "The Arsenal F.C.",
+     "The Arsenal FC",
+     "A.F.C.",
+     "Arsenal London"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Brentford",
+     "en": "Brentford F.C.",
+     "ru": "Брентфорд"
+    },
+    "name": "Brentford",
+    "names": [
+     "Brentford",
+     "Brentford F.C.",
+     "FC Brentford",
+     "Брентфорд",
+     "Brentford Football Club",
+     "Brentford FC",
+     "The Bees",
+     "BFC"
+    ]
+   },
+   "id": "thesportsdb:2494126",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796242500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "FC Everton",
+     "en": "Everton F.C.",
+     "ru": "Эвертон"
+    },
+    "name": "Everton",
+    "names": [
+     "Everton",
+     "Everton F.C.",
+     "FC Everton",
+     "Эвертон",
+     "Everton Football Club",
+     "The Blues",
+     "Everton FC",
+     "The Toffees",
+     "EFC"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Aston Villa",
+     "en": "Aston Villa F.C.",
+     "ru": "Астон Вилла"
+    },
+    "name": "Aston Villa",
+    "names": [
+     "Aston Villa",
+     "Aston Villa F.C.",
+     "Астон Вилла",
+     "Aston Villa Football Club",
+     "Aston Villa FC",
+     "Villa",
+     "The Villans",
+     "The Villa",
+     "AVFC"
+    ]
+   },
+   "id": "thesportsdb:2494128",
+   "league": "Premier League",
+   "leagueLabel": {
+    "ru": "Премьер-лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796242500
   }
  ],
- "generated": 1795600464,
+ "generated": 1795646199,
  "leagues": [
   {
    "label": {

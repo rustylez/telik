@@ -1,83 +1,6 @@
 {
- "credit": "TheSportsDB, OpenLigaDB",
+ "credit": "OpenLigaDB, TheSportsDB",
  "events": [
-  {
-   "away": {
-    "label": {
-     "de": "Konyaspor",
-     "en": "Konyaspor",
-     "ru": "Коньяспор"
-    },
-    "name": "Konyaspor",
-    "names": [
-     "Konyaspor",
-     "Коньяспор"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Alanyaspor",
-     "en": "Alanyaspor",
-     "ru": "Аланьяспор"
-    },
-    "name": "Alanyaspor",
-    "names": [
-     "Alanyaspor",
-     "Аланьяспор"
-    ]
-   },
-   "id": "thesportsdb:2527835",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795798800
-  },
-  {
-   "away": {
-    "label": {
-     "de": "Kasımpaşa Istanbul",
-     "en": "Kasımpaşa S.K.",
-     "ru": "Касымпаша"
-    },
-    "name": "Kasımpaşa",
-    "names": [
-     "Kasımpaşa",
-     "Касымпаша",
-     "Kasımpaşa S.K.",
-     "Kasımpaşa Istanbul",
-     "Kasımpaşa SK",
-     "Kasımpaşa Spor Kulübü"
-    ]
-   },
-   "home": {
-    "label": {
-     "de": "Çaykur Rizespor",
-     "en": "Çaykur Rizespor",
-     "ru": "Ризеспор"
-    },
-    "name": "Rizespor",
-    "names": [
-     "Rizespor",
-     "Ризеспор",
-     "Çaykur Rizespor",
-     "Чайкур Ризеспор",
-     "Caykur Rizespor"
-    ]
-   },
-   "id": "thesportsdb:2527836",
-   "league": "Süper Lig",
-   "leagueLabel": {
-    "en": "Turkish Süper Lig",
-    "ru": "Суперлига Турции"
-   },
-   "source": "TheSportsDB",
-   "sport": "soccer",
-   "start": 1795798800
-  },
   {
    "away": {
     "label": {
@@ -3934,9 +3857,341 @@
    "source": "TheSportsDB",
    "sport": "soccer",
    "start": 1796328000
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Krylja Sowetow Samara",
+     "en": "FC Krylia Sovetov Samara",
+     "ru": "Крылья Советов"
+    },
+    "name": "Krylia Sovetov Samara",
+    "names": [
+     "Krylia Sovetov Samara",
+     "Krylja Sowetow Samara",
+     "Крылья Советов",
+     "FC Krylia Sovetov Samara",
+     "Krylja Sowetow Kujbyschew",
+     "Krylja Sowjetow Samara",
+     "FC Krylya Sovetov Samara",
+     "Krylya Sovetov Samara",
+     "Зенит Куйбышев",
+     "Крылья Советов-2",
+     "Крылья Советов Куйбышев",
+     "ФК КС",
+     "Крылья Советов Самара",
+     "ФК Крылья Советов",
+     "Зенит",
+     "PFC Krylia Sovetov"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FK Dynamo Machatschkala",
+     "en": "FC Dynamo Makhachkala",
+     "ru": "Динамо Махачкала"
+    },
+    "name": "Dynamo Makhachkala",
+    "names": [
+     "Dynamo Makhachkala",
+     "Динамо",
+     "FC Dynamo Makhachkala",
+     "FK Dynamo Machatschkala",
+     "Dynamo Machatschkala",
+     "Динамо Махачкала",
+     "Темп"
+    ]
+   },
+   "id": "thesportsdb:2501992",
+   "league": "Russian Premier League",
+   "leagueLabel": {
+    "de": "Russische Premjer-Liga",
+    "ru": "РПЛ"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796401800
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Çaykur Rizespor",
+     "en": "Çaykur Rizespor",
+     "ru": "Ризеспор"
+    },
+    "name": "Rizespor",
+    "names": [
+     "Rizespor",
+     "Ризеспор",
+     "Çaykur Rizespor",
+     "Чайкур Ризеспор",
+     "Caykur Rizespor"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Galatasaray Istanbul",
+     "en": "Galatasaray S.K.",
+     "ru": "Галатасарай"
+    },
+    "name": "Galatasaray",
+    "names": [
+     "Galatasaray",
+     "Галатасарай",
+     "Galatasaray S.K.",
+     "Galatasaray Istanbul",
+     "Cim bom",
+     "Galatasaray Spor Klübü",
+     "Галатасарай Стамбул",
+     "Galatasaray Spor Kulübü",
+     "ФК Галатасарай",
+     "Galatasaray S. K.",
+     "Galatasaray SK",
+     "Galatasaray S K",
+     "Cimbom",
+     "Galatasaray AŞ",
+     "Galatasaray Sports Club"
+    ]
+   },
+   "id": "thesportsdb:2527844",
+   "league": "Süper Lig",
+   "leagueLabel": {
+    "en": "Turkish Süper Lig",
+    "ru": "Суперлига Турции"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796403600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "SC Paderborn 07",
+     "en": "SC Paderborn 07",
+     "ru": "Падерборн 07"
+    },
+    "name": "SC Paderborn 07",
+    "names": [
+     "SC Paderborn 07",
+     "Paderborn 07",
+     "SC Paderborn",
+     "Paderborn",
+     "Падерборн 07",
+     "Падерборн",
+     "ФК Падерборн 07",
+     "ФК Падерборн",
+     "TuS Schloss Neuhaus",
+     "SV 1907 Schloss Neuhaus",
+     "1907 Schloss Neuhaus",
+     "Sport-Club Paderborn 07 e.V.",
+     "SCP 07",
+     "Die Ostwestfalen"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Bayern München",
+     "en": "FC Bayern Munich",
+     "ru": "Бавария"
+    },
+    "name": "FC Bayern München",
+    "names": [
+     "FC Bayern München",
+     "Bayern München",
+     "Bayern",
+     "FC Bayern Munich",
+     "Bayern Munich",
+     "Бавария",
+     "FCB",
+     "FC Bayern",
+     "Fußball-Club Bayern München e. V.",
+     "Bayern Muenchen",
+     "Bayern Munchen",
+     "FC Bayern Muenchen",
+     "FC Bayern Munchen",
+     "FCBM",
+     "Munich",
+     "FCBM 1900",
+     "FCB Munich",
+     "Bayern of Munich",
+     "F.C. Bayern Munich",
+     "Die Bayernf",
+     "FC Hollywood",
+     "Hollywood",
+     "FC Bavaria Munich",
+     "Bavaria Munich",
+     "ФК Бавария Мюнхен",
+     "Бавария Мюнхен"
+    ]
+   },
+   "id": "openligadb:83255",
+   "league": "Bundesliga",
+   "leagueLabel": {
+    "ru": "Бундеслига"
+   },
+   "source": "OpenLigaDB",
+   "sport": "soccer",
+   "start": 1796412600
+  },
+  {
+   "away": {
+    "label": {
+     "de": "AS Rom",
+     "en": "AS Roma",
+     "ru": "Рома"
+    },
+    "name": "Roma",
+    "names": [
+     "Roma",
+     "AS Rom",
+     "AS Roma",
+     "Рома",
+     "Associazione Sportiva Roma",
+     "ASR",
+     "ASRoma",
+     "A.S.R",
+     "La Roma",
+     "A.S.Roma",
+     "ASR 1927",
+     "A.S.R 1927",
+     "The Wolfs",
+     "Rome Sport Association",
+     "A.S. Rome",
+     "A.S.Rome",
+     "A.S. Roma"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Bologna",
+     "en": "Bologna F.C. 1909",
+     "ru": "Болонья"
+    },
+    "name": "Bologna",
+    "names": [
+     "Bologna",
+     "Bologna F.C. 1909",
+     "Bologna F.C.",
+     "FC Bologna",
+     "Болонья",
+     "Bologna Football Club 1909",
+     "Bologna Football Club",
+     "BFC1909",
+     "Bologna FC 1909",
+     "Bologna FC",
+     "BolognaFC1909"
+    ]
+   },
+   "id": "thesportsdb:2482273",
+   "league": "Serie A",
+   "leagueLabel": {
+    "ru": "Серия А"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796413500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Paris Saint-Germain",
+     "en": "Paris Saint-Germain FC",
+     "ru": "Пари Сен-Жермен"
+    },
+    "name": "Paris Saint-Germain",
+    "names": [
+     "Paris Saint-Germain",
+     "Пари Сен-Жермен",
+     "Paris Saint-Germain FC",
+     "Пари-Сен-Жермен Париж",
+     "Пари-Сен-Жермен",
+     "ПСЖ",
+     "Пари Сен Жермен",
+     "FC Paris St. Germain",
+     "Paris St. Germain",
+     "Paris St.-Germain",
+     "PSGFC",
+     "Paris"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "FC Toulouse",
+     "en": "Toulouse FC",
+     "ru": "Тулуза"
+    },
+    "name": "Toulouse",
+    "names": [
+     "Toulouse",
+     "FC Toulouse",
+     "Toulouse FC",
+     "Тулуза",
+     "ФК Тулуза",
+     "Toulouse Football Club",
+     "Toulouse F.C.",
+     "TFC"
+    ]
+   },
+   "id": "thesportsdb:2489575",
+   "league": "Ligue 1",
+   "leagueLabel": {
+    "ru": "Лига 1"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796413500
+  },
+  {
+   "away": {
+    "label": {
+     "de": "Espanyol Barcelona",
+     "en": "RCD Espanyol de Barcelona",
+     "ru": "Эспаньол"
+    },
+    "name": "Espanyol",
+    "names": [
+     "Espanyol",
+     "RCD Espanyol de Barcelona",
+     "Espanyol Barcelona",
+     "Эспаньол",
+     "RCDE",
+     "RCD Espanyol",
+     "R.C.D. Espanyol de Barcelona",
+     "R.C.D. Espanyol of Barcelona",
+     "R.C.D. Espanyol",
+     "RCD Espanyol of Barcelona",
+     "Espanyol of Barcelona"
+    ]
+   },
+   "home": {
+    "label": {
+     "de": "Deportivo Alavés",
+     "en": "Deportivo Alavés",
+     "ru": "Алавес"
+    },
+    "name": "Deportivo Alavés",
+    "names": [
+     "Deportivo Alavés",
+     "Алавес",
+     "Deportivo Alaves",
+     "Alavés",
+     "Alaves",
+     "Deportivo Alaves Soccer",
+     "Alaves Football",
+     "Alaves Soccer"
+    ]
+   },
+   "id": "thesportsdb:2506314",
+   "league": "La Liga",
+   "leagueLabel": {
+    "ru": "Ла Лига"
+   },
+   "source": "TheSportsDB",
+   "sport": "soccer",
+   "start": 1796414400
   }
  ],
- "generated": 1795772634,
+ "generated": 1795817087,
  "leagues": [
   {
    "label": {
